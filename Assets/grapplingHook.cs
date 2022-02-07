@@ -38,9 +38,9 @@ public class grapplingHook : MonoBehaviour
 		{
 			targetPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 			targetPos.z = 0;
-
+			print(targetPos);
 			hit = Physics2D.Raycast(transform.position, targetPos - transform.position, distance, mask);
-
+			print(hit);
 			if (hit.collider != null && hit.collider.gameObject.GetComponent<Rigidbody2D>() != null)
 
 			{
@@ -58,16 +58,18 @@ public class grapplingHook : MonoBehaviour
 
 				line.enabled = true;
 				line.SetPosition(0, transform.position);
-				line.SetPosition(1, hit.point);
-
+				//line.SetPosition(1, hit.point);
+				line.SetPosition(1, joint.connectedBody.transform.TransformPoint(joint.connectedAnchor));
 				//line.GetComponent<roperatio>().grabPos = hit.point;
 
 
 			}
-		}
-		line.SetPosition(1, joint.connectedBody.transform.TransformPoint(joint.connectedAnchor));
+			
 
-		if (Input.GetKey(KeyCode.E))
+		}
+
+
+		else if (Input.GetKey(KeyCode.E))
 		{
 
 			line.SetPosition(0, transform.position);
