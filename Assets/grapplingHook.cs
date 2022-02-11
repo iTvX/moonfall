@@ -36,14 +36,16 @@ public class grapplingHook : MonoBehaviour
 
 		if (Input.GetKeyDown(KeyCode.E))
 		{
+			print("shooting hook");
 			targetPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 			targetPos.z = 0;
 
 			hit = Physics2D.Raycast(transform.position, targetPos - transform.position, distance, mask);
-
-			if (hit.collider != null && hit.collider.gameObject.GetComponent<Rigidbody2D>() != null)
+			print("hit? " + hit.collider);
+			if (hit.collider != null )
 
 			{
+				print("hit");
 				joint.enabled = true;
 				//	Debug.Log (hit.point - new Vector2(hit.collider.transform.position.x,hit.collider.transform.position.y);
 				Vector2 connectPoint = hit.point - new Vector2(hit.collider.transform.position.x, hit.collider.transform.position.y);
@@ -61,11 +63,12 @@ public class grapplingHook : MonoBehaviour
 				line.SetPosition(1, hit.point);
 
 				//line.GetComponent<roperatio>().grabPos = hit.point;
+				line.SetPosition(1, joint.connectedBody.transform.TransformPoint(joint.connectedAnchor));
 
 
 			}
+
 		}
-		line.SetPosition(1, joint.connectedBody.transform.TransformPoint(joint.connectedAnchor));
 
 		if (Input.GetKey(KeyCode.E))
 		{
