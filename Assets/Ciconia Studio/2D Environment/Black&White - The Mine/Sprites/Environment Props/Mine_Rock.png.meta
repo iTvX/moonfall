@@ -1,0 +1,802 @@
+fileFormatVersion: 2
+guid: f04cdf852775593449abc237303307f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4143678136827283360
+    second: Marais_Rocher_0
+  - first:
+      213: -3308479970835500519
+    second: Marais_Rocher_1
+  - first:
+      213: -2474055723358533578
+    second: Marais_Rocher_2
+  - first:
+      213: 1034958045760573512
+    second: Marais_Rocher_3
+  - first:
+      213: -510808297223945364
+    second: Marais_Rocher_4
+  - first:
+      213: -7093102895321688112
+    second: Marais_Rocher_5
+  - first:
+      213: 7583499274529529926
+    second: Marais_Rocher_6
+  - first:
+      213: 8643102799678367779
+    second: Marais_Rocher_7
+  - first:
+      213: -8675436177168173238
+    second: Marais_Rocher_8
+  - first:
+      213: 8045792459054993019
+    second: Marais_Rocher_9
+  - first:
+      213: 670248152004923481
+    second: Marais_Rocher_10
+  - first:
+      213: -4727720789081456796
+    second: Marais_Rocher_11
+  - first:
+      213: -1191002964842096927
+    second: Marais_Rocher_12
+  - first:
+      213: 1154009952938208665
+    second: Marais_Rocher_13
+  - first:
+      213: 6352869975738791485
+    second: Marais_Rocher_14
+  - first:
+      213: 3850592796759193989
+    second: Marais_Rocher_15
+  - first:
+      213: 1376012275011621648
+    second: Marais_Rocher_16
+  - first:
+      213: -8433401846499200669
+    second: Marais_Rocher_17
+  - first:
+      213: -1882022480496669099
+    second: Marais_Rocher_18
+  - first:
+      213: 2478223899391353231
+    second: Marais_Rocher_19
+  - first:
+      213: 9150226248472561250
+    second: Marais_Rocher_20
+  - first:
+      213: 2017557153247137452
+    second: Marais_Rocher_21
+  - first:
+      213: -2968176748483451496
+    second: Marais_Rocher_22
+  - first:
+      213: 219161162780413038
+    second: Mine_Rock_0
+  - first:
+      213: -5292289213355712930
+    second: Mine_Rock_1
+  - first:
+      213: 3574134251226580738
+    second: Mine_Rock_2
+  - first:
+      213: 740984632219442898
+    second: Mine_Rock_3
+  - first:
+      213: -836647083054959031
+    second: Mine_Rock_4
+  - first:
+      213: -7944154100106171307
+    second: Mine_Rock_5
+  - first:
+      213: -6270072040176302934
+    second: Mine_Rock_6
+  - first:
+      213: -3954513592854984073
+    second: Mine_Rock_7
+  - first:
+      213: -1930790671989865723
+    second: Mine_Rock_8
+  - first:
+      213: 7853432059534311571
+    second: Mine_Rock_9
+  - first:
+      213: 1501429347896325269
+    second: Mine_Rock_10
+  - first:
+      213: 6303068903393090867
+    second: Mine_Rock_11
+  - first:
+      213: -8419280165388731005
+    second: Mine_Rock_12
+  - first:
+      213: 5014696708333140676
+    second: Mine_Rock_13
+  - first:
+      213: 2775339852532100728
+    second: Mine_Rock_14
+  - first:
+      213: -6917857589043766708
+    second: Mine_Rock_15
+  - first:
+      213: -547764626762075984
+    second: Mine_Rock_16
+  - first:
+      213: 6979609104089529542
+    second: Mine_Rock_17
+  - first:
+      213: 7572332602268117288
+    second: Mine_Rock_18
+  - first:
+      213: -4384095121712660210
+    second: Mine_Rock_19
+  - first:
+      213: 2792400418963514420
+    second: Mine_Rock_20
+  - first:
+      213: 2509141733253583123
+    second: Mine_Rock_21
+  - first:
+      213: -4541670940485121835
+    second: Mine_Rock_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mine_Rock_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1747
+        width: 598
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c86189aed9a0300800000000000000
+      internalID: 219161162780413038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_1
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1775
+        width: 507
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e1d4d00030e86b0800000000000000
+      internalID: -5292289213355712930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_2
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1710
+        width: 331
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207cae73a20e99130800000000000000
+      internalID: 3574134251226580738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_3
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1681
+        width: 395
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de967bd891884a00800000000000000
+      internalID: 740984632219442898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1402
+        width: 680
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946742429e1a364f0800000000000000
+      internalID: -836647083054959031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_5
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1402
+        width: 411
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c65369fe1b0c190800000000000000
+      internalID: -7944154100106171307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_6
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1402
+        width: 381
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4ce2123ba3cf8a0800000000000000
+      internalID: -6270072040176302934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_7
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1279
+        width: 279
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77acc66d6debe19c0800000000000000
+      internalID: -3954513592854984073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1112
+        width: 455
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50308641d147435e0800000000000000
+      internalID: -1930790671989865723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_9
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1109
+        width: 873
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390053059defcfc60800000000000000
+      internalID: 7853432059534311571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_10
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1111
+        width: 148
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594f4b8790626d410800000000000000
+      internalID: 1501429347896325269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_11
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1089
+        width: 309
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d5e85c5cff87750800000000000000
+      internalID: 6303068903393090867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 852
+        width: 524
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d338dfb45b82b80800000000000000
+      internalID: -8419280165388731005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_13
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 854
+        width: 343
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca74845618c79540800000000000000
+      internalID: 5014696708333140676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_14
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 854
+        width: 481
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e292934ecf38620800000000000000
+      internalID: 2775339852532100728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_15
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 824
+        width: 305
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a5e46dc25deff90800000000000000
+      internalID: -6917857589043766708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 50
+        width: 298
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0725169f2f568f0800000000000000
+      internalID: -547764626762075984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_17
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 608
+        width: 334
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccb658208d8cd060800000000000000
+      internalID: 6979609104089529542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_18
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 607
+        width: 322
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829ec4fb164561960800000000000000
+      internalID: 7572332602268117288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_19
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 603
+        width: 418
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e014bc8f6b09823c0800000000000000
+      internalID: -4384095121712660210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_20
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 48
+        width: 437
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434e8f2e26990c620800000000000000
+      internalID: 2792400418963514420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 42
+        width: 1050
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31110b5cc1342d220800000000000000
+      internalID: 2509141733253583123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock_22
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 46
+        width: 174
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d88ba9a75eb8f0c0800000000000000
+      internalID: -4541670940485121835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 47d86bae14807ab41a7c89c67de39fb2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mine_Rock_10: 1501429347896325269
+      Mine_Rock_19: -4384095121712660210
+      Mine_Rock_20: 2792400418963514420
+      Mine_Rock_6: -6270072040176302934
+      Mine_Rock_18: 7572332602268117288
+      Mine_Rock_17: 6979609104089529542
+      Mine_Rock_16: -547764626762075984
+      Mine_Rock_4: -836647083054959031
+      Mine_Rock_7: -3954513592854984073
+      Mine_Rock_13: 5014696708333140676
+      Mine_Rock_9: 7853432059534311571
+      Mine_Rock_3: 740984632219442898
+      Mine_Rock_22: -4541670940485121835
+      Mine_Rock_5: -7944154100106171307
+      Mine_Rock_2: 3574134251226580738
+      Mine_Rock_14: 2775339852532100728
+      Mine_Rock_21: 2509141733253583123
+      Mine_Rock_1: -5292289213355712930
+      Mine_Rock_12: -8419280165388731005
+      Mine_Rock_8: -1930790671989865723
+      Mine_Rock_0: 219161162780413038
+      Mine_Rock_11: 6303068903393090867
+      Mine_Rock_15: -6917857589043766708
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1133 @@
+fileFormatVersion: 2
+guid: 9e5ce00c5aff09d4784013374419110a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6250811832599268105
+    second: Plank medium_Wood_0
+  - first:
+      213: -4867278258858870810
+    second: Plank medium_Wood_1
+  - first:
+      213: -7386251324511765924
+    second: Plank medium_Wood_2
+  - first:
+      213: 3333564708945736581
+    second: Plank medium_Wood_6
+  - first:
+      213: -8737172586199107233
+    second: Plank medium_Wood_7
+  - first:
+      213: -2908562508907211931
+    second: Plank medium_Wood_8
+  - first:
+      213: -6898662732836712004
+    second: Plank medium_Wood_3
+  - first:
+      213: -7123837546556409113
+    second: Plank medium_Wood_4
+  - first:
+      213: 123323410321585949
+    second: Plank small_Wood_2
+  - first:
+      213: 8014040272153483827
+    second: Plank small_Wood_3
+  - first:
+      213: 284421229314415495
+    second: Plank medium_Wood_5
+  - first:
+      213: 1505833591950452694
+    second: Debris_Wood_6
+  - first:
+      213: -2194550519617956033
+    second: Fence_Wood_0
+  - first:
+      213: 7376971465763846105
+    second: Fence_Wood_1
+  - first:
+      213: 1023467457034418717
+    second: Plank small_Wood_4
+  - first:
+      213: -8796721546082116185
+    second: Debris_Wood_5
+  - first:
+      213: 8735000410539621816
+    second: Debris_Wood_0
+  - first:
+      213: -5492877357918976301
+    second: Debris_Wood_1
+  - first:
+      213: 5588891457808133426
+    second: Debris_Wood_2
+  - first:
+      213: 5118148822130807151
+    second: Debris_Wood_3
+  - first:
+      213: 7790120812579666165
+    second: Debris_Wood_7
+  - first:
+      213: -1479367253459004391
+    second: Debris_Wood_9
+  - first:
+      213: 8537957386245631382
+    second: Debris_Wood_10
+  - first:
+      213: -8451498083040437888
+    second: Debris_Wood_8
+  - first:
+      213: -2603582265180021476
+    second: Debris_Wood_4
+  - first:
+      213: 7128674544457187483
+    second: Plank medium_Wood_9
+  - first:
+      213: 1214686954599204131
+    second: Rail_Wagon_2
+  - first:
+      213: 4379291110279397576
+    second: Rail_Wagon_0
+  - first:
+      213: 3003418198163782652
+    second: Fence_Wood_2
+  - first:
+      213: 8237624537177216076
+    second: Fence part_Wood_0
+  - first:
+      213: 144162136151017104
+    second: Wagon_Wheel_0
+  - first:
+      213: 1712140138774018853
+    second: Rail_Wagon_3
+  - first:
+      213: 6912932318948292410
+    second: Fence part_Wood_1
+  - first:
+      213: -7628664651886513719
+    second: Fence_Wood_3
+  - first:
+      213: -7332616081609563446
+    second: Fence part_Wood_2
+  - first:
+      213: -1394912629961173265
+    second: Mine_props2_35
+  - first:
+      213: 8154603263642007883
+    second: Fence_Wood_4
+  - first:
+      213: -3373906129833255747
+    second: Wagon_0
+  - first:
+      213: 521221273281388865
+    second: Rail_Wagon_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plank medium_Wood_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1090
+        width: 132
+        height: 944
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4bc18a1c7a049a0800000000000000
+      internalID: -6250811832599268105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank medium_Wood_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1202
+        width: 149
+        height: 831
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e73cb52634f37cb0800000000000000
+      internalID: -4867278258858870810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank medium_Wood_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1879
+        width: 882
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ab7bced83ce7990800000000000000
+      internalID: -7386251324511765924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank medium_Wood_6
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1324
+        width: 122
+        height: 709
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5833d78d073334e20800000000000000
+      internalID: 3333564708945736581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank medium_Wood_7
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1360
+        width: 90
+        height: 661
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59325a03d35fb680800000000000000
+      internalID: -8737172586199107233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank medium_Wood_8
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1068
+        width: 184
+        height: 967
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5631191fec5b2a7d0800000000000000
+      internalID: -2908562508907211931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank medium_Wood_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1686
+        width: 1027
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1da009bc60340a0800000000000000
+      internalID: -6898662732836712004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank medium_Wood_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1552
+        width: 1155
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea3aefbe7b032d90800000000000000
+      internalID: -7123837546556409113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank small_Wood_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1416
+        width: 554
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1735b00df126b100800000000000000
+      internalID: 123323410321585949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank small_Wood_3
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1315
+        width: 174
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a1265da27973f60800000000000000
+      internalID: 8014040272153483827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank medium_Wood_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1288
+        width: 910
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b9dd3e99772f300800000000000000
+      internalID: 284421229314415495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Wood_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1171
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7ae037cabc5e410800000000000000
+      internalID: 1505833591950452694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Wood_0
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 880
+        width: 708
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37d58cfde36b81e0800000000000000
+      internalID: -2194550519617956033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Wood_1
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 890
+        width: 260
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7fb079674406660800000000000000
+      internalID: 7376971465763846105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank small_Wood_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 647
+        width: 157
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a75b7ca36143e00800000000000000
+      internalID: 1023467457034418717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Wood_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 838
+        width: 28
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad10c16c54cbe580800000000000000
+      internalID: -8796721546082116185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Wood_0
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 661
+        width: 82
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdfa17e794f83970800000000000000
+      internalID: 8735000410539621816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Wood_1
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 661
+        width: 78
+        height: 497
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6047e352165c3b0800000000000000
+      internalID: -5492877357918976301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Wood_2
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 661
+        width: 100
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d6ede6b2bbf8d40800000000000000
+      internalID: 5588891457808133426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Wood_3
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1005
+        width: 94
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61d0b29c31570740800000000000000
+      internalID: 5118148822130807151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Wood_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 943
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8303fea911c1c60800000000000000
+      internalID: 7790120812579666165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Wood_9
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 905
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9141b3d225b387be0800000000000000
+      internalID: -1479367253459004391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Wood_10
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 947
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69de79ab10bec7670800000000000000
+      internalID: 8537957386245631382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Wood_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 872
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089da7c754f36ba80800000000000000
+      internalID: -8451498083040437888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Wood_4
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 663
+        width: 77
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d107469b73edbd0800000000000000
+      internalID: -2603582265180021476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank medium_Wood_9
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 6
+        width: 155
+        height: 872
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b908db59ab32ee260800000000000000
+      internalID: 7128674544457187483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rail_Wagon_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 435
+        width: 332
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325cf2a795f6bd010800000000000000
+      internalID: 1214686954599204131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rail_Wagon_0
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 560
+        width: 500
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0ca34ff0e56cc30800000000000000
+      internalID: 4379291110279397576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Wood_2
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 475
+        width: 816
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbfe7d30f84ea920800000000000000
+      internalID: 3003418198163782652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence part_Wood_0
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 471
+        width: 119
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c445d7b2fdbe15270800000000000000
+      internalID: 8237624537177216076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagon_Wheel_0
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 284
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096c753f2ba200200800000000000000
+      internalID: 144162136151017104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rail_Wagon_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 399
+        width: 282
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b3059826eb2c710800000000000000
+      internalID: 1712140138774018853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence part_Wood_1
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 19
+        width: 105
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37fa3b515bafef50800000000000000
+      internalID: 6912932318948292410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Wood_3
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 10
+        width: 482
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1b9b1eae9812690800000000000000
+      internalID: -7628664651886513719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence part_Wood_2
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 19
+        width: 120
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2685d06805d3a90800000000000000
+      internalID: -7332616081609563446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_props2_35
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 340
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe655768a5644ace0800000000000000
+      internalID: -1394912629961173265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Wood_4
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 14
+        width: 380
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b497f9d9678fa2170800000000000000
+      internalID: 8154603263642007883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagon_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 18
+        width: 410
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc96c9204a7d21d0800000000000000
+      internalID: -3373906129833255747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rail_Wagon_1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 51
+        width: 271
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141605b8cffbb3700800000000000000
+      internalID: 521221273281388865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 53506b4a575aa1b418921d383ff54467
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Debris_Wood_7: 7790120812579666165
+      Fence_Wood_1: 7376971465763846105
+      Debris_Wood_0: 8735000410539621816
+      Debris_Wood_5: -8796721546082116185
+      Plank small_Wood_4: 1023467457034418717
+      Plank medium_Wood_8: -2908562508907211931
+      Debris_Wood_6: 1505833591950452694
+      Debris_Wood_1: -5492877357918976301
+      Plank medium_Wood_1: -4867278258858870810
+      Plank medium_Wood_4: -7123837546556409113
+      Debris_Wood_2: 5588891457808133426
+      Plank medium_Wood_6: 3333564708945736581
+      Debris_Wood_4: -2603582265180021476
+      Plank medium_Wood_2: -7386251324511765924
+      Plank medium_Wood_3: -6898662732836712004
+      Plank small_Wood_2: 123323410321585949
+      Rail_Wagon_3: 1712140138774018853
+      Fence part_Wood_2: -7332616081609563446
+      Plank medium_Wood_9: 7128674544457187483
+      Plank medium_Wood_5: 284421229314415495
+      Fence_Wood_3: -7628664651886513719
+      Plank medium_Wood_0: -6250811832599268105
+      Debris_Wood_8: -8451498083040437888
+      Mine_props2_35: -1394912629961173265
+      Debris_Wood_3: 5118148822130807151
+      Rail_Wagon_1: 521221273281388865
+      Debris_Wood_10: 8537957386245631382
+      Rail_Wagon_2: 1214686954599204131
+      Fence_Wood_0: -2194550519617956033
+      Debris_Wood_9: -1479367253459004391
+      Plank small_Wood_3: 8014040272153483827
+      Fence_Wood_4: 8154603263642007883
+      Rail_Wagon_0: 4379291110279397576
+      Wagon_Wheel_0: 144162136151017104
+      Fence part_Wood_1: 6912932318948292410
+      Wagon_0: -3373906129833255747
+      Fence_Wood_2: 3003418198163782652
+      Plank medium_Wood_7: -8737172586199107233
+      Fence part_Wood_0: 8237624537177216076
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

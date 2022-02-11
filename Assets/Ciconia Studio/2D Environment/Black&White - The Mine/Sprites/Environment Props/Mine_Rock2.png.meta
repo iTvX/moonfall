@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 96d1cacaaf4341d4dbec49cb117e2ff6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 635877231080004122
+    second: Mine_Rock_1
+  - first:
+      213: -7951758335422468511
+    second: Mine_Rock_2
+  - first:
+      213: 4016112560497568496
+    second: Mine_Rocher2_2
+  - first:
+      213: 1234325034417620758
+    second: Mine_Rock_3
+  - first:
+      213: 2453571894554456019
+    second: Mine_Rock_4
+  - first:
+      213: 7594641830073769586
+    second: Mine_Rock_6
+  - first:
+      213: -6920661477852801158
+    second: Mine_Rock_7
+  - first:
+      213: 3073041666243041148
+    second: Mine_Rock_8
+  - first:
+      213: 2860739720933152241
+    second: Mine_Rock_9
+  - first:
+      213: 3391026453633914743
+    second: Mine_Rock_10
+  - first:
+      213: -7970060195298467411
+    second: Mine_Rock2_0
+  - first:
+      213: 508933137922068188
+    second: Mine_Rock2_1
+  - first:
+      213: -282917527848465765
+    second: Mine_Rock2_2
+  - first:
+      213: 1334314644556675307
+    second: Mine_Rock2_3
+  - first:
+      213: 7656583470284066959
+    second: Mine_Rock2_4
+  - first:
+      213: 8994800980215979211
+    second: Mine_Rock2_5
+  - first:
+      213: 6951117158956008672
+    second: Mine_Rock2_6
+  - first:
+      213: 4710713733876655738
+    second: Mine_Rock2_7
+  - first:
+      213: -3665487319517683218
+    second: Mine_Rock2_8
+  - first:
+      213: 7090182439770097797
+    second: Mine_Rock2_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mine_Rock2_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1522
+        width: 1311
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da121c4ca78a46190800000000000000
+      internalID: -7970060195298467411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock2_1
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1735
+        width: 382
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde05441ef7101700800000000000000
+      internalID: 508933137922068188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock2_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1003
+        width: 1482
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a4cd3e100e21cf0800000000000000
+      internalID: -282917527848465765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock2_3
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1474
+        width: 245
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8f6678910748210800000000000000
+      internalID: 1334314644556675307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock2_4
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1012
+        width: 399
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80d8639916a14a60800000000000000
+      internalID: 7656583470284066959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock2_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 510
+        width: 1030
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccdb13c5d3f3dc70800000000000000
+      internalID: 8994800980215979211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock2_6
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 690
+        width: 594
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e402bb3a34577060800000000000000
+      internalID: 6951117158956008672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock2_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 1179
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76a54abe21df5140800000000000000
+      internalID: 4710713733876655738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock2_8
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 331
+        width: 745
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1237714b2912dc0800000000000000
+      internalID: -3665487319517683218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Rock2_9
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 53
+        width: 409
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58885331d53656260800000000000000
+      internalID: 7090182439770097797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mine_Rock2_3: 1334314644556675307
+      Mine_Rock2_8: -3665487319517683218
+      Mine_Rock2_0: -7970060195298467411
+      Mine_Rock2_7: 4710713733876655738
+      Mine_Rock2_1: 508933137922068188
+      Mine_Rock2_5: 8994800980215979211
+      Mine_Rock2_9: 7090182439770097797
+      Mine_Rock2_4: 7656583470284066959
+      Mine_Rock2_2: -282917527848465765
+      Mine_Rock2_6: 6951117158956008672
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

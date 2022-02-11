@@ -1,0 +1,1108 @@
+fileFormatVersion: 2
+guid: d7dbeedd6bfc21743b90c375f661bf5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4428484200458630015
+    second: Pillar_Wood_0
+  - first:
+      213: -1493253001123856394
+    second: Pillar_Wood_1
+  - first:
+      213: -959004919005208463
+    second: Pillar_Wood_2
+  - first:
+      213: 6283885941634973785
+    second: Pillar_Wood_3
+  - first:
+      213: 7456998884865761917
+    second: Mushroom_6
+  - first:
+      213: 3087773120261298970
+    second: Mechanical_Wheel part_0
+  - first:
+      213: -7812473207227721367
+    second: Pillar_Iron_0
+  - first:
+      213: 5871951516493058275
+    second: Pillar_Iron_2
+  - first:
+      213: 5157640146187073321
+    second: Mushroom_5
+  - first:
+      213: -963686810955384888
+    second: Mechanical_Wheel_0
+  - first:
+      213: -7353627180057676051
+    second: Mushroom_4
+  - first:
+      213: 752055385294545092
+    second: Mushroom_3
+  - first:
+      213: -7250395611380032913
+    second: Wood_Structure_0
+  - first:
+      213: -8033342153869440209
+    second: Pillar_Iron_1
+  - first:
+      213: -919120100296521319
+    second: Pillar_Wood_4
+  - first:
+      213: 7377257856402252190
+    second: Pillar_Wood_5
+  - first:
+      213: -1685791367746160789
+    second: Mushroom_2
+  - first:
+      213: -9079387207952080606
+    second: Mushroom_1
+  - first:
+      213: -1392197911159380202
+    second: Mushroom_0
+  - first:
+      213: -2365473660537978582
+    second: Pulley_0
+  - first:
+      213: -2172467669903683407
+    second: Debris_Rock_0
+  - first:
+      213: -6574578536110265336
+    second: Debris_Rock_1
+  - first:
+      213: 8361687305777048821
+    second: Debris_Rock_2
+  - first:
+      213: -3265841458835266263
+    second: Debris_Rock_3
+  - first:
+      213: 4394767886012792526
+    second: Debris_Rock_4
+  - first:
+      213: -3652148344665332488
+    second: Plank small_Wood_0
+  - first:
+      213: -4830065032845542301
+    second: Debris_Rock_5
+  - first:
+      213: -4757728448542806962
+    second: Debris_Rock_6
+  - first:
+      213: -747616314182529942
+    second: Debris_Rock_7
+  - first:
+      213: 4347062739435252561
+    second: Debris_Rock_8
+  - first:
+      213: -3110225869497118808
+    second: Debris_Rock_9
+  - first:
+      213: -3309139463116521916
+    second: Platform_Wood_0
+  - first:
+      213: 6335921083876662278
+    second: Wood_Structure_1
+  - first:
+      213: -4603051262664808427
+    second: Wood_Structure_2
+  - first:
+      213: 1564511724950144528
+    second: Pipes_Small_0
+  - first:
+      213: 8349257744554278792
+    second: Pipes_Small_1
+  - first:
+      213: -6018960712178358609
+    second: Plank small_Wood_1
+  - first:
+      213: 7482169890789098864
+    second: Cage_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pillar_Wood_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858
+        width: 161
+        height: 1190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ccb32351dda82c0800000000000000
+      internalID: -4428484200458630015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar_Wood_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1401
+        width: 104
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fff93c9e46e64be0800000000000000
+      internalID: -1493253001123856394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar_Wood_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1393
+        width: 80
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170a7d07b1ee0b2f0800000000000000
+      internalID: -959004919005208463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar_Wood_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 850
+        width: 218
+        height: 1186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950493078f8d43750800000000000000
+      internalID: 6283885941634973785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_6
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1960
+        width: 163
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7268e61af49c7760800000000000000
+      internalID: 7456998884865761917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mechanical_Wheel part_0
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1918
+        width: 96
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b9c2c0b49f9da20800000000000000
+      internalID: 3087773120261298970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar_Iron_0
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1638
+        width: 145
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9695fe1a205849390800000000000000
+      internalID: -7812473207227721367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar_Iron_2
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1110
+        width: 266
+        height: 938
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e092e61bcc5d7150800000000000000
+      internalID: 5871951516493058275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_5
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1768
+        width: 179
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92736c8f26e939740800000000000000
+      internalID: 5157640146187073321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mechanical_Wheel_0
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1603
+        width: 326
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7764683fb40a2f0800000000000000
+      internalID: -963686810955384888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_4
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1654
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6310a7a0ba2f990800000000000000
+      internalID: -7353627180057676051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_3
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1527
+        width: 129
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0a6eb6366df6a00800000000000000
+      internalID: 752055385294545092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood_Structure_0
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1175
+        width: 409
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a54ae0b9b616b90800000000000000
+      internalID: -7250395611380032913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar_Iron_1
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1108
+        width: 241
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bc07f9fd5d38090800000000000000
+      internalID: -8033342153869440209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar_Wood_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 855
+        width: 100
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99987e37321ae33f0800000000000000
+      internalID: -919120100296521319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar_Wood_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 841
+        width: 139
+        height: 539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91e05b1fe8416660800000000000000
+      internalID: 7377257856402252190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_2
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1316
+        width: 158
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67f118ceadda98e0800000000000000
+      internalID: -1685791367746160789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_1
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1139
+        width: 179
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2216ac360798ff180800000000000000
+      internalID: -9079387207952080606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_0
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 899
+        width: 174
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617ed40406bedace0800000000000000
+      internalID: -1392197911159380202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulley_0
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 725
+        width: 164
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2147121d362c2fd0800000000000000
+      internalID: -2365473660537978582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Rock_0
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 992
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0de591a28d9d1e0800000000000000
+      internalID: -2172467669903683407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Rock_1
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 996
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c6d3fa7a762c4a0800000000000000
+      internalID: -6574578536110265336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Rock_2
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 987
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcebbf6d4eaa0470800000000000000
+      internalID: 8361687305777048821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Rock_3
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 997
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92561611f766da2d0800000000000000
+      internalID: -3265841458835266263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Rock_4
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 987
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece361c9b1a5dfc30800000000000000
+      internalID: 4394767886012792526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank small_Wood_0
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 955
+        width: 363
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f421313e66f05dc0800000000000000
+      internalID: -3652148344665332488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Rock_5
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 914
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cb433817928fcb0800000000000000
+      internalID: -4830065032845542301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Rock_6
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 912
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ce5defe2729fdb0800000000000000
+      internalID: -4757728448542806962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Rock_7
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 910
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c0ddc5ceeef95f0800000000000000
+      internalID: -747616314182529942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Rock_8
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 902
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bef50a78ed35c30800000000000000
+      internalID: 4347062739435252561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Rock_9
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 899
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afc465ec0246d4d0800000000000000
+      internalID: -3110225869497118808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Wood_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 731
+        height: 821
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e76bcd0339312d0800000000000000
+      internalID: -3309139463116521916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood_Structure_1
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 381
+        height: 621
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c506918a6bde750800000000000000
+      internalID: 6335921083876662278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood_Structure_2
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 0
+        width: 316
+        height: 852
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51863fdb34dae10c0800000000000000
+      internalID: -4603051262664808427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipes_Small_0
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 596
+        width: 152
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016469cef1346b510800000000000000
+      internalID: 1564511724950144528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipes_Small_1
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 540
+        width: 207
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f3652bea58ed370800000000000000
+      internalID: 8349257744554278792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank small_Wood_1
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 63
+        width: 96
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6a3914f1b587ca0800000000000000
+      internalID: -6018960712178358609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cage_0
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 46
+        width: 278
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0758b999fd106d760800000000000000
+      internalID: 7482169890789098864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2f9e8c307dab78c45b8777580251f051
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pillar_Wood_4: -919120100296521319
+      Pillar_Wood_2: -959004919005208463
+      Wood_Structure_0: -7250395611380032913
+      Mechanical_Wheel part_0: 3087773120261298970
+      Debris_Rock_7: -747616314182529942
+      Pillar_Wood_0: -4428484200458630015
+      Pulley_0: -2365473660537978582
+      Mechanical_Wheel_0: -963686810955384888
+      Platform_Wood_0: -3309139463116521916
+      Pipes_Small_1: 8349257744554278792
+      Pillar_Wood_5: 7377257856402252190
+      Cage_0: 7482169890789098864
+      Debris_Rock_3: -3265841458835266263
+      Mushroom_6: 7456998884865761917
+      Mushroom_3: 752055385294545092
+      Pillar_Wood_3: 6283885941634973785
+      Mushroom_4: -7353627180057676051
+      Debris_Rock_0: -2172467669903683407
+      Debris_Rock_4: 4394767886012792526
+      Debris_Rock_2: 8361687305777048821
+      Mushroom_1: -9079387207952080606
+      Plank small_Wood_0: -3652148344665332488
+      Pillar_Iron_2: 5871951516493058275
+      Debris_Rock_1: -6574578536110265336
+      Pipes_Small_0: 1564511724950144528
+      Debris_Rock_5: -4830065032845542301
+      Pillar_Iron_1: -8033342153869440209
+      Wood_Structure_2: -4603051262664808427
+      Pillar_Iron_0: -7812473207227721367
+      Mushroom_2: -1685791367746160789
+      Wood_Structure_1: 6335921083876662278
+      Mushroom_5: 5157640146187073321
+      Pillar_Wood_1: -1493253001123856394
+      Debris_Rock_6: -4757728448542806962
+      Debris_Rock_9: -3110225869497118808
+      Debris_Rock_8: 4347062739435252561
+      Mushroom_0: -1392197911159380202
+      Plank small_Wood_1: -6018960712178358609
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

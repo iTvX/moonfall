@@ -1,0 +1,761 @@
+fileFormatVersion: 2
+guid: 7af428674c93ea24f8fd08565cf92fa9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1505429210203129765
+    second: Mechanical_Wheel_1
+  - first:
+      213: 2543379014834505839
+    second: Mechanical_Wheel_2
+  - first:
+      213: -2101743140192553723
+    second: Mechanical_Wheel_3
+  - first:
+      213: -6426565803416209287
+    second: Lamp_0
+  - first:
+      213: 1282705906034350351
+    second: Chains_0
+  - first:
+      213: -5722808012858491667
+    second: Chains_1
+  - first:
+      213: -3888077683217127627
+    second: Mechanical_Wheel broken_3
+  - first:
+      213: 4901487268560341030
+    second: Broken_Box_0
+  - first:
+      213: -7935277538125325358
+    second: Debris_Wood_11
+  - first:
+      213: -4257375535589738382
+    second: Ladder_2
+  - first:
+      213: -9191672717346895167
+    second: Mechanical_Small Wheel_0
+  - first:
+      213: -356216582081252666
+    second: Ladder_0
+  - first:
+      213: -1137311787832553431
+    second: Ladder_1
+  - first:
+      213: -3384796346534057641
+    second: Mechanical_Small Wheel_1
+  - first:
+      213: -5017757630028101391
+    second: Cage_1
+  - first:
+      213: 7911724166284474255
+    second: Mine_props3_15
+  - first:
+      213: -1960806997637823527
+    second: Small_Lamp_0
+  - first:
+      213: 449411811719256846
+    second: Box_0
+  - first:
+      213: -312374672767139462
+    second: Ladder_Broken_0
+  - first:
+      213: -8609383707875159764
+    second: Box_1
+  - first:
+      213: 849609912863473649
+    second: Lever_0
+  - first:
+      213: -1397433728189796451
+    second: Mechanical_Half Wheel_0
+  - first:
+      213: -6626009025973291943
+    second: Lever_Base_0
+  - first:
+      213: 4540562707291343394
+    second: Lever_1
+  - first:
+      213: -381158864168359745
+    second: Mine_props3_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mechanical_Wheel_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1487
+        width: 554
+        height: 548
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5878530c14ab1be0800000000000000
+      internalID: -1505429210203129765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mechanical_Wheel_2
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1488
+        width: 554
+        height: 549
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68c4641db5eb4320800000000000000
+      internalID: 2543379014834505839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mechanical_Wheel_3
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1691
+        width: 326
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50575bfdfbb15d2e0800000000000000
+      internalID: -2101743140192553723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamp_0
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1099
+        width: 187
+        height: 912
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97834b1837040d6a0800000000000000
+      internalID: -6426565803416209287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chains_0
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 383
+        width: 90
+        height: 1614
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f091978b9361dc110800000000000000
+      internalID: 1282705906034350351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chains_1
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 430
+        width: 113
+        height: 1567
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec7fcbde608490b0800000000000000
+      internalID: -5722808012858491667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mechanical_Wheel broken_3
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1483
+        width: 289
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53728b072f5ca0ac0800000000000000
+      internalID: -3888077683217127627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Box_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1170
+        width: 378
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62883a993b4950440800000000000000
+      internalID: 4901487268560341030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debris_Wood_11
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1312
+        width: 214
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db57e93f1b30e190800000000000000
+      internalID: -7935277538125325358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder_2
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 79
+        width: 244
+        height: 1281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2783cb5c183cae4c0800000000000000
+      internalID: -4257375535589738382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mechanical_Small Wheel_0
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1329
+        width: 151
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca83e6fc5e907080800000000000000
+      internalID: -9191672717346895167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder_0
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 48
+        width: 282
+        height: 1174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c271f9e7e67e0bf0800000000000000
+      internalID: -356216582081252666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder_1
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 41
+        width: 232
+        height: 1285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920506764f47730f0800000000000000
+      internalID: -1137311787832553431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mechanical_Small Wheel_1
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1154
+        width: 151
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7592ccff7a9c601d0800000000000000
+      internalID: -3384796346534057641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cage_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 806
+        width: 357
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f84b2d45085d5ab0800000000000000
+      internalID: -5017757630028101391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_props3_15
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1010
+        width: 146
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87724c06371ccd60800000000000000
+      internalID: 7911724166284474255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small_Lamp_0
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 503
+        width: 188
+        height: 532
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d382b8ac60d9c4e0800000000000000
+      internalID: -1960806997637823527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 422
+        width: 347
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b146369a1ac3600800000000000000
+      internalID: 449411811719256846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder_Broken_0
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 233
+        width: 292
+        height: 726
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71c2e0e3e83aabf0800000000000000
+      internalID: -312374672767139462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 357
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21d015d123558880800000000000000
+      internalID: -8609383707875159764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_0
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 59
+        width: 50
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffb0edd6bb6acb00800000000000000
+      internalID: 849609912863473649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mechanical_Half Wheel_0
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 62
+        width: 136
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fe81a9d615b9ce0800000000000000
+      internalID: -1397433728189796451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_Base_0
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 67
+        width: 211
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9547450a5efab04a0800000000000000
+      internalID: -6626009025973291943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_1
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 42
+        width: 47
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a8c70b9b1530f30800000000000000
+      internalID: 4540562707291343394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f44f0f4197814044eb501960bba4f603
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chains_0: 1282705906034350351
+      Mechanical_Wheel_2: 2543379014834505839
+      Mechanical_Wheel_1: -1505429210203129765
+      Mechanical_Wheel broken_3: -3888077683217127627
+      Lever_Base_0: -6626009025973291943
+      Mechanical_Small Wheel_0: -9191672717346895167
+      Ladder_Broken_0: -312374672767139462
+      Mechanical_Small Wheel_1: -3384796346534057641
+      Debris_Wood_11: -7935277538125325358
+      Chains_1: -5722808012858491667
+      Cage_1: -5017757630028101391
+      Ladder_0: -356216582081252666
+      Lever_0: 849609912863473649
+      Mine_props3_15: 7911724166284474255
+      Small_Lamp_0: -1960806997637823527
+      Ladder_2: -4257375535589738382
+      Ladder_1: -1137311787832553431
+      Lamp_0: -6426565803416209287
+      Mechanical_Half Wheel_0: -1397433728189796451
+      Mechanical_Wheel_3: -2101743140192553723
+      Lever_1: 4540562707291343394
+      Broken_Box_0: 4901487268560341030
+      Box_0: 449411811719256846
+      Box_1: -8609383707875159764
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
