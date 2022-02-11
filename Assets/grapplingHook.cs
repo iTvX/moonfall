@@ -42,24 +42,15 @@ public class grapplingHook : MonoBehaviour
 			targetPos.z = 0;
 
 			hit = Physics2D.Raycast(transform.position, targetPos - transform.position, distance, mask);
-<<<<<<< HEAD
-<<<<<<< Updated upstream
 
-=======
-			print("hit? " + hit.collider);
->>>>>>> Stashed changes
-			if (hit.collider != null && hit.collider.gameObject.GetComponent<Rigidbody2D>() != null)
-=======
-			print("hit? " + hit.collider);
 			if (hit.collider != null )
->>>>>>> 65594e961b24ff505148d488a92fcc6b758a03ab
 
 			{
 				print("hit");
 				joint.enabled = true;
-				Vector2 connectPoint = hit.point - new Vector2(hit.collider.transform.position.x, hit.collider.transform.position.y);
-				connectPoint.x = connectPoint.x / hit.collider.transform.localScale.x;
-				connectPoint.y = connectPoint.y / hit.collider.transform.localScale.y;
+				Vector2 connectPoint = hit.point - new Vector2(hit.collider.transform.position.x, hit.collider.transform.position.y);// * hit.collider.gameObject.rotation;
+				connectPoint.x = connectPoint.x / hit.collider.transform.rotation.x;
+				connectPoint.y = connectPoint.y / hit.collider.transform.rotation.y;
 				Debug.Log(connectPoint);
 				joint.connectedAnchor = connectPoint;
 
@@ -72,15 +63,7 @@ public class grapplingHook : MonoBehaviour
 				line.SetPosition(1, hit.point);
 
 				//line.GetComponent<roperatio>().grabPos = hit.point;
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-				//line.SetPosition(1, joint.connectedBody.transform.TransformPoint(joint.connectedAnchor));
->>>>>>> Stashed changes
-=======
 				line.SetPosition(1, joint.connectedBody.transform.TransformPoint(joint.connectedAnchor));
->>>>>>> 65594e961b24ff505148d488a92fcc6b758a03ab
-
 
 			}
 
