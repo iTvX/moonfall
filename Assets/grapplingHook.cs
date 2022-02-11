@@ -25,7 +25,8 @@ public class grapplingHook : MonoBehaviour
 	{
 
 		if (joint.distance > .5f)
-			joint.distance -= step;
+			print(1);
+		//joint.distance -= step;
 		else
 		{
 			line.enabled = false;
@@ -40,12 +41,15 @@ public class grapplingHook : MonoBehaviour
 			targetPos.z = 0;
 
 			hit = Physics2D.Raycast(transform.position, targetPos - transform.position, distance, mask);
+<<<<<<< Updated upstream
 
+=======
+			print("hit? " + hit.collider);
+>>>>>>> Stashed changes
 			if (hit.collider != null && hit.collider.gameObject.GetComponent<Rigidbody2D>() != null)
 
 			{
 				joint.enabled = true;
-				//	Debug.Log (hit.point - new Vector2(hit.collider.transform.position.x,hit.collider.transform.position.y);
 				Vector2 connectPoint = hit.point - new Vector2(hit.collider.transform.position.x, hit.collider.transform.position.y);
 				connectPoint.x = connectPoint.x / hit.collider.transform.localScale.x;
 				connectPoint.y = connectPoint.y / hit.collider.transform.localScale.y;
@@ -61,6 +65,10 @@ public class grapplingHook : MonoBehaviour
 				line.SetPosition(1, hit.point);
 
 				//line.GetComponent<roperatio>().grabPos = hit.point;
+<<<<<<< Updated upstream
+=======
+				//line.SetPosition(1, joint.connectedBody.transform.TransformPoint(joint.connectedAnchor));
+>>>>>>> Stashed changes
 
 
 			}
@@ -76,8 +84,9 @@ public class grapplingHook : MonoBehaviour
 
 		if (Input.GetKeyUp(KeyCode.E))
 		{
-			joint.enabled = false;
-			line.enabled = false;
+			print(1);
+			//joint.enabled = false;
+			//line.enabled = false;
 		}
 
 	}
