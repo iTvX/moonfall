@@ -26,13 +26,13 @@ public class MoveScript : MonoBehaviour
     void Jump()
     {
         //print(isGrounded);
-        if (Input.GetKeyDown("w") && jumpCount > 0)
+        if (Input.GetKeyDown("space") && jumpCount > 0)
         {
             gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 5f), ForceMode2D.Impulse);
             jumpCount--;
         }
 
-        if (Input.GetKeyDown("w") && isGrounded)
+        if (Input.GetKeyDown("space") && isGrounded)
         {
             jumpCount = 1;
         }

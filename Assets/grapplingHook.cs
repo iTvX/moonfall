@@ -27,8 +27,13 @@ public class grapplingHook : MonoBehaviour
 	void Update()
 	{
 
-		if (joint.distance > .5f)
-			joint.distance -= step;
+		if (joint.distance > .5f && joint.connectedBody != null)
+		{
+			if (joint.connectedBody.tag != "wall")
+			{
+				joint.distance -= step;
+			}
+		}
 		else
 		{
 			line.enabled = false;
