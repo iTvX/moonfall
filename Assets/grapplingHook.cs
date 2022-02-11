@@ -25,8 +25,7 @@ public class grapplingHook : MonoBehaviour
 	{
 
 		if (joint.distance > .5f)
-			print(1);
-		//joint.distance -= step;
+			joint.distance -= step;
 		else
 		{
 			line.enabled = false;
@@ -34,7 +33,7 @@ public class grapplingHook : MonoBehaviour
 
 		}
 
-
+		
 		if (Input.GetKeyDown(KeyCode.E))
 		{
 			print("shooting hook");
@@ -46,16 +45,17 @@ public class grapplingHook : MonoBehaviour
 			if (hit.collider != null )
 
 			{
+				print(transform.position);
+
 				print("hit");
 				joint.enabled = true;
-				Vector2 connectPoint = hit.point - new Vector2(hit.collider.transform.position.x, hit.collider.transform.position.y);// * hit.collider.gameObject.rotation;
-				connectPoint.x = connectPoint.x / hit.collider.transform.rotation.x;
-				connectPoint.y = connectPoint.y / hit.collider.transform.rotation.y;
+				Vector2 connectPoint = hit.point - new Vector2(hit.collider.transform.position.x, hit.collider.transform.position.y);
+				connectPoint.x = connectPoint.x / hit.collider.transform.localScale.x;
+				connectPoint.y = connectPoint.y / hit.collider.transform.localScale.y;
 				Debug.Log(connectPoint);
 				joint.connectedAnchor = connectPoint;
 
 				joint.connectedBody = hit.collider.gameObject.GetComponent<Rigidbody2D>();
-				//		joint.connectedAnchor = hit.point - new Vector2(hit.collider.transform.position.x,hit.collider.transform.position.y);
 				joint.distance = Vector2.Distance(transform.position, hit.point);
 
 				line.enabled = true;
@@ -78,9 +78,9 @@ public class grapplingHook : MonoBehaviour
 
 		if (Input.GetKeyUp(KeyCode.E))
 		{
-			print(1);
-			//joint.enabled = false;
-			//line.enabled = false;
+			
+			joint.enabled = false;
+			line.enabled = false;
 		}
 
 	}
