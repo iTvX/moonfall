@@ -74,7 +74,7 @@
       "dependencies": {}
     },
     "com.unity.burst": {
-      "version": "1.6.4",
+      "version": "1.6.0",
       "depth": 2,
       "source": "registry",
       "dependencies": {
@@ -97,23 +97,6 @@
         "com.unity.nuget.newtonsoft-json": "2.0.0",
         "com.unity.services.core": "1.0.1"
       },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.connect.share": {
-      "version": "4.2.3",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.editorcoroutines": "1.0.0",
-        "com.unity.settings-manager": "1.0.2"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.editorcoroutines": {
-      "version": "1.0.0",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.ext.nunit": {
@@ -185,13 +168,6 @@
       "dependencies": {
         "com.unity.modules.unitywebrequest": "1.0.0"
       },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.settings-manager": {
-      "version": "1.0.3",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
