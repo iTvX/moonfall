@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class SceneStart : MonoBehaviour
+public class EndPoint : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -16,14 +16,11 @@ public class SceneStart : MonoBehaviour
     {
         
     }
-
-
-    public void ChangeScene(string scenename){
-//        Application.LoadLevel(scenename);
-        SceneManager.LoadScene(scenename);
-    }
-
-    public void QuitGame(){
-        Application.Quit();
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.tag == "Player")
+        {
+            GameObject.Find("FinishMenu").SendMessage("ShowFinishPanel");
+        }
     }
 }
