@@ -10,7 +10,7 @@ public class grapplingHook : MonoBehaviour
 	RaycastHit2D hit;
 	public float distance = 2f;
 	public LayerMask mask;
-	public float step = 0.08f;
+	public float step = 0.04f;
 	Vector2 tempPos;
 	Vector3 currentPos;
 	Vector2 anchorPos;
