@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using Unity.Services.Analytics;
+using Unity.Services.Core;
 
 public class MoveScript : MonoBehaviour
 {
@@ -20,10 +22,13 @@ public class MoveScript : MonoBehaviour
 
 
     // Start is called before the first frame update
-    void Start()
+    async void Start()
     {
         startpoint = transform.position;
         lastPosition = transform.position;
+        
+        await UnityServices.InitializeAsync();
+        List<string> consentIdentifiers = await Events.CheckForRequiredConsents();
     }
 
     // Update is called once per frame
@@ -33,13 +38,13 @@ public class MoveScript : MonoBehaviour
         Jump();
         Vector3 movement = new Vector3(Input.GetAxis("Horizontal"), 0f, 0f);
         transform.position += movement * Time.deltaTime * moveSpeed;
-        //Ëã×ÜÐÐ³Ì
+        //ï¿½ï¿½ï¿½ï¿½ï¿½Ð³ï¿½
         Vector3 Julicha = transform.position - lastPosition;
         float distancethisframe = Julicha.magnitude;
         totalDistance += distancethisframe;
         int intDistance = (int)totalDistance;
         lastPosition = transform.position;
-        //Ëãµ±Ç°¸ß¶È
+        //ï¿½ãµ±Ç°ï¿½ß¶ï¿½
         Vector3 Gaoducha = transform.position - startpoint;
         float heightcount = Gaoducha.magnitude;
         currentheight = (int)heightcount;
@@ -50,6 +55,16 @@ public class MoveScript : MonoBehaviour
         distance.text = "Total Distance: " + intDistance.ToString() + "m";
         height.text = "Height: " + currentheight.ToString() + "m";
         Timecount.text = "Time: " + intTimer.ToString() + "s";
+
+        // Send custom event
+        Dictionary<string, object> parameters = new Dictionary<string, object>()
+        {
+            { "distancePlayerGoes", intDistance },
+            { "heightPlayerGoes", currentheight },
+            { "time", intTimer },
+        };
+        Events.CustomData("motionTrail", parameters); 
+        // Events.Flush();
     }
 
     void Jump()
@@ -66,5 +81,5 @@ public class MoveScript : MonoBehaviour
             jumpCount = 1;
         }
     }
-    
+
 }

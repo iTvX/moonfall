@@ -78,8 +78,6 @@ crashlytics-build.properties
 .idea
 
 obj 
-ProjectSettings
-Usersettings
 *.html
 *.sln
 Logs
