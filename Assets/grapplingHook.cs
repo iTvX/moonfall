@@ -34,12 +34,13 @@ public class grapplingHook : MonoBehaviour
 				joint.distance -= step;
 			}
 		}
-		else
+		/*else
 		{
+			print("disable hook rn");
 			line.enabled = false;
 			joint.enabled = false;
 
-		}
+		}*/
 
 		
 		if (Input.GetKeyDown(KeyCode.E))
