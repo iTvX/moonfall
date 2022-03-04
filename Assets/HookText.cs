@@ -19,13 +19,12 @@ public class HookText : MonoBehaviour
         {
             float body_x = body.transform.position.x;
             float body_y = body.transform.position.y;
-            float text_x = body_x;
-            float text_y = body_y + 1f;
+            
         
-            t_hook.transform.position = new Vector3(text_x, text_y, 1);
+            t_hook.transform.position = new Vector3(body_x+1, body_y+1.3f, 1);
         
             t_hook.text = "Move the mouse to where you want to grapple hook and Press E";
-            t_hook.fontSize = 10;
+            //t_hook.fontSize = 10;
             t_hook.GetComponent<Text>().color = Color.white;
         
             t_hook.gameObject.SetActive(true);
@@ -48,11 +47,7 @@ public class HookText : MonoBehaviour
         t_left.gameObject.SetActive(false);
         t_right.gameObject.SetActive(false);
         t_jump.gameObject.SetActive(false);
-        //t_hook.gameObject.SetActive(false);
-
-        t_left.fontSize = 10;
-        t_right.fontSize = 10;
-        t_jump.fontSize = 10;
+        
         t_left.text = "Press A to move left";
         t_right.text = "Press D to move right";
         t_jump.text = "Press space to jump";
@@ -63,9 +58,9 @@ public class HookText : MonoBehaviour
         float body_x = body.transform.position.x;
         float body_y = body.transform.position.y;
         
-        t_left.transform.position = new Vector3(body_x, body_y+1.6f, 1);
+        t_left.transform.position = new Vector3(body_x, body_y - 1.5f, 1);
         t_right.transform.position = new Vector3(body_x, body_y+1f, 1);
-        t_jump.transform.position = new Vector3(body_x, body_y - 1f, 1);
+        t_jump.transform.position = new Vector3(body_x, body_y - 2.2f, 1);
 
         t_left.gameObject.SetActive(true);
         t_right.gameObject.SetActive(true);
