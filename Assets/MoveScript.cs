@@ -17,6 +17,9 @@ public class MoveScript : MonoBehaviour
     public Text Timecount;
     private Vector3 startpoint;
     private int currentheight = 0;
+    private int lastTimeSent = -1;
+    private int lastSecondHeight = 0;
+    private bool inFalling = false;
 
     private float timer;
 
@@ -51,20 +54,24 @@ public class MoveScript : MonoBehaviour
         //timer
         timer += Time.deltaTime;
         int intTimer = (int)timer;
+ 
+        if (intTimer == lastTimeSent + 1) {
+            RecordDistanceAndHeightWithTime(intDistance, currentheight, intTimer);
+            lastTimeSent = intTimer;
+
+            lastSecondHeight = currentheight;
+        }
+
+        if (lastSecondHeight >= currentheight + 5 && !inFalling) {
+            RecordFall(intTimer);
+            inFalling = true;   // Set inFalling flag to true, so a fall will only be recorded once
+        } else if (lastSecondHeight < currentheight + 5 && inFalling) {
+            inFalling = false;  // Set inFalling flag to false, so we can record next fall
+        }
 
         distance.text = "Total Distance: " + intDistance.ToString() + "m";
         height.text = "Height: " + currentheight.ToString() + "m";
         Timecount.text = "Time: " + intTimer.ToString() + "s";
-
-        // Send custom event
-        Dictionary<string, object> parameters = new Dictionary<string, object>()
-        {
-            { "distancePlayerGoes", intDistance },
-            { "heightPlayerGoes", currentheight },
-            { "time", intTimer },
-        };
-        Events.CustomData("motionTrail", parameters); 
-        // Events.Flush();
     }
 
     void Jump()
@@ -82,4 +89,23 @@ public class MoveScript : MonoBehaviour
         }
     }
 
+    void RecordDistanceAndHeightWithTime(int intDistance, int currentheight, int intTimer) {
+        // Send custom event
+        Dictionary<string, object> parameters = new Dictionary<string, object>()
+        {
+            { "distancePlayerGoes", intDistance },
+            { "heightPlayerGoes", currentheight },
+            { "time", intTimer },
+        };
+        Events.CustomData("motionTrail", parameters); 
+        // Events.Flush();
+    }
+
+    void RecordFall(int intTimer) {
+        Dictionary<string, object> parameters = new Dictionary<string, object>()
+        {
+            { "time", intTimer },
+        };
+        Events.CustomData("fall", parameters); 
+    }
 }
