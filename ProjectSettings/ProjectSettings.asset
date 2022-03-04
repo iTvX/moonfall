@@ -526,7 +526,7 @@ PlayerSettings:
   webGLTemplate: APPLICATION:Default
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
-  webGLCompressionFormat: 0
+  webGLCompressionFormat: 2
   webGLWasmArithmeticExceptions: 0
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
@@ -626,11 +626,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 5c16602d-d70b-4eec-9993-8baf2341974f
+  cloudProjectId: 1cec3fe5-20fa-421a-a4b1-6da363720178
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Moonfall
-  organizationId: yunbolyu
+  projectName: moonfall_data
+  organizationId: kexin1009
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
