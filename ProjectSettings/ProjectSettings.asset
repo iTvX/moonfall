@@ -652,11 +652,19 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
+<<<<<<< Updated upstream
   cloudProjectId: 
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: 
   organizationId: 
+=======
+  cloudProjectId: e0947f01-428b-4343-b00d-f9a0ce8df4fd
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: moonfall
+  organizationId: chen716
+>>>>>>> Stashed changes
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   virtualTexturingSupportEnabled: 0
