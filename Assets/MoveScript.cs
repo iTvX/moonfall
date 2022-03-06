@@ -54,12 +54,21 @@ public class MoveScript : MonoBehaviour
         //timer
         timer += Time.deltaTime;
         int intTimer = (int)timer;
+
+       
+
  
         if (intTimer == lastTimeSent + 1) {
             RecordDistanceAndHeightWithTime(intDistance, currentheight, intTimer);
             lastTimeSent = intTimer;
 
             lastSecondHeight = currentheight;
+        }
+
+        if(Input.GetKeyDown(KeyCode.E)){
+ //           print("reocord swing");
+            RecordSwing(intTimer);
+            
         }
 
         if (lastSecondHeight >= currentheight + 5 && !inFalling) {
@@ -72,6 +81,7 @@ public class MoveScript : MonoBehaviour
         distance.text = "Total Distance: " + intDistance.ToString() + "m";
         height.text = "Height: " + currentheight.ToString() + "m";
         Timecount.text = "Time: " + intTimer.ToString() + "s";
+
     }
 
     void Jump()
@@ -107,5 +117,16 @@ public class MoveScript : MonoBehaviour
             { "time", intTimer },
         };
         Events.CustomData("fall", parameters); 
+    }
+
+    void RecordSwing(int intTimer){
+
+        Dictionary<string, object> parameters = new Dictionary<string, object>()
+        {
+            { "time", intTimer},
+            {"userLevel",1}
+        };
+        Events.CustomData("NumOfSwing", parameters); 
+
     }
 }
