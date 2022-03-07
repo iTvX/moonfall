@@ -99,7 +99,7 @@ public class MoveScript : MonoBehaviour
         if (isJump && (lastSecondHeight > currentheight))
         {
 
-            Debug.Log("jump-fall!");
+            // Debug.Log("jump-fall!");
             isJump = false;
             float distanceDiff = (transform.position - tempJumpPosition).magnitude;
             jumpDistance += distanceDiff;
@@ -112,7 +112,7 @@ public class MoveScript : MonoBehaviour
         if (isHook && (lastSecondHeight > currentheight))
         {
 
-            Debug.Log("hook-fall!");
+            // Debug.Log("hook-fall!");
             isHook = false;
             float distanceDiff = (transform.position - tempHookPosition).magnitude;
             hookDistance += distanceDiff;
@@ -202,7 +202,7 @@ public class MoveScript : MonoBehaviour
 
     void RecordJumpDistance(float jumpDistance, int intTimer)
     {
-        Debug.Log("Jump Distance: " + jumpDistance);
+        // Debug.Log("Jump Distance: " + jumpDistance);
 
         Analytics.CustomEvent("TraveledThroughJump", new Dictionary<string, object>()
         {
@@ -214,7 +214,7 @@ public class MoveScript : MonoBehaviour
 
     void RecordHookDistance(float hookDistance, int intTimer)
     {
-        Debug.Log("Hook Distance: " + hookDistance);
+        //Debug.Log("Hook Distance: " + hookDistance);
 
         Analytics.CustomEvent("TraveledThroughHook", new Dictionary<string, object>()
         {
