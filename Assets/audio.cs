@@ -1,30 +1,23 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class audio : MonoBehaviour
 {
     private AudioSource _audioSource;
-	private bool play;
-    async void Start()
-    {
-        print("just true play");
-        print(play);
-        
-        if (play)
-        {
-            PlayMusic();
-        }
-        play = false;
-
-    }
+	public static bool play = false;
+   
     private void Awake()
      {
 
-        print("on awake");
-         DontDestroyOnLoad(transform.gameObject);
+        Debug.Log("Awake:" + SceneManager.GetActiveScene().name + play);
+        DontDestroyOnLoad(transform.gameObject);
          _audioSource = GetComponent<AudioSource>();
-        play = true;
+        if (!play)
+        {
+            PlayMusic();
+            play = true;
+        }
 
     }
  
