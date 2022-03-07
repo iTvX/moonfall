@@ -8,11 +8,12 @@ using UnityEngine.Analytics;
 #endif
 public class MoveScript : MonoBehaviour
 {
+    public Animator animator;
     public float moveSpeed = 5f;
     public bool isGrounded = false;
     private Vector3 lastPosition;
     private float totalDistance;
-    public int jumpCount = 1;
+    public int jumpCount = 2;
     public Text distance;
     public Text height;
     public Text Timecount;
@@ -55,6 +56,7 @@ public class MoveScript : MonoBehaviour
 
         Jump(intTimer);
         Vector3 movement = new Vector3(Input.GetAxis("Horizontal"), 0f, 0f);
+        animator.SetFloat("speed", movement.x);
         transform.position += movement * Time.deltaTime * moveSpeed;
         //�����г�
         Vector3 Julicha = transform.position - lastPosition;
@@ -68,7 +70,7 @@ public class MoveScript : MonoBehaviour
         totalDistance += distancethisframe;
         int intDistance = (int)totalDistance;
         lastPosition = transform.position;
-        //�㵱ǰ�߶�
+        
         Vector3 Gaoducha = transform.position - startpoint;
         float heightcount = Gaoducha.magnitude;
         currentheight = (int)heightcount;
@@ -152,7 +154,7 @@ public class MoveScript : MonoBehaviour
 
         if (isGrounded)
         {
-            jumpCount = 1;
+            jumpCount = 2;
         }
     }
 
