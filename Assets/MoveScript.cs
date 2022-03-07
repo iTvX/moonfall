@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using Unity.Services.Analytics;
-using Unity.Services.Core;
-
+#if ENABLE_CLOUD_SERVICES_ANALYTICS
+using UnityEngine.Analytics;
+#endif
 public class MoveScript : MonoBehaviour
 {
     public float moveSpeed = 5f;
@@ -32,8 +32,7 @@ public class MoveScript : MonoBehaviour
         startpoint = transform.position;
         lastPosition = transform.position;
         
-        await UnityServices.InitializeAsync();
-        List<string> consentIdentifiers = await Events.CheckForRequiredConsents();
+        
     }
 
     // Update is called once per frame
@@ -110,37 +109,35 @@ public class MoveScript : MonoBehaviour
 
     void RecordDistanceAndHeightWithTime(int intDistance, int currentheight, int intTimer) {
         // Send custom event
-        Dictionary<string, object> parameters = new Dictionary<string, object>()
+        Analytics.CustomEvent("motionTrail", new Dictionary<string, object>()
         {
             { "distancePlayerGoes", intDistance },
             { "heightPlayerGoes", currentheight },
             { "time", intTimer },
-        };
-        Events.CustomData("motionTrail", parameters); 
-        // Events.Flush();
+        });
     }
 
     void RecordFall(int intTimer) {
-        Dictionary<string, object> parameters = new Dictionary<string, object>()
+        
+        Analytics.CustomEvent("fall", new Dictionary<string, object>()
         {
             { "time", intTimer },
             { "xPosition", lastfallpoint.x},
             { "yPosition", lastfallpoint.y}
-        };
-        print(parameters["locationx"]);
-        print(parameters["locationy"]);
-        
-        Events.CustomData("fall", parameters); 
+        });
+
+       
+        //Events.CustomData("fall", parameters); 
     }
 
     void RecordSwing(int intTimer){
 
-        Dictionary<string, object> parameters = new Dictionary<string, object>()
+        Analytics.CustomEvent("NumOfSwing", new Dictionary<string, object>()
         {
             { "time", intTimer},
             {"userLevel",1}
-        };
-        Events.CustomData("NumOfSwing", parameters); 
-
+        });
+        
+      
     }
 }
