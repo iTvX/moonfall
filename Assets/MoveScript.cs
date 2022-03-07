@@ -155,13 +155,4 @@ public class MoveScript : MonoBehaviour
         });
        
     }
-
-    void RecordJump(int intTimer){
-        
-        Analytics.CustomEvent("NumOfSwing", new Dictionary<string, object>)()
-        {
-            {"time", intTimer}
-
-        });     
-    }
 }
