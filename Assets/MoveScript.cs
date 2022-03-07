@@ -124,8 +124,8 @@ public class MoveScript : MonoBehaviour
         Dictionary<string, object> parameters = new Dictionary<string, object>()
         {
             { "time", intTimer },
-            { "xlocation", lastfallpoint.x},
-            { "ylocation", lastfallpoint.y}
+            { "xPosition", lastfallpoint.x},
+            { "yPosition", lastfallpoint.y}
         };
         print(parameters["locationx"]);
         print(parameters["locationy"]);
