@@ -38,9 +38,10 @@ public class MoveScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        timer += Time.deltaTime;
+        int intTimer = (int)timer;
 
-        
-        Jump();
+        Jump(intTimer);
         Vector3 movement = new Vector3(Input.GetAxis("Horizontal"), 0f, 0f);
         transform.position += movement * Time.deltaTime * moveSpeed;
         //�����г�
@@ -60,8 +61,7 @@ public class MoveScript : MonoBehaviour
         float heightcount = Gaoducha.magnitude;
         currentheight = (int)heightcount;
         //timer
-        timer += Time.deltaTime;
-        int intTimer = (int)timer;
+        
 
        
 
@@ -92,11 +92,12 @@ public class MoveScript : MonoBehaviour
 
     }
 
-    void Jump()
+    void Jump(int timer)
     {
         //print(isGrounded);
         if (Input.GetKeyDown("space") && jumpCount > 0)
         {
+            RecordJump(timer);
             gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 5f), ForceMode2D.Impulse);
             jumpCount--;
         }
@@ -138,6 +139,15 @@ public class MoveScript : MonoBehaviour
             {"userLevel",1}
         });
         
-      
+    }
+    void RecordJump(int intTimer)
+    {
+
+        Analytics.CustomEvent("NumOfJump", new Dictionary<string, object>()
+        {
+            { "time", intTimer},
+            {"userLevel",1}
+        });
+       
     }
 }
