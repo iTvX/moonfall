@@ -79,6 +79,11 @@ public class MoveScript : MonoBehaviour
             
         }
 
+        if(Input.GetKeyDown(KeyCode.Space)){
+            // print("record space");
+            RecordJump(intTimer);
+        }
+
         if (lastSecondHeight >= currentheight + 5 && !inFalling) {
             RecordFall(intTimer);
             inFalling = true;   // Set inFalling flag to true, so a fall will only be recorded once
@@ -139,5 +144,14 @@ public class MoveScript : MonoBehaviour
         });
         
       
+    }
+
+    void RecordJump(int intTimer){
+        
+        Analytics.CustomEvent("NumOfSwing", new Dictionary<string, object>)()
+        {
+            {"time", intTimer}
+
+        });     
     }
 }
