@@ -10,7 +10,7 @@ public class audio : MonoBehaviour
     private void Awake()
      {
 
-        Debug.Log("Awake:" + SceneManager.GetActiveScene().name + play);
+        Debug.Log("Awake:" + SceneManager.GetActiveScene().name);
         DontDestroyOnLoad(transform.gameObject);
          _audioSource = GetComponent<AudioSource>();
         if (!play)
