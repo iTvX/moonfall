@@ -46,12 +46,12 @@ public class grapplingHook : MonoBehaviour
 		if (Input.GetKeyDown(KeyCode.E))
 		{
 			currentPos = GetComponent<Rigidbody2D>().transform.position;
-			print("shooting hook");
+			// print("shooting hook");
 			targetPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 			targetPos.z = 0;
-			print("target: "+targetPos);
-			print("current:" + currentPos);
-			print("dir: " + (targetPos - currentPos));
+			// print("target: "+targetPos);
+			// print("current:" + currentPos);
+			// print("dir: " + (targetPos - currentPos));
 			targetPos.z = 0;
 			//lookDirection = Camera.main.ScreenToWorldPoint(Input.mousePosition) - currentPos;//transform.position;
 			//tempPos = transform.position;
@@ -67,16 +67,16 @@ public class grapplingHook : MonoBehaviour
 				/*print(transform.position);
 				print(currentPos);
 				print("hit");*/
-				print("hit point: "+hit.point);
+				// print("hit point: "+hit.point);
 				
 				joint.enabled = true;
 				
 				anchorPos = new Vector2(hit.collider.gameObject.GetComponent<Rigidbody2D>().transform.position.x, hit.collider.gameObject.GetComponent<Rigidbody2D>().transform.position.y);
-				print("anchor: " + anchorPos);
+				// print("anchor: " + anchorPos);
 				Vector2 connectPoint = hit.point - anchorPos;
 				connectPoint.x = connectPoint.x / hit.collider.transform.localScale.x;
 				connectPoint.y = connectPoint.y / hit.collider.transform.localScale.y;
-				Debug.Log(connectPoint);
+				//Debug.Log(connectPoint);
 				
 
 				joint.connectedBody = hit.collider.gameObject.GetComponent<Rigidbody2D>();

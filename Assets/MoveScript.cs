@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using System;
 #if ENABLE_CLOUD_SERVICES_ANALYTICS
 using UnityEngine.Analytics;
 #endif
@@ -23,6 +24,17 @@ public class MoveScript : MonoBehaviour
     private bool inFalling = false;
 
     private float timer;
+
+    private bool isJump = false;
+    // private int numJump = 8; // compute distance after 8 frames delay
+    private Vector3 tempJumpPosition;
+    private float jumpDistance;
+
+
+    private bool isHook = false;
+    // private int numHook = 8;
+    private Vector3 tempHookPosition;
+    private float hookDistance;
 
 
     // Start is called before the first frame update
@@ -74,14 +86,40 @@ public class MoveScript : MonoBehaviour
         }
 
         if(Input.GetKeyDown(KeyCode.E)){
- //           print("reocord swing");
+            if (!isHook)
+            {
+                isHook = true;
+                tempHookPosition = transform.position;
+            }
+            //           print("reocord swing");
             RecordSwing(intTimer);
             
         }
 
-        if(Input.GetKeyDown(KeyCode.Space)){
-            // print("record space");
-            RecordJump(intTimer);
+        if (isJump && (lastSecondHeight > currentheight))
+        {
+
+            Debug.Log("jump-fall!");
+            isJump = false;
+            float distanceDiff = (transform.position - tempJumpPosition).magnitude;
+            jumpDistance += distanceDiff;
+            jumpDistance = (float)Math.Round(jumpDistance, 2);
+            RecordJumpDistance(jumpDistance, intTimer);
+
+
+        }
+
+        if (isHook && (lastSecondHeight > currentheight))
+        {
+
+            Debug.Log("hook-fall!");
+            isHook = false;
+            float distanceDiff = (transform.position - tempHookPosition).magnitude;
+            hookDistance += distanceDiff;
+            hookDistance = (float)Math.Round(hookDistance, 2);
+            RecordHookDistance(hookDistance, intTimer);
+
+
         }
 
         if (lastSecondHeight >= currentheight + 5 && !inFalling) {
@@ -102,7 +140,12 @@ public class MoveScript : MonoBehaviour
         //print(isGrounded);
         if (Input.GetKeyDown("space") && jumpCount > 0)
         {
-            RecordJump(timer);
+            if (!isJump)
+            {
+                isJump = true;
+                tempJumpPosition = transform.position;
+            }
+
             gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 5f), ForceMode2D.Impulse);
             jumpCount--;
         }
@@ -156,12 +199,29 @@ public class MoveScript : MonoBehaviour
        
     }
 
-    void RecordJump(int intTimer){
-        
-        Analytics.CustomEvent("NumOfSwing", new Dictionary<string, object>)()
-        {
-            {"time", intTimer}
+    void RecordJumpDistance(float jumpDistance, int intTimer)
+    {
+        Debug.Log("Jump Distance: " + jumpDistance);
 
-        });     
+        Analytics.CustomEvent("TraveledThroughJump", new Dictionary<string, object>()
+        {
+            { "time", intTimer},
+            { "DistanceThroughJump", jumpDistance},
+            {"userLevel",1}
+        });
+
+    }
+
+    void RecordHookDistance(float hookDistance, int intTimer)
+    {
+        Debug.Log("Hook Distance: " + hookDistance);
+
+        Analytics.CustomEvent("TraveledThroughHook", new Dictionary<string, object>()
+        {
+            { "time", intTimer},
+            { "DistanceThroughHook", hookDistance},
+            {"userLevel",1}
+        });
+
     }
 }
