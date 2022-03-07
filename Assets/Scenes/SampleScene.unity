@@ -2928,7 +2928,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &84813915
 Transform:
   m_ObjectHideFlags: 0
@@ -7133,7 +7133,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &226840396
 Transform:
   m_ObjectHideFlags: 0
@@ -8392,7 +8392,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &275765473
 Transform:
   m_ObjectHideFlags: 0
@@ -9798,7 +9798,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.8557845, y: 1}
+    m_SensorSize: {x: 1.7447183, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -10189,7 +10189,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &318126349
 Transform:
   m_ObjectHideFlags: 0
@@ -12666,7 +12666,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &370218960
 Transform:
   m_ObjectHideFlags: 0
@@ -13933,7 +13933,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &399237054
 Transform:
   m_ObjectHideFlags: 0
@@ -14744,7 +14744,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &411481110
 Transform:
   m_ObjectHideFlags: 0
@@ -15079,7 +15079,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &415708418
 Transform:
   m_ObjectHideFlags: 0
@@ -21880,7 +21880,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &613341603
 Transform:
   m_ObjectHideFlags: 0
@@ -26147,7 +26147,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &733538478
 Transform:
   m_ObjectHideFlags: 0
@@ -27215,7 +27215,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &759699169
 Transform:
   m_ObjectHideFlags: 0
@@ -29719,7 +29719,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &828997395
 Transform:
   m_ObjectHideFlags: 0
@@ -36154,7 +36154,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &977489627
 Transform:
   m_ObjectHideFlags: 0
@@ -41467,7 +41467,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &1114642159
 Transform:
   m_ObjectHideFlags: 0
@@ -42145,7 +42145,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &1150346996
 Transform:
   m_ObjectHideFlags: 0
@@ -44987,6 +44987,134 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 67
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1234775115
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1234775117}
+  - component: {fileID: 1234775116}
+  m_Layer: 0
+  m_Name: Music
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1234775116
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1234775115}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 28c8b733ac2b1491e964bee21dba5266, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1234775117
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1234775115}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 78
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1255567704
 GameObject:
@@ -67292,7 +67420,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &1941977680
 Transform:
   m_ObjectHideFlags: 0
@@ -69263,9 +69391,9 @@ EdgeCollider2D:
   - {x: 116.55992, y: -66.74708}
   - {x: 116.65274, y: -68.32305}
   - {x: 116.24996, y: -68.76385}
-  - {x: -2.8759727, y: -69.280525}
-  - {x: -4.1370797, y: -69.287895}
-  - {x: -4.4152145, y: -68.057594}
+  - {x: -2.875927, y: -69.280525}
+  - {x: -4.1371093, y: -69.287895}
+  - {x: -4.4152126, y: -68.0576}
   - {x: -12.652274, y: -35.09025}
   - {x: -12.773612, y: -34.741924}
   - {x: -12.920302, y: -34.283276}
@@ -76878,7 +77006,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &2145730275
 Transform:
   m_ObjectHideFlags: 0
