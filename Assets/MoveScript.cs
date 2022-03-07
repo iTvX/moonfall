@@ -16,6 +16,7 @@ public class MoveScript : MonoBehaviour
     public Text height;
     public Text Timecount;
     private Vector3 startpoint;
+    private Vector3 lastfallpoint;
     private int currentheight = 0;
     private int lastTimeSent = -1;
     private int lastSecondHeight = 0;
@@ -27,6 +28,7 @@ public class MoveScript : MonoBehaviour
     // Start is called before the first frame update
     async void Start()
     {
+        lastfallpoint = transform.position;
         startpoint = transform.position;
         lastPosition = transform.position;
         
@@ -37,12 +39,19 @@ public class MoveScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
         
         Jump();
         Vector3 movement = new Vector3(Input.GetAxis("Horizontal"), 0f, 0f);
         transform.position += movement * Time.deltaTime * moveSpeed;
         //�����г�
         Vector3 Julicha = transform.position - lastPosition;
+        // if the user falls, stop tracking last fall position.
+        if (Julicha.y > 0)
+        {
+            lastfallpoint = transform.position;
+        }
+        
         float distancethisframe = Julicha.magnitude;
         totalDistance += distancethisframe;
         int intDistance = (int)totalDistance;
@@ -115,7 +124,12 @@ public class MoveScript : MonoBehaviour
         Dictionary<string, object> parameters = new Dictionary<string, object>()
         {
             { "time", intTimer },
+            { "locationx", lastfallpoint.x},
+            { "locationy", lastfallpoint.y}
         };
+        print(parameters["locationx"]);
+        print(parameters["locationy"]);
+        
         Events.CustomData("fall", parameters); 
     }
 
