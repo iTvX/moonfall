@@ -199,12 +199,30 @@ public class MoveScript : MonoBehaviour
        
     }
 
-    void RecordJump(int intTimer){
-        
-        Analytics.CustomEvent("NumOfSwing", new Dictionary<string, object>)()
-        {
-            {"time", intTimer}
 
-        });     
+    void RecordJumpDistance(float jumpDistance, int intTimer)
+    {
+        Debug.Log("Jump Distance: " + jumpDistance);
+
+        Analytics.CustomEvent("TraveledThroughJump", new Dictionary<string, object>()
+        {
+            { "time", intTimer},
+            { "DistanceThroughJump", jumpDistance},
+            {"userLevel",1}
+        });
     }
+
+    void RecordHookDistance(float hookDistance, int intTimer)
+    {
+        Debug.Log("Hook Distance: " + hookDistance);
+
+        Analytics.CustomEvent("TraveledThroughHook", new Dictionary<string, object>()
+        {
+            { "time", intTimer},
+            { "DistanceThroughHook", hookDistance},
+            {"userLevel",1}
+        });
+    }
+
+
 }
