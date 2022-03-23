@@ -5,16 +5,20 @@ using UnityEngine.UI;
 
 public class SubsScript : MonoBehaviour
 {
+    bool timerstart = false;
+    public string texts;
     public Text text;
     public GameObject player;
     public GameObject sprite;
-    public static bool isPlaying = false;
-    public float currDist;
-    public float time = 30;
+    bool isPlaying = false;
+    float currDist;
+    
+    float timer;
+    public float interval = 5f;
     // Start is called before the first frame update
     void Start()
     {
-        print("start is called");
+        timer = 0;
         text.gameObject.SetActive(false);
 
     }
@@ -23,31 +27,51 @@ public class SubsScript : MonoBehaviour
     void Update()
     {
         
+        if (timerstart)
+        {
+            timer += Time.deltaTime;
+        }
         if (!isPlaying)
         {
         currDist = Vector3.Distance(sprite.transform.position, player.transform.position);
         if (currDist < 2)
             {
-                print("subs now");
+                timerstart = true;
+                timer = 0;
+                //print("subs now");
                 isPlaying = true;
                 EnableText();
                 //StartCoroutine(TheSequence());
 
             }
         }
+        
+        if (timer >= interval)
+        {
+            //print(timer);
+            //print(interval);
+            //print("just disabled?");
+            //text.gameObject.SetActive(false);
+            text.gameObject.GetComponent<Text>().text ="";
+            timerstart = false;
+            timer = 0;
+            //print("subs now");
+            //isPlaying = false;
+        }
     }
 
     public void EnableText()
     {
         text.gameObject.SetActive(true);
-        text.gameObject.GetComponent<Text>().text = "It’s just a simple mission, climb. ";
+        text.gameObject.GetComponent<Text>().text = texts;
         float sprite_x = sprite.transform.position.x;
         float sprite_y = sprite.transform.position.y;
         text.transform.position = new Vector3(sprite_x, sprite_y - 4f, 1);
-        Destroy(text, time);
+        //Destroy(text, time);
+        
+        
+        
 
-
-      
     }
 
     /**
