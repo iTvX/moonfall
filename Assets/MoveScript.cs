@@ -9,7 +9,13 @@ using UnityEngine.Analytics;
 public class MoveScript : MonoBehaviour
 {
     public Animator animator;
+    private BoxCollider2D character;
+    private Rigidbody2D rigidbody2D;
+    
     public float moveSpeed = 5f;
+    public float climbSpeed = 0.5f;
+    public float playerGravity;
+    
     public bool isGrounded = false;
     private Vector3 lastPosition;
     private float totalDistance;
@@ -38,23 +44,34 @@ public class MoveScript : MonoBehaviour
     private float hookDistance;
 
 
+    private bool isOnLadder;
+    private bool isClimbingLadder;
+
+
     // Start is called before the first frame update
     async void Start()
     {
         lastfallpoint = transform.position;
         startpoint = transform.position;
         lastPosition = transform.position;
-        
-        
+
+        character = GetComponent<BoxCollider2D>();
+        rigidbody2D = GetComponent<Rigidbody2D>();
+
+        playerGravity = rigidbody2D.gravityScale;
     }
 
     // Update is called once per frame
     void Update()
     {
+        CheckLadder();
+        
         timer += Time.deltaTime;
         int intTimer = (int)timer;
 
         Jump(intTimer);
+        ClimbLadder();
+        
         Vector3 movement = new Vector3(Input.GetAxis("Horizontal"), 0f, 0f);
         animator.SetFloat("speed", movement.x);
         transform.position += movement * Time.deltaTime * moveSpeed;
@@ -155,6 +172,26 @@ public class MoveScript : MonoBehaviour
         if (isGrounded)
         {
             jumpCount = 2;
+        }
+    }
+
+    void CheckLadder()
+    {
+        isOnLadder = character.IsTouchingLayers(LayerMask.GetMask("Ladder"));
+    }
+
+    void ClimbLadder()
+    {
+        if (isOnLadder)
+        {
+            float moveY = Input.GetAxis("Vertical");
+            rigidbody2D.gravityScale = 0.0f;
+            rigidbody2D.velocity = new Vector2(0.0f, moveY * climbSpeed);
+        }
+
+        else
+        {
+            rigidbody2D.gravityScale = playerGravity;
         }
     }
 
