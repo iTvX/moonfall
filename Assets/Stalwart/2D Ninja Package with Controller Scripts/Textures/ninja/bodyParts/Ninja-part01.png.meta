@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 31ba034cfec607344b10654c648a62df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Head
+  - first:
+      213: 21300002
+    second: RightArm
+  - first:
+      213: 21300004
+    second: RightShoulder
+  - first:
+      213: 21300006
+    second: Body
+  - first:
+      213: 21300008
+    second: LeftArm
+  - first:
+      213: 21300010
+    second: LeftShooulder
+  - first:
+      213: 21300012
+    second: lowBodyArmorRight
+  - first:
+      213: 21300014
+    second: LowBody
+  - first:
+      213: 21300016
+    second: lowBodyArmorLeft
+  - first:
+      213: 21300018
+    second: RightLeg
+  - first:
+      213: 21300020
+    second: LeftLeg
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 588
+        width: 128
+        height: 156
+      alignment: 9
+      pivot: {x: 0.52182806, y: 0.070154436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f837d9894195934b9decff11cf245f5
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightArm
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 568
+        width: 136
+        height: 192
+      alignment: 9
+      pivot: {x: 0.8287053, y: 0.8638013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32df0d37055eff8429f3270db25190f3
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightShoulder
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 588
+        width: 160
+        height: 140
+      alignment: 9
+      pivot: {x: 0.8798088, y: 0.7045602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4354e432f414904458947d274d34f4f6
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 456
+        width: 256
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9b5dff0f2b4434193c1dd3da2da317
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftArm
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 216
+        height: 104
+      alignment: 9
+      pivot: {x: 0.13781545, y: 0.8223839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32315326922a1404a842871dd0c2c67d
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftShooulder
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 364
+        width: 196
+        height: 160
+      alignment: 9
+      pivot: {x: 0.10442165, y: 0.6833559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150668005b2b83f47b9995ab024b1eb2
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lowBodyArmorRight
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 336
+        width: 132
+        height: 156
+      alignment: 9
+      pivot: {x: 0.60031545, y: 0.774236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77407db2464824940b2d2ddeade832e7
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LowBody
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 332
+        height: 288
+      alignment: 9
+      pivot: {x: 0.44477513, y: 0.8430673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5276bc283997741429abaeb03fed8725
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lowBodyArmorLeft
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 76
+        width: 132
+        height: 156
+      alignment: 9
+      pivot: {x: 0.4459839, y: 0.7611775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd35be6403d8154d8187bc61c18e4ad
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightLeg
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 12
+        width: 120
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5848821, y: 0.90743655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cce77bab44d3c47967b152505a09dc
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftLeg
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 12
+        width: 160
+        height: 256
+      alignment: 9
+      pivot: {x: 0.29628143, y: 0.91380274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960cde85ebc175e4fb828f03d87c55f5
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c46ba6958e737b149ada52c6e6963a8c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RightShoulder: 21300004
+      LeftShooulder: 21300010
+      RightArm: 21300002
+      LeftArm: 21300008
+      Head: 21300000
+      RightLeg: 21300018
+      lowBodyArmorRight: 21300012
+      LowBody: 21300014
+      lowBodyArmorLeft: 21300016
+      Body: 21300006
+      LeftLeg: 21300020
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

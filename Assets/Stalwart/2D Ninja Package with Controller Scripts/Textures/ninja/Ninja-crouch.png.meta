@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 4633711c6394b9641b2f30618cf0b745
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ninja-crouch_0
+  - first:
+      213: 21300002
+    second: Ninja-crouch_1
+  - first:
+      213: 21300004
+    second: Ninja-crouch_2
+  - first:
+      213: 21300006
+    second: Ninja-crouch_3
+  - first:
+      213: 21300008
+    second: Ninja-crouch_4
+  - first:
+      213: 21300010
+    second: Ninja-cThrowStar_0
+  - first:
+      213: 21300012
+    second: Ninja-cThrowStar_1
+  - first:
+      213: 21300014
+    second: Ninja-cThrowStar_2
+  - first:
+      213: 21300016
+    second: Ninja-cThrowStar_3
+  - first:
+      213: 21300018
+    second: Ninja-cThrowStar_4
+  - first:
+      213: 21300020
+    second: Ninja-cThrowStar_5
+  - first:
+      213: 21300022
+    second: Ninja-cThrowStar_6
+  - first:
+      213: 21300024
+    second: Ninja-cThrowStar_7
+  - first:
+      213: 21300026
+    second: Ninja-cThrowStar_8
+  - first:
+      213: 21300028
+    second: Ninja-cAttack_0
+  - first:
+      213: 21300030
+    second: Ninja-cAttack_1
+  - first:
+      213: 21300032
+    second: Ninja-cAttack_2
+  - first:
+      213: 21300034
+    second: Ninja-cAttack_3
+  - first:
+      213: 21300036
+    second: Ninja-cAttack_4
+  - first:
+      213: 21300038
+    second: Ninja-cAttack_5
+  - first:
+      213: 21300040
+    second: Ninja-cAttack_6
+  - first:
+      213: 21300042
+    second: Ninja-cAttack_7
+  - first:
+      213: 21300044
+    second: Ninja-cAttack_8
+  - first:
+      213: 21300046
+    second: Ninja-cAttack_9
+  - first:
+      213: 21300048
+    second: Ninja-cAttack_10
+  - first:
+      213: 21300050
+    second: Ninja-cAttack_11
+  - first:
+      213: 21300052
+    second: Ninja-cAttack_12
+  - first:
+      213: 21300054
+    second: Ninja-cAttack_13
+  - first:
+      213: 21300056
+    second: Ninja-cAttack_14
+  - first:
+      213: 21300058
+    second: Ninja-cAttack_15
+  - first:
+      213: 21300060
+    second: Ninja-cAttack_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ninja-crouch_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2592
+        width: 306
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a948b5c85b132414ab5789cfbd59e1c5
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-crouch_1
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2598
+        width: 298
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627dfee09d3594f47b53ae5012686582
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-crouch_2
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2594
+        width: 294
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca19cb5654c990443b6f8aefe50ba0d7
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-crouch_3
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 2592
+        width: 322
+        height: 322
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65be4a73e0aa12d488e54abcbe39fb0a
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-crouch_4
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 2596
+        width: 324
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e123865e9bf6649b4276918de9b68b
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cThrowStar_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2158
+        width: 318
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5120344, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e206b481a159bea4e9fa97be1f88b899
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cThrowStar_1
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 2158
+        width: 314
+        height: 288
+      alignment: 9
+      pivot: {x: 0.51071364, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67406ea49d7ac3a499a2c6d43a49a0f4
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cThrowStar_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2150
+        width: 314
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5248203, y: 0.7500007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab4bc4632d304f47885b72136442a71
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cThrowStar_3
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 2156
+        width: 310
+        height: 290
+      alignment: 9
+      pivot: {x: 0.52045506, y: 0.7457065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0311bca9fed0684f937ce868cc31ee9
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cThrowStar_4
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 2150
+        width: 314
+        height: 292
+      alignment: 9
+      pivot: {x: 0.523773, y: 0.7341325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5628201ed83d86d4eb90242b509e1aa5
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cThrowStar_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1792
+        width: 318
+        height: 294
+      alignment: 9
+      pivot: {x: 0.5379728, y: 0.73000914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a60dde2e0c7814db6fb9314444442f
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cThrowStar_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1788
+        width: 324
+        height: 296
+      alignment: 9
+      pivot: {x: 0.5284776, y: 0.72982085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8079a561f7240324b92581533b8a53dd
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cThrowStar_7
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1784
+        width: 354
+        height: 296
+      alignment: 9
+      pivot: {x: 0.493752, y: 0.7184085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5ec960ac5a7ba4d9eb9269a56dda25
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cThrowStar_8
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1774
+        width: 406
+        height: 296
+      alignment: 9
+      pivot: {x: 0.44126615, y: 0.7257505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69790b628e5e238488537cb3ae712c80
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cAttack_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1340
+        width: 286
+        height: 360
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70be5c5d3aca9e45b4bdb4d3a2c15fb
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cAttack_1
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1342
+        width: 292
+        height: 350
+      alignment: 9
+      pivot: {x: 0.5, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d215bd0846f164e87fc70be8413f49
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cAttack_2
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1346
+        width: 322
+        height: 302
+      alignment: 9
+      pivot: {x: 0.45, y: 0.71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec3f14e0dc11954db62cd454e3b3606
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1336
+        width: 294
+        height: 294
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e1b59a166e09441b3c67598c4cf142
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1332
+        width: 302
+        height: 294
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cb79c6662735a4683b746428e413ef
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cAttack_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 906
+        width: 294
+        height: 296
+      alignment: 9
+      pivot: {x: 0.55, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2a1e77e67275447934560411429778
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cAttack_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 906
+        width: 294
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389d9dc5f9714254496be05d354467fb
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cAttack_7
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 906
+        width: 330
+        height: 298
+      alignment: 9
+      pivot: {x: 0.45, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2271bc4b3391cb43959948b4e8c8382
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 908
+        width: 376
+        height: 294
+      alignment: 9
+      pivot: {x: 0.4, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd16708055785244ab3fb0b27680e4e9
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 898
+        width: 416
+        height: 294
+      alignment: 9
+      pivot: {x: 0.3, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eedd0758a24854c92c926c5441f16a
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cAttack_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 482
+        width: 440
+        height: 302
+      alignment: 9
+      pivot: {x: 0.25, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7573e35109731644aaea7fce69c311e
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cAttack_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 476
+        width: 460
+        height: 302
+      alignment: 9
+      pivot: {x: 0.22, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f734dc0a3cd4b49acdac6770c6a5f7
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cAttack_12
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 462
+        width: 484
+        height: 306
+      alignment: 9
+      pivot: {x: 0.18, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1103d21fc5364084d8fd402e79567681
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cAttack_13
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 442
+        width: 494
+        height: 316
+      alignment: 9
+      pivot: {x: 0.161, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d104d2a1b33c0c47ba44f65a37de158
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cAttack_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 36
+        width: 520
+        height: 308
+      alignment: 9
+      pivot: {x: 0.14, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0962a0e3ef92414f93b8a4dc5e923e1
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cAttack_15
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 24
+        width: 536
+        height: 306
+      alignment: 9
+      pivot: {x: 0.12, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a2daee95f48154698cee5b550c7adf
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-cAttack_16
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 18
+        width: 548
+        height: 304
+      alignment: 9
+      pivot: {x: 0.1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c5ce9b68d98e1469d65c71423c0c5a
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c00e732ee14f762429e5bf595998d841
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ninja-cAttack_6: 21300040
+      Ninja-cAttack_16: 21300060
+      Ninja-cThrowStar_5: 21300020
+      Ninja-cAttack_1: 21300030
+      Ninja-cAttack_13: 21300054
+      Ninja-crouch_3: 21300006
+      Ninja-crouch_1: 21300002
+      Ninja-crouch_0: 21300000
+      Ninja-cThrowStar_1: 21300012
+      Ninja-cThrowStar_7: 21300024
+      Ninja-cAttack_2: 21300032
+      Ninja-cAttack_7: 21300042
+      Ninja-cAttack_10: 21300048
+      Ninja-cAttack_15: 21300058
+      Ninja-cThrowStar_2: 21300014
+      Ninja-cThrowStar_3: 21300016
+      Ninja-cAttack_9: 21300046
+      Ninja-cAttack_11: 21300050
+      Ninja-cAttack_12: 21300052
+      Ninja-cAttack_4: 21300036
+      Ninja-cAttack_14: 21300056
+      Ninja-cThrowStar_4: 21300018
+      Ninja-cAttack_5: 21300038
+      Ninja-cAttack_0: 21300028
+      Ninja-cAttack_8: 21300044
+      Ninja-crouch_4: 21300008
+      Ninja-cThrowStar_8: 21300026
+      Ninja-cThrowStar_0: 21300010
+      Ninja-cAttack_3: 21300034
+      Ninja-cThrowStar_6: 21300022
+      Ninja-crouch_2: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1687 @@
+fileFormatVersion: 2
+guid: f2254cec5620d564e83477c2e357f4a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ninja-rangedIdle
+  - first:
+      213: 21300002
+    second: Ninja-rangedRun_0
+  - first:
+      213: 21300004
+    second: Ninja-rangedRun_1
+  - first:
+      213: 21300006
+    second: Ninja-rangedRun_2
+  - first:
+      213: 21300008
+    second: Ninja-rangedRun_3
+  - first:
+      213: 21300010
+    second: Ninja-rangedRun_4
+  - first:
+      213: 21300012
+    second: Ninja-rangedRun_5
+  - first:
+      213: 21300014
+    second: Ninja-rangedRun_6
+  - first:
+      213: 21300016
+    second: Ninja-rangedRun_7
+  - first:
+      213: 21300018
+    second: Ninja-rangedRun_8
+  - first:
+      213: 21300020
+    second: Ninja-rangedRun_9
+  - first:
+      213: 21300022
+    second: Ninja-rangedRun_10
+  - first:
+      213: 21300024
+    second: Ninja-rangedRun_11
+  - first:
+      213: 21300026
+    second: Ninja-rangedRun_12
+  - first:
+      213: 21300028
+    second: Ninja-rangedRun_13
+  - first:
+      213: 21300030
+    second: Ninja-rangedRun_14
+  - first:
+      213: 21300032
+    second: Ninja-rangedRun_15
+  - first:
+      213: 21300034
+    second: Ninja-rangedRun_16
+  - first:
+      213: 21300036
+    second: Ninja-rangedRun_17
+  - first:
+      213: 21300038
+    second: Ninja-rangedRun_18
+  - first:
+      213: 21300040
+    second: Ninja-rangedRun_19
+  - first:
+      213: 21300042
+    second: Ninja-rangedRun_20
+  - first:
+      213: 21300044
+    second: Ninja-rangedRun_21
+  - first:
+      213: 21300046
+    second: Ninja-rangedRun_22
+  - first:
+      213: 21300048
+    second: Ninja-ranged_27
+  - first:
+      213: 21300050
+    second: Ninja-rangedRun_23
+  - first:
+      213: 21300052
+    second: Ninja-rangedRunBack_0
+  - first:
+      213: 21300054
+    second: Ninja-rangedRunBack_1
+  - first:
+      213: 21300056
+    second: Ninja-ranged_32
+  - first:
+      213: 21300058
+    second: Ninja-rangedRunBack_2
+  - first:
+      213: 21300060
+    second: Ninja-rangedRunBack_3
+  - first:
+      213: 21300062
+    second: Ninja-rangedRunBack_4
+  - first:
+      213: 21300064
+    second: Ninja-rangedRunBack_5
+  - first:
+      213: 21300066
+    second: Ninja-rangedRunBack_6
+  - first:
+      213: 21300068
+    second: Ninja-rangedRunBack_7
+  - first:
+      213: 21300070
+    second: Ninja-rangedRunBack_8
+  - first:
+      213: 21300072
+    second: Ninja-rangedRunBack_9
+  - first:
+      213: 21300074
+    second: Ninja-rangedRunBack_10
+  - first:
+      213: 21300076
+    second: Ninja-rangedRunBack_11
+  - first:
+      213: 21300078
+    second: Ninja-rangedRunBack_12
+  - first:
+      213: 21300080
+    second: Ninja-rangedRunBack_13
+  - first:
+      213: 21300082
+    second: Ninja-ranged_45
+  - first:
+      213: 21300084
+    second: Ninja-ranged_46
+  - first:
+      213: 21300086
+    second: Ninja-rangedRunBack_14
+  - first:
+      213: 21300088
+    second: Ninja-rangedRunBack_15
+  - first:
+      213: 21300090
+    second: Ninja-rangedRunBack_16
+  - first:
+      213: 21300092
+    second: Ninja-rangedRunBack_17
+  - first:
+      213: 21300094
+    second: Ninja-rangedRunBack_18
+  - first:
+      213: 21300096
+    second: Ninja-rangedRunBack_19
+  - first:
+      213: 21300098
+    second: Ninja-rangedRunBack_20
+  - first:
+      213: 21300100
+    second: Ninja-rangedRunBack_21
+  - first:
+      213: 21300102
+    second: Ninja-rangedRunBack_22
+  - first:
+      213: 21300104
+    second: Ninja-rangedRunBack_23
+  - first:
+      213: 21300106
+    second: Ninja-rangedJump_0
+  - first:
+      213: 21300108
+    second: Ninja-rangedJump_1
+  - first:
+      213: 21300110
+    second: Ninja-rangedJump_2
+  - first:
+      213: 21300112
+    second: Ninja-rangedJump_3
+  - first:
+      213: 21300114
+    second: Ninja-rangedJump_4
+  - first:
+      213: 21300116
+    second: Ninja-rangedJump_5
+  - first:
+      213: 21300118
+    second: Ninja-rangedJump_6
+  - first:
+      213: 21300120
+    second: Ninja-rangedJump_7
+  - first:
+      213: 21300122
+    second: Ninja-rangedJump_8
+  - first:
+      213: 21300124
+    second: Ninja-rangedJump_9
+  - first:
+      213: 21300126
+    second: Ninja-rangedJump_10
+  - first:
+      213: 21300128
+    second: Ninja-ranged_68
+  - first:
+      213: 21300130
+    second: Ninja-rangedJump_11
+  - first:
+      213: 21300132
+    second: Ninja-rangedJump_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ninja-rangedIdle
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 616
+        width: 101
+        height: 122
+      alignment: 9
+      pivot: {x: 0.3815203, y: 0.8060903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02713605f4d9324c9d8b675da8bc0b8
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 615
+        width: 140
+        height: 121
+      alignment: 9
+      pivot: {x: 0.56091464, y: 0.80797076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470ae7885103740448f36541903651e0
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_1
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 618
+        width: 138
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5721491, y: 0.8139371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318488f6e932d22408b755a83de32916
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_2
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 616
+        width: 143
+        height: 118
+      alignment: 9
+      pivot: {x: 0.51612693, y: 0.8095248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd422b5798affb40877b5a4b530f3df
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_3
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 615
+        width: 130
+        height: 118
+      alignment: 9
+      pivot: {x: 0.547244, y: 0.8186449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35000eca251ba384f9123d79e4ae09fb
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_4
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 616
+        width: 120
+        height: 118
+      alignment: 9
+      pivot: {x: 0.55118054, y: 0.8228744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e20c09b1eb63814a8851211d0705847
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_5
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 618
+        width: 98
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5578501, y: 0.8161132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefda5a6da5e34143a723bd21100d0c8
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_6
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 617
+        width: 86
+        height: 120
+      alignment: 9
+      pivot: {x: 0.48200032, y: 0.8132482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7efcd8acb2192c458df73ab1b8438e8
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_7
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 616
+        width: 76
+        height: 119
+      alignment: 9
+      pivot: {x: 0.33789062, y: 0.80833834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3db8c747c7ae2a468a9560e69d294f7
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_8
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 616
+        width: 98
+        height: 121
+      alignment: 9
+      pivot: {x: 0.4531823, y: 0.7976967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb80a101465bd824a9474c317a872842
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_9
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 612
+        width: 111
+        height: 121
+      alignment: 9
+      pivot: {x: 0.46623272, y: 0.8051107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d633d3673afd0d6478ed92fccce8f92d
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_10
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 612
+        width: 123
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5246592, y: 0.79411954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052d25aaf917a4b47b8065df660e7e47
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_11
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 612
+        width: 135
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5689869, y: 0.8067387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1103e77af2e2514da15c21deb9c26c1
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 478
+        width: 145
+        height: 121
+      alignment: 9
+      pivot: {x: 0.55414, y: 0.8041982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c124c511d9fead4c8ab38fa4f0913a4
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 473
+        width: 146
+        height: 123
+      alignment: 9
+      pivot: {x: 0.53284943, y: 0.7995655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394b1608669a37248914fc80e0b35445
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_14
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 475
+        width: 143
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5312863, y: 0.8122375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2de1cbfa3daf346b359589efc23072
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_15
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 472
+        width: 135
+        height: 121
+      alignment: 9
+      pivot: {x: 0.52301073, y: 0.8115789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d77caa3901da645b8266a36438feb0
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_16
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 474
+        width: 120
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5402171, y: 0.8147968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e990410faafe43e498c2b86dfbe30bbd
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_17
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 473
+        width: 98
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5414466, y: 0.8237143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1374275c20795f40a3e80a22ccc33dc
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_18
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 473
+        width: 85
+        height: 123
+      alignment: 9
+      pivot: {x: 0.42970762, y: 0.82752705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845086d436b88a147925f6750e061bbb
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_19
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 471
+        width: 85
+        height: 124
+      alignment: 9
+      pivot: {x: 0.47655964, y: 0.81564087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b51157e0a01d54181e65f3c7b92f4a
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_20
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 469
+        width: 114
+        height: 120
+      alignment: 9
+      pivot: {x: 0.51965976, y: 0.835966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d1b92bf1349db4cb538d6bcc27b726
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_21
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 471
+        width: 112
+        height: 119
+      alignment: 9
+      pivot: {x: 0.54640526, y: 0.8403946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958a81efc04b8fc468b058764e63f5f5
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_22
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 467
+        width: 121
+        height: 121
+      alignment: 9
+      pivot: {x: 0.50879914, y: 0.8300312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8273373328cdc5e498574eae3b16e650
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRun_23
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 466
+        width: 131
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5554227, y: 0.8057124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0505fa34b91f1a4fb900759c5aa2ac0
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 320
+        width: 133
+        height: 120
+      alignment: 9
+      pivot: {x: 0.4016867, y: 0.81034213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cad72b83975364ea6760b2a57fabea
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 321
+        width: 103
+        height: 121
+      alignment: 9
+      pivot: {x: 0.42286682, y: 0.826928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f992e633331be54db995b786bf5c730
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 320
+        width: 86
+        height: 119
+      alignment: 9
+      pivot: {x: 0.41146922, y: 0.8435497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748c1ebc40253be42b1d14e7e8f17da9
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 321
+        width: 77
+        height: 120
+      alignment: 9
+      pivot: {x: 0.33233562, y: 0.8489624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb7aae3db683664889efae76effa505
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_4
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 316
+        width: 77
+        height: 127
+      alignment: 9
+      pivot: {x: 0.36028022, y: 0.81408906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba75231b0d470cc4b8d8ce4f3df94698
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_5
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 318
+        width: 85
+        height: 125
+      alignment: 9
+      pivot: {x: 0.32474867, y: 0.8350039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb970ec8e701df4dbdf1bb0a7c13a98
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_6
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 320
+        width: 87
+        height: 121
+      alignment: 9
+      pivot: {x: 0.43341416, y: 0.82556003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc15babe0708fa4da6520e6fdfef1bf
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_7
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 323
+        width: 106
+        height: 122
+      alignment: 9
+      pivot: {x: 0.3991158, y: 0.810267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e50c8100cd6eff43ad965c14b005c19
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_8
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 325
+        width: 118
+        height: 121
+      alignment: 9
+      pivot: {x: 0.37400377, y: 0.8124748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce61a5bf0dbb3c847bcdbb29a4ceedd9
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_9
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 326
+        width: 133
+        height: 123
+      alignment: 9
+      pivot: {x: 0.36989874, y: 0.813881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a0b42e6d7230141974165692efd528
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_10
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 330
+        width: 142
+        height: 123
+      alignment: 9
+      pivot: {x: 0.37655252, y: 0.801669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e6274572ff6eb4d9c0e2ac800ddbb0
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_11
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 328
+        width: 150
+        height: 121
+      alignment: 9
+      pivot: {x: 0.38296875, y: 0.81072295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81129be0369920d47b319e97ad43026d
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_12
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 327
+        width: 133
+        height: 122
+      alignment: 9
+      pivot: {x: 0.39259556, y: 0.82199425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9993bbbc4f3de941970ff95a5977812
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_13
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 322
+        width: 102
+        height: 124
+      alignment: 9
+      pivot: {x: 0.420762, y: 0.8183166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29782e9fef4416a479247aa8d5940c21
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 163
+        width: 92
+        height: 121
+      alignment: 9
+      pivot: {x: 0.35344464, y: 0.8179874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3839453daf85f6c46bd5f73f45e27ffb
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 162
+        width: 75
+        height: 121
+      alignment: 9
+      pivot: {x: 0.31907165, y: 0.82251054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90a70c1788a62947aa2a6646233c579
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 166
+        width: 76
+        height: 119
+      alignment: 9
+      pivot: {x: 0.33029577, y: 0.8282804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26fecc52964abc47a75e54b53199d1a
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_17
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 166
+        width: 76
+        height: 120
+      alignment: 9
+      pivot: {x: 0.38692275, y: 0.84061074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b835a5889058924aad3e4e4ccae3317
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_18
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 170
+        width: 92
+        height: 125
+      alignment: 9
+      pivot: {x: 0.41798002, y: 0.8135713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0c36f7dd281ce4b9f6d420b3bc07df
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_19
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 173
+        width: 106
+        height: 120
+      alignment: 9
+      pivot: {x: 0.393219, y: 0.82663673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3a8f3098f67244eab9ea1be873d072
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_20
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 177
+        width: 118
+        height: 120
+      alignment: 9
+      pivot: {x: 0.36144605, y: 0.83711725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c658150eefc88b46b231a0c067ade0b
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_21
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 178
+        width: 133
+        height: 121
+      alignment: 9
+      pivot: {x: 0.3644648, y: 0.82740194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3617215aa3c3cc74392b0a3a7efa405f
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_22
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 181
+        width: 142
+        height: 122
+      alignment: 9
+      pivot: {x: 0.3937206, y: 0.81269187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61adfc83e2e32843855085357772124
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedRunBack_23
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 181
+        width: 150
+        height: 123
+      alignment: 9
+      pivot: {x: 0.39799073, y: 0.80162907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f389adaf4b9105142b5f5ec020cf411b
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedJump_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 15
+        width: 117
+        height: 121
+      alignment: 9
+      pivot: {x: 0.4397789, y: 0.8289502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8ff5c24881d7a42892e5da2cdbcf07
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedJump_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 17
+        width: 106
+        height: 121
+      alignment: 9
+      pivot: {x: 0.4330021, y: 0.8317913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e78ec833ed3924093e0fb72a505ac3
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedJump_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 16
+        width: 96
+        height: 121
+      alignment: 9
+      pivot: {x: 0.4026648, y: 0.82633793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cee70bea1f99942bd8b266cc578d5d
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedJump_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 15
+        width: 95
+        height: 120
+      alignment: 9
+      pivot: {x: 0.3778436, y: 0.8278016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a317575002c3974993fdc34c5f242c6
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedJump_4
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 16
+        width: 89
+        height: 118
+      alignment: 9
+      pivot: {x: 0.3560606, y: 0.83846647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bef65b646d673b4daceea6e3452e14a
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedJump_5
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 16
+        width: 83
+        height: 119
+      alignment: 9
+      pivot: {x: 0.2927724, y: 0.837813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceb1e2238994c54abb4c781198e570c
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedJump_6
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 9
+        width: 79
+        height: 119
+      alignment: 9
+      pivot: {x: 0.24683622, y: 0.84957784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201903a5344ce38429e9a26ff06ce821
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedJump_7
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 14
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.241464, y: 0.83275676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed313a8e43902e4fbbc25c7e5e6d078
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedJump_8
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 15
+        width: 83
+        height: 118
+      alignment: 9
+      pivot: {x: 0.2228923, y: 0.83559126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e24caaabe253174287ac4f508d8c3dc
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedJump_9
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 22
+        width: 85
+        height: 114
+      alignment: 9
+      pivot: {x: 0.22470704, y: 0.8298226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaba4e1be944abd468a8af7ef662d7f3
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedJump_10
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 24
+        width: 86
+        height: 115
+      alignment: 9
+      pivot: {x: 0.20232587, y: 0.8373892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff019daa79dcf64db13295f3c572e45
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedJump_11
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 29
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: 0.17865196, y: 0.8309716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d46cff03635a384489b7482f4b07783
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rangedJump_12
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 27
+        width: 89
+        height: 112
+      alignment: 9
+      pivot: {x: 0.18539463, y: 0.8232123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f9dfd5b6e99cf47a6d4afc8159e473
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1f7bb143692aec742adc856129a22d8d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ninja-rangedRun_7: 21300016
+      Ninja-rangedJump_1: 21300108
+      Ninja-rangedRun_10: 21300022
+      Ninja-rangedRun_13: 21300028
+      Ninja-rangedRun_23: 21300050
+      Ninja-rangedRunBack_19: 21300096
+      Ninja-rangedRunBack_22: 21300102
+      Ninja-rangedJump_9: 21300124
+      Ninja-rangedRunBack_16: 21300090
+      Ninja-rangedRun_4: 21300010
+      Ninja-rangedJump_10: 21300126
+      Ninja-rangedRun_8: 21300018
+      Ninja-rangedRun_17: 21300036
+      Ninja-rangedRun_9: 21300020
+      Ninja-rangedRun_14: 21300030
+      Ninja-rangedRun_1: 21300004
+      Ninja-rangedRunBack_4: 21300062
+      Ninja-rangedRun_21: 21300044
+      Ninja-rangedRunBack_20: 21300098
+      Ninja-rangedRun_16: 21300034
+      Ninja-rangedRunBack_13: 21300080
+      Ninja-rangedJump_4: 21300114
+      Ninja-rangedRunBack_11: 21300076
+      Ninja-rangedJump_2: 21300110
+      Ninja-rangedJump_3: 21300112
+      Ninja-rangedRunBack_5: 21300064
+      Ninja-rangedJump_11: 21300130
+      Ninja-rangedRunBack_9: 21300072
+      Ninja-rangedRun_22: 21300046
+      Ninja-rangedJump_0: 21300106
+      Ninja-rangedRun_2: 21300006
+      Ninja-rangedRun_15: 21300032
+      Ninja-rangedRun_0: 21300002
+      Ninja-rangedRunBack_14: 21300086
+      Ninja-rangedJump_5: 21300116
+      Ninja-rangedRun_11: 21300024
+      Ninja-rangedRunBack_0: 21300052
+      Ninja-rangedJump_6: 21300118
+      Ninja-rangedRunBack_2: 21300058
+      Ninja-rangedRunBack_7: 21300068
+      Ninja-rangedRunBack_23: 21300104
+      Ninja-rangedRunBack_18: 21300094
+      Ninja-rangedRun_19: 21300040
+      Ninja-rangedRunBack_21: 21300100
+      Ninja-rangedRun_20: 21300042
+      Ninja-rangedRunBack_8: 21300070
+      Ninja-rangedIdle: 21300000
+      Ninja-rangedRun_12: 21300026
+      Ninja-rangedRun_5: 21300012
+      Ninja-rangedRun_18: 21300038
+      Ninja-rangedRun_3: 21300008
+      Ninja-rangedRunBack_15: 21300088
+      Ninja-rangedJump_8: 21300122
+      Ninja-rangedRunBack_6: 21300066
+      Ninja-rangedJump_7: 21300120
+      Ninja-rangedRunBack_1: 21300054
+      Ninja-rangedRunBack_17: 21300092
+      Ninja-rangedRunBack_12: 21300078
+      Ninja-rangedRunBack_3: 21300060
+      Ninja-rangedRun_6: 21300014
+      Ninja-rangedRunBack_10: 21300074
+      Ninja-rangedJump_12: 21300132
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

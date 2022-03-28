@@ -1,0 +1,1845 @@
+fileFormatVersion: 2
+guid: 2a7731b3086f11f4b8ac435843e6776f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: enemy-idle_0
+  - first:
+      213: 21300002
+    second: enemy-idle_1
+  - first:
+      213: 21300004
+    second: enemy-idle_2
+  - first:
+      213: 21300006
+    second: enemy-die_0
+  - first:
+      213: 21300008
+    second: enemy-die_1
+  - first:
+      213: 21300010
+    second: enemy-die_2
+  - first:
+      213: 21300012
+    second: enemy-die_3
+  - first:
+      213: 21300014
+    second: enemy-die_4
+  - first:
+      213: 21300016
+    second: enemy-die_5
+  - first:
+      213: 21300018
+    second: enemy-die_6
+  - first:
+      213: 21300020
+    second: enemy-die_7
+  - first:
+      213: 21300022
+    second: enemy-die_8
+  - first:
+      213: 21300024
+    second: enemy-die_9
+  - first:
+      213: 21300026
+    second: enemy-die_10
+  - first:
+      213: 21300028
+    second: enemy-die_11
+  - first:
+      213: 21300030
+    second: enemy-die_12
+  - first:
+      213: 21300032
+    second: enemy-die_13
+  - first:
+      213: 21300034
+    second: enemy-die_14
+  - first:
+      213: 21300036
+    second: enemy-die_15
+  - first:
+      213: 21300038
+    second: enemy-die_16
+  - first:
+      213: 21300040
+    second: enemy-die_17
+  - first:
+      213: 21300042
+    second: enemy-die_18
+  - first:
+      213: 21300044
+    second: enemy-die_19
+  - first:
+      213: 21300046
+    second: enemy-die_20
+  - first:
+      213: 21300048
+    second: enemy-die_21
+  - first:
+      213: 21300050
+    second: enemy-die_22
+  - first:
+      213: 21300052
+    second: enemy-die_23
+  - first:
+      213: 21300054
+    second: enemy-die_24
+  - first:
+      213: 21300056
+    second: enemy-die_25
+  - first:
+      213: 21300058
+    second: enemy-die_26
+  - first:
+      213: 21300060
+    second: enemy-die_27
+  - first:
+      213: 21300062
+    second: enemy-die_28
+  - first:
+      213: 21300064
+    second: enemy-die_29
+  - first:
+      213: 21300066
+    second: enemy-die_30
+  - first:
+      213: 21300068
+    second: enemy-die_31
+  - first:
+      213: 21300070
+    second: enemy-die_32
+  - first:
+      213: 21300072
+    second: enemy-die_33
+  - first:
+      213: 21300074
+    second: enemy-die_34
+  - first:
+      213: 21300076
+    second: enemy-die_35
+  - first:
+      213: 21300078
+    second: enemy-die_36
+  - first:
+      213: 21300080
+    second: enemy-die_37
+  - first:
+      213: 21300082
+    second: enemy-die_38
+  - first:
+      213: 21300084
+    second: enemy-die_39
+  - first:
+      213: 21300086
+    second: enemy-die_40
+  - first:
+      213: 21300088
+    second: enemy-die_41
+  - first:
+      213: 21300090
+    second: enemy-die_42
+  - first:
+      213: 21300092
+    second: enemy-die_43
+  - first:
+      213: 21300094
+    second: enemy-die_44
+  - first:
+      213: 21300096
+    second: enemy-die_45
+  - first:
+      213: 21300098
+    second: enemy-die_46
+  - first:
+      213: 21300100
+    second: enemy-die_47
+  - first:
+      213: 21300102
+    second: enemy-die_48
+  - first:
+      213: 21300104
+    second: enemy-die_49
+  - first:
+      213: 21300106
+    second: enemy-die_51
+  - first:
+      213: 21300108
+    second: enemy-idle_die_54
+  - first:
+      213: 21300110
+    second: enemy-idle_die_55
+  - first:
+      213: 21300112
+    second: enemy-die_52
+  - first:
+      213: 21300114
+    second: enemy-die_50
+  - first:
+      213: 21300116
+    second: enemy-die_53
+  - first:
+      213: 21300118
+    second: enemy-idle_die_59
+  - first:
+      213: 21300120
+    second: enemy-idle_die_60
+  - first:
+      213: 21300122
+    second: enemy-die_55
+  - first:
+      213: 21300124
+    second: enemy-idle_die_62
+  - first:
+      213: 21300126
+    second: enemy-idle_die_63
+  - first:
+      213: 21300128
+    second: enemy-die_56
+  - first:
+      213: 21300130
+    second: enemy-idle_die_65
+  - first:
+      213: 21300132
+    second: enemy-idle_die_66
+  - first:
+      213: 21300134
+    second: enemy-die_57
+  - first:
+      213: 21300136
+    second: enemy-idle_die_68
+  - first:
+      213: 21300138
+    second: enemy-die_54
+  - first:
+      213: 21300140
+    second: enemy-idle_die_0
+  - first:
+      213: 21300142
+    second: enemy-idle_die_1
+  - first:
+      213: 21300144
+    second: enemy-idle_die_2
+  - first:
+      213: 21300146
+    second: enemy-idle_die_3
+  - first:
+      213: 21300148
+    second: enemy-idle_die_4
+  - first:
+      213: 21300150
+    second: enemy-idle_die_5
+  - first:
+      213: 21300152
+    second: enemy-idle_die_6
+  - first:
+      213: 21300154
+    second: enemy-idle_die_7
+  - first:
+      213: 21300156
+    second: enemy-idle_die_8
+  - first:
+      213: 21300158
+    second: enemy-idle_die_9
+  - first:
+      213: 21300160
+    second: enemy-idle_die_10
+  - first:
+      213: 21300162
+    second: enemy-idle_die_11
+  - first:
+      213: 21300164
+    second: enemy-idle_die_12
+  - first:
+      213: 21300166
+    second: enemy-idle_die_13
+  - first:
+      213: 21300168
+    second: enemy-idle_die_14
+  - first:
+      213: 21300170
+    second: enemy-idle_die_15
+  - first:
+      213: 21300172
+    second: enemy-idle_die_16
+  - first:
+      213: 21300174
+    second: enemy-idle_die_17
+  - first:
+      213: 21300176
+    second: enemy-idle_die_18
+  - first:
+      213: 21300178
+    second: enemy-idle_die_19
+  - first:
+      213: 21300180
+    second: enemy-idle_die_20
+  - first:
+      213: 21300182
+    second: enemy-idle_die_21
+  - first:
+      213: 21300184
+    second: enemy-idle_die_22
+  - first:
+      213: 21300186
+    second: enemy-idle_die_23
+  - first:
+      213: 21300188
+    second: enemy-idle_die_24
+  - first:
+      213: 21300190
+    second: enemy-idle_die_25
+  - first:
+      213: 21300192
+    second: enemy-idle_die_26
+  - first:
+      213: 21300194
+    second: enemy-idle_die_27
+  - first:
+      213: 21300196
+    second: enemy-idle_die_28
+  - first:
+      213: 21300198
+    second: enemy-idle_die_29
+  - first:
+      213: 21300200
+    second: enemy-idle_die_30
+  - first:
+      213: 21300202
+    second: enemy-idle_die_31
+  - first:
+      213: 21300204
+    second: enemy-idle_die_32
+  - first:
+      213: 21300206
+    second: enemy-idle_die_33
+  - first:
+      213: 21300208
+    second: enemy-idle_die_34
+  - first:
+      213: 21300210
+    second: enemy-idle_die_35
+  - first:
+      213: 21300212
+    second: enemy-idle_die_36
+  - first:
+      213: 21300214
+    second: enemy-idle_die_37
+  - first:
+      213: 21300216
+    second: enemy-idle_die_38
+  - first:
+      213: 21300218
+    second: enemy-idle_die_39
+  - first:
+      213: 21300220
+    second: enemy-idle_die_40
+  - first:
+      213: 21300222
+    second: enemy-idle_die_41
+  - first:
+      213: 21300224
+    second: enemy-idle_die_42
+  - first:
+      213: 21300226
+    second: enemy-idle_die_43
+  - first:
+      213: 21300228
+    second: enemy-idle_die_44
+  - first:
+      213: 21300230
+    second: enemy-idle_die_45
+  - first:
+      213: 21300232
+    second: enemy-idle_die_46
+  - first:
+      213: 21300234
+    second: enemy-idle_die_47
+  - first:
+      213: 21300236
+    second: enemy-idle_die_48
+  - first:
+      213: 21300238
+    second: enemy-idle_die_49
+  - first:
+      213: 21300240
+    second: enemy-idle_die_50
+  - first:
+      213: 21300242
+    second: enemy-idle_die_51
+  - first:
+      213: 21300244
+    second: enemy-idle_die_52
+  - first:
+      213: 21300246
+    second: enemy-idle_die_53
+  - first:
+      213: 21300248
+    second: enemy-idle_die_56
+  - first:
+      213: 21300250
+    second: enemy-idle_die_57
+  - first:
+      213: 21300252
+    second: enemy-idle_die_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy-idle_die_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1672
+        width: 252
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3163e1322180f442a7aba26c04f892d
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1672
+        width: 252
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b0ff5cde444a04ca4449f4460ecaf1
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_2
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1672
+        width: 252
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdedc15b2f41c6e42976431cf310dd5b
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_3
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1670
+        width: 252
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ebf3c998154024ebf206226328b073
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_4
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1668
+        width: 250
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7525e00278085d4e8ae17f6c94ab118
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_5
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1668
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ec300bac2063d438d138a3d23db082
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_6
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1659
+        width: 250
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf86096a648b8747abadaa37f142a28
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_7
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 1651
+        width: 250
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7522e18a2326c4baea5e426dc4a13a
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_8
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 1647
+        width: 250
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545a0d7b128ab12409447185b5bbe686
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_9
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 1641
+        width: 250
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab9ef2bfd85eb140b508dc957d7644f
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_10
+      rect:
+        serializedVersion: 2
+        x: 3160
+        y: 1631
+        width: 250
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de23af0f26759444a699ecd89182d63
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_11
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 1624
+        width: 250
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4de24360a1c4a46bf14414f2cb3443
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1231
+        width: 250
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bca00dcc7e707488d68a8b492be963
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1227
+        width: 250
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615dd2aa4aa6a9748ab598209ab2a1e3
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_14
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1220
+        width: 251
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01130c4114d33c842a1b5a947eadc026
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_15
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1205
+        width: 251
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b263045d6d9bad4597d15e1bb9b5469
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_16
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1195
+        width: 253
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3faa209db11384a9c3b910337c8c47
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_17
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1195
+        width: 255
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87030c1730bffd64c85f1cb59dd989b7
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_18
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1186
+        width: 266
+        height: 376
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fb7ff0930cabe4e93612bd0e582f65
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_19
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 1195
+        width: 270
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb768bb4c0eeec4496bd370af785280
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_20
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1171
+        width: 282
+        height: 361
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae4aa5de97645f40b9b831aeed9bc00
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_21
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 1167
+        width: 281
+        height: 349
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e7adc8beb5d0d499113fe2445131b0
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_22
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 1160
+        width: 279
+        height: 338
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1396c1da0f30d0741833adde838fb1b4
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 813
+        width: 276
+        height: 332
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324029959f9125840b7c411afb04dc70
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_24
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 802
+        width: 278
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f5979dbb7ca434a9e2c6ffbbb4e0ee
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_25
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 792
+        width: 278
+        height: 322
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881e54d67392881439f059bd2fdbdaee
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_26
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 785
+        width: 263
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2751f949f26188e48a1d6ee9d7a73b24
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_27
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 776
+        width: 252
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf71c5e0caf8ca4a90998890e011e97
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_28
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 771
+        width: 235
+        height: 321
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d70d13c56070a54caef5b310e1d773a
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_29
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 765
+        width: 217
+        height: 321
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d89a7fe0c786644893630026e8aea68
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_30
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 765
+        width: 212
+        height: 323
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3f59035cd544f48bc5c4029fd92f7e
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_31
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 759
+        width: 207
+        height: 322
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971699a314b61854bac976f8ad3f98c7
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_32
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 756
+        width: 208
+        height: 323
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1120408bd6a8e44a29bfbd0ff827b1
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_33
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 754
+        width: 208
+        height: 322
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ce4dbacf6660b47b399ac88763e084
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_34
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 754
+        width: 210
+        height: 319
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b1d1547bd639247866928452ebbb1d
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 455
+        width: 219
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439b7cba22d1c184eb790e4fbacc0cbc
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_36
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 451
+        width: 219
+        height: 309
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a79288b04f56942b0f09fd09e85374
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_37
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 451
+        width: 224
+        height: 303
+      alignment: 9
+      pivot: {x: 0.5, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c41dd1e8acbd64388200d438372a81
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_38
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 445
+        width: 236
+        height: 294
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60fc9a7bb2f6a14da1b37a4aacd9197
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_39
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 436
+        width: 233
+        height: 279
+      alignment: 9
+      pivot: {x: 0.5, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2d73018b0765a49afbc2fe04beb719
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_40
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 445
+        width: 238
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1384b1d4ccf434fa63ea6670c5d511
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_41
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 446
+        width: 242
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2b1902f3da3c840af6c6c57e8beda9
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_42
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 445
+        width: 248
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900ade0a4571c8f4791308d4f93b91ff
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_43
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 445
+        width: 256
+        height: 248
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c9161f5fe1f0a409531a90554d2fa2
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_44
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 449
+        width: 257
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d7b04cab34c6c45842814687eae61d
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_45
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 452
+        width: 258
+        height: 239
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a16e457fcf7a0540a0b1aab787695be
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_46
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 457
+        width: 261
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 1.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2bf44cf02ab1b4cb3b83751d18f33c
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 189
+        width: 278
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 1.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1584ebafa38fd774488783b58acb860e
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_48
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 199
+        width: 287
+        height: 213
+      alignment: 9
+      pivot: {x: 0.5, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f0e7816e38a92478862ebbd73ee998
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_49
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 213
+        width: 298
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 1.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeef5804c61ce2148b238ed5c9ebcf6e
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_50
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 206
+        width: 305
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5, y: 1.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44f91d5f28532f4199643fb4a44bb11
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_51
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 209
+        width: 314
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5, y: 1.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284a7d3924d673447a604d722845f56f
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_52
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 220
+        width: 320
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 1.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651bbb683771df947b06e389952770a9
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_53
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 218
+        width: 324
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: 1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dc1bb6282b08f409e6c9b8ea0dc01c
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_54
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 235
+        width: 329
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 1.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea829bf1345b5ee40bd5f87f0d10846c
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_55
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 239
+        width: 336
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 1.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2658333ec38863541bebf1a596b5e058
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_56
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 242
+        width: 340
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ecdef92fae0b0418ec47bfe8caa5a7
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_57
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 23
+        width: 341
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 2.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cba5920fc3bc04d9c1c251330a5d84
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_58
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 49
+        width: 344
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41e69b5037bebe41b661fea5e45df45
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_59
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 59
+        width: 345
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 2.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623f9ef9ddb02b84f9066e3e247deb48
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-idle_die_60
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 67
+        width: 345
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c3cac90d634b94d8d9b42234a1b465
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e4349dbfb4dcf0749a356959ae1173ab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      enemy-idle_die_21: 21300182
+      enemy-idle_die_26: 21300192
+      enemy-idle_die_31: 21300202
+      enemy-idle_die_48: 21300236
+      enemy-idle_die_53: 21300246
+      enemy-idle_die_50: 21300240
+      enemy-idle_die_39: 21300218
+      enemy-idle_die_28: 21300196
+      enemy-idle_die_20: 21300180
+      enemy-idle_die_7: 21300154
+      enemy-idle_die_6: 21300152
+      enemy-idle_die_12: 21300164
+      enemy-idle_die_14: 21300168
+      enemy-idle_die_25: 21300190
+      enemy-idle_die_42: 21300224
+      enemy-idle_die_47: 21300234
+      enemy-idle_die_55: 21300110
+      enemy-idle_die_60: 21300120
+      enemy-idle_die_19: 21300178
+      enemy-idle_die_46: 21300232
+      enemy-idle_die_10: 21300160
+      enemy-idle_die_16: 21300172
+      enemy-idle_die_49: 21300238
+      enemy-idle_die_1: 21300142
+      enemy-idle_die_37: 21300214
+      enemy-idle_die_51: 21300242
+      enemy-idle_die_11: 21300162
+      enemy-idle_die_52: 21300244
+      enemy-idle_die_56: 21300248
+      enemy-idle_die_43: 21300226
+      enemy-idle_die_22: 21300184
+      enemy-idle_die_32: 21300204
+      enemy-idle_die_41: 21300222
+      enemy-idle_die_23: 21300186
+      enemy-idle_die_36: 21300212
+      enemy-idle_die_29: 21300198
+      enemy-idle_die_9: 21300158
+      enemy-idle_die_57: 21300250
+      enemy-idle_die_2: 21300144
+      enemy-idle_die_38: 21300216
+      enemy-idle_die_34: 21300208
+      enemy-idle_die_35: 21300210
+      enemy-idle_die_44: 21300228
+      enemy-idle_die_33: 21300206
+      enemy-idle_die_45: 21300230
+      enemy-idle_die_59: 21300118
+      enemy-idle_die_3: 21300146
+      enemy-idle_die_0: 21300140
+      enemy-idle_die_58: 21300252
+      enemy-idle_die_13: 21300166
+      enemy-idle_die_27: 21300194
+      enemy-idle_die_40: 21300220
+      enemy-idle_die_4: 21300148
+      enemy-idle_die_5: 21300150
+      enemy-idle_die_15: 21300170
+      enemy-idle_die_24: 21300188
+      enemy-idle_die_8: 21300156
+      enemy-idle_die_18: 21300176
+      enemy-idle_die_17: 21300174
+      enemy-idle_die_54: 21300108
+      enemy-idle_die_30: 21300200
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,797 @@
+fileFormatVersion: 2
+guid: f7b38fa5ad64f5e4bba824bcacca348f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ninja-walk_0
+  - first:
+      213: 21300002
+    second: Ninja-walk_1
+  - first:
+      213: 21300004
+    second: Ninja-walk_2
+  - first:
+      213: 21300006
+    second: Ninja-walk_3
+  - first:
+      213: 21300008
+    second: Ninja-walk_4
+  - first:
+      213: 21300010
+    second: Ninja-walk_5
+  - first:
+      213: 21300012
+    second: Ninja-walk_6
+  - first:
+      213: 21300014
+    second: Ninja-walk_7
+  - first:
+      213: 21300016
+    second: Ninja-walk_8
+  - first:
+      213: 21300018
+    second: Ninja-walk_9
+  - first:
+      213: 21300020
+    second: Ninja-walk_10
+  - first:
+      213: 21300022
+    second: Ninja-walk_11
+  - first:
+      213: 21300024
+    second: Ninja-walk_12
+  - first:
+      213: 21300026
+    second: Ninja-walk_13
+  - first:
+      213: 21300028
+    second: Ninja-walk_14
+  - first:
+      213: 21300030
+    second: Ninja-walk_15
+  - first:
+      213: 21300032
+    second: Ninja-walk_16
+  - first:
+      213: 21300034
+    second: Ninja-walk_17
+  - first:
+      213: 21300036
+    second: Ninja-walk_18
+  - first:
+      213: 21300038
+    second: Ninja-walk_19
+  - first:
+      213: 21300040
+    second: Ninja-walk_20
+  - first:
+      213: 21300042
+    second: Ninja-walk_21
+  - first:
+      213: 21300044
+    second: Ninja-walk_22
+  - first:
+      213: 21300046
+    second: Ninja-walk_23
+  - first:
+      213: 21300048
+    second: Ninja-idle-walk_0
+  - first:
+      213: 21300050
+    second: Ninja-idle-walk_1
+  - first:
+      213: 21300052
+    second: Ninja-idle-walk_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ninja-walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 854
+        width: 288
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7189805f9db098b478522b8fdf13a6b7
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 854
+        width: 288
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ee1ba82cea2234cbd2472f4b3c3fd8
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 854
+        width: 288
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8dc42e8a683354595b06845647ef9a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_3
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 860
+        width: 278
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740fff5f9888e794199e5ebc56ef0f27
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_4
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 856
+        width: 266
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470b04a7f000c8541b808b8c508bbe83
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_5
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 854
+        width: 260
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a714fd0c9253834ead3d4002c06c909
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_6
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 858
+        width: 260
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700b4c13830950e4aaa02a114228ecc2
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_7
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 858
+        width: 260
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dddb66571479849b5e8738eaf589e1
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_8
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 856
+        width: 260
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46987167baa45904a98d35e46469c5de
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_9
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 860
+        width: 259
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199150089f9611c4796cc3b8a9425c82
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_10
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 856
+        width: 288
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485116fcadda560489aa0ba61ed413e7
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 444
+        width: 314
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332f86e5e824fb64aa228ca981cfe405
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_12
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 448
+        width: 320
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc8e09f296b58742a8a046fe6bacfa9
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_13
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 440
+        width: 320
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79df699f92dc4b40a45b5bd0d4d5f2d
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_14
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 430
+        width: 310
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9e80adabaab9a45a327cf8c836d180
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_15
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 428
+        width: 292
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ea36bcb938e7143abdb616e4e73a0e
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_16
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 418
+        width: 276
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f911897a5e0eb4f9350a4b06f16056
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_17
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 418
+        width: 258
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc3e4a2a3b14f44f953b6c29059b2f1
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_18
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 424
+        width: 258
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b7eab05e77b53469bf387ed0df4ab4
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_19
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 430
+        width: 258
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab535425dcf9e346a2100cd83944bbc
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_20
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 428
+        width: 258
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a980a24f2b18d84dab6890a9f6f5f32
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_21
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 424
+        width: 274
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3838dd1590689354f8342b890268629c
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_22
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 54
+        width: 270
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cee8653dd7fcae418c692891df24292
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-walk_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 56
+        width: 280
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84543152b8420874b99a38bd3475c9c4
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-idle-walk_0
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 38
+        width: 238
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f56197ae053fab4991acfd1aae0178a
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-idle-walk_1
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 32
+        width: 252
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4088ce5cb0f0ea44b86e277791a5a371
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-idle-walk_2
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 28
+        width: 258
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd90d04c29b0b54cb2b7690405e617d
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bafa3094c71176d4084b2c03e03cbd45
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ninja-walk_3: 21300006
+      Ninja-walk_7: 21300014
+      Ninja-walk_8: 21300016
+      Ninja-walk_21: 21300042
+      Ninja-idle-walk_1: 21300050
+      Ninja-walk_2: 21300004
+      Ninja-walk_10: 21300020
+      Ninja-walk_11: 21300022
+      Ninja-walk_13: 21300026
+      Ninja-walk_5: 21300010
+      Ninja-idle-walk_2: 21300052
+      Ninja-walk_20: 21300040
+      Ninja-walk_15: 21300030
+      Ninja-walk_19: 21300038
+      Ninja-walk_17: 21300034
+      Ninja-walk_14: 21300028
+      Ninja-idle-walk_0: 21300048
+      Ninja-walk_4: 21300008
+      Ninja-walk_1: 21300002
+      Ninja-walk_22: 21300044
+      Ninja-walk_18: 21300036
+      Ninja-walk_9: 21300018
+      Ninja-walk_12: 21300024
+      Ninja-walk_0: 21300000
+      Ninja-walk_16: 21300032
+      Ninja-walk_23: 21300046
+      Ninja-walk_6: 21300012
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1494 @@
+fileFormatVersion: 2
+guid: 17f945ba30927f84098d03a0e6b4139f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: enemy-walk_0
+  - first:
+      213: 21300002
+    second: enemy-walk_1
+  - first:
+      213: 21300004
+    second: enemy-walk_2
+  - first:
+      213: 21300006
+    second: enemy-walk_3
+  - first:
+      213: 21300008
+    second: enemy-walk_4
+  - first:
+      213: 21300010
+    second: enemy-walk_5
+  - first:
+      213: 21300012
+    second: enemy-walk_6
+  - first:
+      213: 21300014
+    second: enemy-walk_7
+  - first:
+      213: 21300016
+    second: enemy-walk_8
+  - first:
+      213: 21300018
+    second: enemy-walk_9
+  - first:
+      213: 21300020
+    second: enemy-walk_10
+  - first:
+      213: 21300022
+    second: enemy-walk_11
+  - first:
+      213: 21300024
+    second: enemy-walk_12
+  - first:
+      213: 21300026
+    second: enemy-walk_13
+  - first:
+      213: 21300028
+    second: enemy-walk_14
+  - first:
+      213: 21300030
+    second: enemy-walk_15
+  - first:
+      213: 21300032
+    second: enemy-walk_16
+  - first:
+      213: 21300034
+    second: enemy-walk_17
+  - first:
+      213: 21300036
+    second: enemy-walk_18
+  - first:
+      213: 21300038
+    second: enemy-walk_19
+  - first:
+      213: 21300040
+    second: enemy-walk_20
+  - first:
+      213: 21300042
+    second: enemy-walk_21
+  - first:
+      213: 21300044
+    second: enemy-walk_melee_22
+  - first:
+      213: 21300046
+    second: enemy-walk_22
+  - first:
+      213: 21300048
+    second: enemy-walk_23
+  - first:
+      213: 21300050
+    second: enemy-melee_0
+  - first:
+      213: 21300052
+    second: enemy-melee_1
+  - first:
+      213: 21300054
+    second: enemy-melee_2
+  - first:
+      213: 21300056
+    second: enemy-melee_3
+  - first:
+      213: 21300058
+    second: enemy-melee_4
+  - first:
+      213: 21300060
+    second: enemy-melee_5
+  - first:
+      213: 21300062
+    second: enemy-melee_6
+  - first:
+      213: 21300064
+    second: enemy-melee_7
+  - first:
+      213: 21300066
+    second: enemy-melee_8
+  - first:
+      213: 21300068
+    second: enemy-melee_9
+  - first:
+      213: 21300070
+    second: enemy-melee_10
+  - first:
+      213: 21300072
+    second: enemy-melee_11
+  - first:
+      213: 21300074
+    second: enemy-melee_12
+  - first:
+      213: 21300076
+    second: enemy-melee_13
+  - first:
+      213: 21300078
+    second: enemy-melee_14
+  - first:
+      213: 21300080
+    second: enemy-melee_15
+  - first:
+      213: 21300082
+    second: enemy-melee_16
+  - first:
+      213: 21300084
+    second: enemy-melee_17
+  - first:
+      213: 21300086
+    second: enemy-melee_18
+  - first:
+      213: 21300088
+    second: enemy-melee_19
+  - first:
+      213: 21300090
+    second: enemy-melee_20
+  - first:
+      213: 21300092
+    second: enemy-melee_21
+  - first:
+      213: 21300094
+    second: enemy-melee_22
+  - first:
+      213: 21300096
+    second: enemy-melee_23
+  - first:
+      213: 21300098
+    second: enemy-melee_24
+  - first:
+      213: 21300100
+    second: enemy-walk_melee_0
+  - first:
+      213: 21300102
+    second: enemy-walk_melee_1
+  - first:
+      213: 21300104
+    second: enemy-walk_melee_2
+  - first:
+      213: 21300106
+    second: enemy-walk_melee_3
+  - first:
+      213: 21300108
+    second: enemy-walk_melee_4
+  - first:
+      213: 21300110
+    second: enemy-walk_melee_5
+  - first:
+      213: 21300112
+    second: enemy-walk_melee_6
+  - first:
+      213: 21300114
+    second: enemy-walk_melee_7
+  - first:
+      213: 21300116
+    second: enemy-walk_melee_8
+  - first:
+      213: 21300118
+    second: enemy-walk_melee_9
+  - first:
+      213: 21300120
+    second: enemy-walk_melee_10
+  - first:
+      213: 21300122
+    second: enemy-walk_melee_11
+  - first:
+      213: 21300124
+    second: enemy-walk_melee_12
+  - first:
+      213: 21300126
+    second: enemy-walk_melee_13
+  - first:
+      213: 21300128
+    second: enemy-walk_melee_14
+  - first:
+      213: 21300130
+    second: enemy-walk_melee_15
+  - first:
+      213: 21300132
+    second: enemy-walk_melee_16
+  - first:
+      213: 21300134
+    second: enemy-walk_melee_17
+  - first:
+      213: 21300136
+    second: enemy-walk_melee_18
+  - first:
+      213: 21300138
+    second: enemy-walk_melee_19
+  - first:
+      213: 21300140
+    second: enemy-walk_melee_20
+  - first:
+      213: 21300142
+    second: enemy-walk_melee_21
+  - first:
+      213: 21300144
+    second: enemy-walk_melee_23
+  - first:
+      213: 21300146
+    second: enemy-walk_melee_24
+  - first:
+      213: 21300148
+    second: enemy-walk_melee_25
+  - first:
+      213: 21300150
+    second: enemy-walk_melee_26
+  - first:
+      213: 21300152
+    second: enemy-walk_melee_27
+  - first:
+      213: 21300154
+    second: enemy-walk_melee_28
+  - first:
+      213: 21300156
+    second: enemy-walk_melee_29
+  - first:
+      213: 21300158
+    second: enemy-walk_melee_30
+  - first:
+      213: 21300160
+    second: enemy-walk_melee_31
+  - first:
+      213: 21300162
+    second: enemy-walk_melee_32
+  - first:
+      213: 21300164
+    second: enemy-walk_melee_33
+  - first:
+      213: 21300166
+    second: enemy-walk_melee_34
+  - first:
+      213: 21300168
+    second: enemy-walk_melee_35
+  - first:
+      213: 21300170
+    second: enemy-walk_melee_36
+  - first:
+      213: 21300172
+    second: enemy-walk_melee_37
+  - first:
+      213: 21300174
+    second: enemy-walk_melee_38
+  - first:
+      213: 21300176
+    second: enemy-walk_melee_39
+  - first:
+      213: 21300178
+    second: enemy-walk_melee_40
+  - first:
+      213: 21300180
+    second: enemy-walk_melee_41
+  - first:
+      213: 21300182
+    second: enemy-walk_melee_42
+  - first:
+      213: 21300184
+    second: enemy-walk_melee_43
+  - first:
+      213: 21300186
+    second: enemy-walk_melee_44
+  - first:
+      213: 21300188
+    second: enemy-walk_melee_45
+  - first:
+      213: 21300190
+    second: enemy-walk_melee_46
+  - first:
+      213: 21300192
+    second: enemy-walk_melee_47
+  - first:
+      213: 21300194
+    second: enemy-walk_melee_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy-walk_melee_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1878
+        width: 266
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f56c8d8aeb483e4a991e127c5b6631a
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1869
+        width: 241
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1927367a401036847b885e4864889bc6
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_2
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1876
+        width: 245
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318282daaed83fb44a9b8647e8698714
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_3
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1869
+        width: 225
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6751720cb7d30540b1d9327963e75bb
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_4
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1867
+        width: 245
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4bced215dd4c34d97ece4bcc275c87
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_5
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1869
+        width: 203
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985b02196e3e17f419e6e2df4eb558d8
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_6
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1869
+        width: 198
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1cc701ce80a634ca6573fb1b454b22
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_7
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1871
+        width: 200
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d7547242950cf469803e537bce4470
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_8
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 1874
+        width: 217
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3db22d2630cb3749a11705924ae8786
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_9
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 1871
+        width: 239
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c5758d400925d419a82795438b7119
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_10
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 1869
+        width: 254
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7aa08db87cb1c44a4cdae8fd70fe3d
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_11
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 1861
+        width: 267
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34fa42f09c00514198591be01380c47
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1445
+        width: 275
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49f4e6cd37d88f449d5ae9a062b31b8
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1440
+        width: 274
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4796b2b564d31c49886b6b298dc3be1
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_14
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1439
+        width: 268
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a047831e10603e47a65f04582f7ea61
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_15
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1428
+        width: 250
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a04f70b9d9864448e4a59d4b0014d1
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_16
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1425
+        width: 261
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92b870a6e0857149a84b7d1d94ae9af
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_17
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1425
+        width: 210
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb1ea54382d2c74e9c5827486025055
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_18
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1425
+        width: 197
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5da86bc6a1c3d14a869806450ccbd8a
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_19
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 1423
+        width: 189
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c6e7a2301049148be54e84e7d38a2a
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_20
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 1423
+        width: 199
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85343c04cfb34a04e84a0670df409b83
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_21
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 1425
+        width: 213
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b205e3782109d4797b46196a5a1548
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_22
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 1436
+        width: 227
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a2d3c595ea3164b9e08fe0567b083f
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_23
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 1436
+        width: 234
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d90dab594ea6b439880bf1aae30f3a
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 913
+        width: 249
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a86d33141b09243988863207d0cd61
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_25
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 924
+        width: 221
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e975511fcac6044aa0d0b03b0886d7
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_26
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 924
+        width: 209
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15f311cf9f8cc743b18781aaa2e6a16
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_27
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 935
+        width: 205
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb79ce6120ca544799719ef050e3c67
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_28
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 955
+        width: 200
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703d69450ed7889478e13640ed0319e9
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_29
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 946
+        width: 198
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2275f199ea4c8419f8a6c23b56dea1
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_30
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 943
+        width: 213
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cedd7ded2e05df4582b83828bb79508
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_31
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 949
+        width: 213
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d2d4a18f571fc4080b9adc3f8d7894
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_32
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 969
+        width: 223
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af17defac85b8e4a8cc64a261799809
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_33
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 964
+        width: 251
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ec80dad2686364480fcea5a46dc138
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_34
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 949
+        width: 262
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b41083171ae714fae2b1210673736c
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_35
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 955
+        width: 279
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570f8052e04c7924b964721963622d51
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 489
+        width: 295
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196fbcfc81bba3343979ee4267b8d012
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_37
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 482
+        width: 297
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d45c743933376408cb3ac7f69d93c4
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_38
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 482
+        width: 290
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586fc71f4075b61408aed3ff2bf3a7b9
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_39
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 482
+        width: 294
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccecb4271acded499ca5463716be963
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_40
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 494
+        width: 289
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa1be23aad98324c938cd59291a7554
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_41
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 494
+        width: 296
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20694b1116ce4d34f85291888a3d728c
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_42
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 503
+        width: 310
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e96da832bd38a479147131257c876a
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_43
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 511
+        width: 327
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f536a4f66d9f3c74fb32eb82cc723bfc
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_44
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 509
+        width: 334
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c510c1ee560b09a489061e924a73e423
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_45
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 502
+        width: 341
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec25df5f92d45314db4e73860517a702
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_46
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 67
+        width: 340
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0af1b60e97da74491a5fae2900629d
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_47
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 44
+        width: 342
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e2cd7b03f1bb84fbb1c683713c5b70
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-walk_melee_48
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 41
+        width: 346
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2db765d06c5d840933aa90fe7e59c7
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1288b1a24aca1fc4a866ae8836a50c6f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      enemy-walk_melee_34: 21300166
+      enemy-walk_melee_12: 21300124
+      enemy-walk_melee_3: 21300106
+      enemy-walk_melee_19: 21300138
+      enemy-walk_melee_47: 21300192
+      enemy-walk_melee_6: 21300112
+      enemy-walk_melee_10: 21300120
+      enemy-walk_melee_9: 21300118
+      enemy-walk_melee_5: 21300110
+      enemy-walk_melee_40: 21300178
+      enemy-walk_melee_18: 21300136
+      enemy-walk_melee_21: 21300142
+      enemy-walk_melee_30: 21300158
+      enemy-walk_melee_38: 21300174
+      enemy-walk_melee_43: 21300184
+      enemy-walk_melee_26: 21300150
+      enemy-walk_melee_48: 21300194
+      enemy-walk_melee_29: 21300156
+      enemy-walk_melee_4: 21300108
+      enemy-walk_melee_37: 21300172
+      enemy-walk_melee_16: 21300132
+      enemy-walk_melee_31: 21300160
+      enemy-walk_melee_35: 21300168
+      enemy-walk_melee_7: 21300114
+      enemy-walk_melee_25: 21300148
+      enemy-walk_melee_14: 21300128
+      enemy-walk_melee_22: 21300044
+      enemy-walk_melee_1: 21300102
+      enemy-walk_melee_28: 21300154
+      enemy-walk_melee_45: 21300188
+      enemy-walk_melee_36: 21300170
+      enemy-walk_melee_2: 21300104
+      enemy-walk_melee_44: 21300186
+      enemy-walk_melee_32: 21300162
+      enemy-walk_melee_46: 21300190
+      enemy-walk_melee_8: 21300116
+      enemy-walk_melee_13: 21300126
+      enemy-walk_melee_39: 21300176
+      enemy-walk_melee_15: 21300130
+      enemy-walk_melee_41: 21300180
+      enemy-walk_melee_17: 21300134
+      enemy-walk_melee_24: 21300146
+      enemy-walk_melee_27: 21300152
+      enemy-walk_melee_42: 21300182
+      enemy-walk_melee_33: 21300164
+      enemy-walk_melee_11: 21300122
+      enemy-walk_melee_23: 21300144
+      enemy-walk_melee_0: 21300100
+      enemy-walk_melee_20: 21300140
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

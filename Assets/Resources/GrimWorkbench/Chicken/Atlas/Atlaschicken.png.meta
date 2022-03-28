@@ -1,0 +1,557 @@
+fileFormatVersion: 2
+guid: 7c57d5229a5893e43bbd16e799a32cec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Atlaschicken_0
+  - first:
+      213: 21300002
+    second: Atlaschicken_1
+  - first:
+      213: 21300004
+    second: Atlaschicken_2
+  - first:
+      213: 21300006
+    second: Atlaschicken_3
+  - first:
+      213: 21300008
+    second: Atlaschicken_4
+  - first:
+      213: 21300010
+    second: Atlaschicken_5
+  - first:
+      213: 21300012
+    second: Atlaschicken_6
+  - first:
+      213: 21300014
+    second: Atlaschicken_7
+  - first:
+      213: 21300016
+    second: Atlaschicken_8
+  - first:
+      213: 21300018
+    second: Atlaschicken_9
+  - first:
+      213: 21300020
+    second: Atlaschicken_10
+  - first:
+      213: 21300022
+    second: Atlaschicken_11
+  - first:
+      213: 21300024
+    second: Atlaschicken_12
+  - first:
+      213: 21300026
+    second: Atlaschicken_13
+  - first:
+      213: 21300028
+    second: Atlaschicken_14
+  - first:
+      213: 21300030
+    second: Atlaschicken_15
+  - first:
+      213: 21300032
+    second: Atlaschicken1_0
+  - first:
+      213: 21300034
+    second: Atlaschicken1_1
+  - first:
+      213: 21300036
+    second: Atlaschicken1_2
+  - first:
+      213: 21300038
+    second: Atlaschicken1_3
+  - first:
+      213: 21300040
+    second: Atlaschicken1_4
+  - first:
+      213: 21300042
+    second: Atlaschicken1_5
+  - first:
+      213: 21300044
+    second: Atlaschicken1_6
+  - first:
+      213: 21300046
+    second: Atlaschicken1_7
+  - first:
+      213: 21300048
+    second: Atlaschicken1_8
+  - first:
+      213: 21300050
+    second: Atlaschicken1_9
+  - first:
+      213: 21300052
+    second: Atlaschicken1_10
+  - first:
+      213: 21300054
+    second: Atlaschicken1_11
+  - first:
+      213: 21300056
+    second: Atlaschicken1_12
+  - first:
+      213: 21300058
+    second: Atlaschicken1_13
+  - first:
+      213: 21300060
+    second: Atlaschicken1_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 4
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlaschicken1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 837
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlaschicken1_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 965
+        width: 86
+        height: 52
+      alignment: 9
+      pivot: {x: 0.7676106, y: 0.25104582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlaschicken1_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 837
+        width: 101
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlaschicken1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 298
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlaschicken1_4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 443
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlaschicken1_5
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 359
+        width: 188
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlaschicken1_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 359
+        width: 117
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlaschicken1_7
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 359
+        width: 136
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlaschicken1_8
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 359
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlaschicken1_9
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 359
+        width: 142
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlaschicken1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 434
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlaschicken1_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 325
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlaschicken1_12
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 202
+        width: 190
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlaschicken1_13
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 339
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlaschicken1_14
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 195
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Atlaschicken1_8: 21300048
+      Atlaschicken1_9: 21300050
+      Atlaschicken1_10: 21300052
+      Atlaschicken1_14: 21300060
+      Atlaschicken1_13: 21300058
+      Atlaschicken1_6: 21300044
+      Atlaschicken1_4: 21300040
+      Atlaschicken1_12: 21300056
+      Atlaschicken1_11: 21300054
+      Atlaschicken1_2: 21300036
+      Atlaschicken1_5: 21300042
+      Atlaschicken1_3: 21300038
+      Atlaschicken1_7: 21300046
+      Atlaschicken1_0: 21300032
+      Atlaschicken1_1: 21300034
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

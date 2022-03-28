@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 7b57f779db52e324c8f1c082eb2f9e9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: soldier_head
+  - first:
+      213: 21300002
+    second: soldier right_shoulder
+  - first:
+      213: 21300004
+    second: soldier body
+  - first:
+      213: 21300006
+    second: soldier left_shoulder
+  - first:
+      213: 21300008
+    second: soldier left_limb
+  - first:
+      213: 21300010
+    second: soldier_right_leg
+  - first:
+      213: 21300012
+    second: soldier right_arm
+  - first:
+      213: 21300014
+    second: soldier left_arm
+  - first:
+      213: 21300016
+    second: soldier left_leg
+  - first:
+      213: 21300018
+    second: soldier_weapon
+  - first:
+      213: 21300020
+    second: soldier right_lib
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soldier_head
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 120
+        width: 28
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15277787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8be1a56121a8254398dda6959759dfa
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier right_shoulder
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 121
+        width: 37
+        height: 41
+      alignment: 9
+      pivot: {x: 0.77300054, y: 0.80179876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c5ba344d7c96545b6859bd17a4f1cb
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier body
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 75
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8e84797862a3f429f33ce22e554b84
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier left_shoulder
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 116
+        width: 36
+        height: 43
+      alignment: 9
+      pivot: {x: 0.25448948, y: 0.8288702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee985348ae43fe7498c8e446053e5ffe
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier left_limb
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 104
+        width: 35
+        height: 61
+      alignment: 9
+      pivot: {x: 0.26190534, y: 0.8684387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41047794640c480409e102778df7aa4f
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_right_leg
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 39
+        width: 21
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.88986355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3219c0c7955d10344acb8e777516c8f5
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier right_arm
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 78
+        width: 42
+        height: 23
+      alignment: 9
+      pivot: {x: 0.19937497, y: 0.7415463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbcb8b7221f4cb44a1e31ad3a5c4e75
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier left_arm
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 81
+        width: 33
+        height: 26
+      alignment: 9
+      pivot: {x: 0.16330048, y: 0.7913757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915bbcdbfad63f040a12e6b39be6b7da
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier left_leg
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 28
+        width: 29
+        height: 57
+      alignment: 9
+      pivot: {x: 0.3955078, y: 0.8677122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae9619a55beda04b9be575b68788b7b
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_weapon
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 12
+        width: 108
+        height: 49
+      alignment: 9
+      pivot: {x: 0.23578383, y: 0.5618428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232e0c53f677f5c4095d4ca76b159f11
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier right_lib
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 12
+        width: 29
+        height: 60
+      alignment: 9
+      pivot: {x: 0.59578574, y: 0.8787879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f1765347e84f549a666e84a93bfa10
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0c1da17209ff98a469e4b37294f03e6d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      soldier right_lib: 21300020
+      soldier right_shoulder: 21300002
+      soldier left_shoulder: 21300006
+      soldier_right_leg: 21300010
+      soldier left_limb: 21300008
+      soldier left_arm: 21300014
+      soldier right_arm: 21300012
+      soldier body: 21300004
+      soldier left_leg: 21300016
+      soldier_head: 21300000
+      soldier_weapon: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

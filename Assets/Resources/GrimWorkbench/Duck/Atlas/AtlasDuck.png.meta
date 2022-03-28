@@ -1,0 +1,602 @@
+fileFormatVersion: 2
+guid: 00de0899cb0f5a640a4e9a364af81b70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Atlaschicken_0
+  - first:
+      213: 21300002
+    second: Atlaschicken_1
+  - first:
+      213: 21300004
+    second: Atlaschicken_2
+  - first:
+      213: 21300006
+    second: Atlaschicken_3
+  - first:
+      213: 21300008
+    second: Atlaschicken_4
+  - first:
+      213: 21300010
+    second: Atlaschicken_5
+  - first:
+      213: 21300012
+    second: Atlaschicken_6
+  - first:
+      213: 21300014
+    second: Atlaschicken_7
+  - first:
+      213: 21300016
+    second: Atlaschicken_8
+  - first:
+      213: 21300018
+    second: Atlaschicken_9
+  - first:
+      213: 21300020
+    second: Atlaschicken_10
+  - first:
+      213: 21300022
+    second: Atlaschicken_11
+  - first:
+      213: 21300024
+    second: Atlaschicken_12
+  - first:
+      213: 21300026
+    second: Atlaschicken_13
+  - first:
+      213: 21300028
+    second: Atlaschicken_14
+  - first:
+      213: 21300030
+    second: Atlaschicken_15
+  - first:
+      213: 21300032
+    second: Atlaschicken1_0
+  - first:
+      213: 21300034
+    second: Atlaschicken1_1
+  - first:
+      213: 21300036
+    second: Atlaschicken1_2
+  - first:
+      213: 21300038
+    second: Atlaschicken1_3
+  - first:
+      213: 21300040
+    second: Atlaschicken1_4
+  - first:
+      213: 21300042
+    second: Atlaschicken1_5
+  - first:
+      213: 21300044
+    second: Atlaschicken1_6
+  - first:
+      213: 21300046
+    second: Atlaschicken1_7
+  - first:
+      213: 21300048
+    second: Atlaschicken1_8
+  - first:
+      213: 21300050
+    second: Atlaschicken1_9
+  - first:
+      213: 21300052
+    second: Atlaschicken1_10
+  - first:
+      213: 21300054
+    second: Atlaschicken1_11
+  - first:
+      213: 21300056
+    second: Atlaschicken1_12
+  - first:
+      213: 21300058
+    second: Atlaschicken1_13
+  - first:
+      213: 21300060
+    second: Atlaschicken1_14
+  - first:
+      213: 21300062
+    second: AtlasDuck_0
+  - first:
+      213: 21300064
+    second: AtlasDuck_1
+  - first:
+      213: 21300066
+    second: AtlasDuck_2
+  - first:
+      213: 21300068
+    second: AtlasDuck_3
+  - first:
+      213: 21300070
+    second: AtlasDuck_4
+  - first:
+      213: 21300072
+    second: AtlasDuck_5
+  - first:
+      213: 21300074
+    second: AtlasDuck_6
+  - first:
+      213: 21300076
+    second: AtlasDuck_7
+  - first:
+      213: 21300078
+    second: AtlasDuck_8
+  - first:
+      213: 21300080
+    second: AtlasDuck_9
+  - first:
+      213: 21300082
+    second: AtlasDuck_10
+  - first:
+      213: 21300084
+    second: AtlasDuck_11
+  - first:
+      213: 21300086
+    second: AtlasDuck_12
+  - first:
+      213: 21300088
+    second: AtlasDuck_13
+  - first:
+      213: 21300090
+    second: AtlasDuck_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 4
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AtlasDuck_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 919
+        width: 117
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasDuck_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 919
+        width: 67
+        height: 68
+      alignment: 9
+      pivot: {x: 0.3089374, y: 0.5412436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasDuck_2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 963
+        width: 86
+        height: 52
+      alignment: 9
+      pivot: {x: 0.78433585, y: 0.25104582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasDuck_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 835
+        width: 188
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasDuck_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 835
+        width: 101
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasDuck_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 299
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasDuck_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 623
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasDuck_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 543
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasDuck_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 543
+        width: 74
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4222478, y: 0.76153195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasDuck_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 352
+        width: 191
+        height: 191
+      alignment: 9
+      pivot: {x: 0.41715965, y: 0.39456767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasDuck_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 430
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasDuck_11
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 339
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasDuck_12
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 294
+        width: 142
+        height: 51
+      alignment: 9
+      pivot: {x: 0.55064803, y: 0.5000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasDuck_13
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 168
+        width: 190
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasDuck_14
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 0
+        width: 241
+        height: 167
+      alignment: 9
+      pivot: {x: 0.3030403, y: 0.5430659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AtlasDuck_5: 21300072
+      AtlasDuck_1: 21300064
+      AtlasDuck_4: 21300070
+      AtlasDuck_14: 21300090
+      AtlasDuck_9: 21300080
+      AtlasDuck_12: 21300086
+      AtlasDuck_0: 21300062
+      AtlasDuck_7: 21300076
+      AtlasDuck_13: 21300088
+      AtlasDuck_6: 21300074
+      AtlasDuck_3: 21300068
+      AtlasDuck_10: 21300082
+      AtlasDuck_11: 21300084
+      AtlasDuck_2: 21300066
+      AtlasDuck_8: 21300078
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
