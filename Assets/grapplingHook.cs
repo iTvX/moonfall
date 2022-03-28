@@ -8,6 +8,7 @@ public class grapplingHook : MonoBehaviour
 	DistanceJoint2D joint;
 	Vector3 targetPos;
 	RaycastHit2D hit;
+	RaycastHit2D hitTemp;
 	public float distance = 2f;
 	public LayerMask mask;
 	public float step = 0.04f;
@@ -26,7 +27,7 @@ public class grapplingHook : MonoBehaviour
 	// Update is called once per frame
 	void Update()
 	{
-
+		
 		if (joint.distance > .5f && joint.connectedBody != null)
 		{
 			if (joint.connectedBody.tag != "wall")
@@ -46,12 +47,12 @@ public class grapplingHook : MonoBehaviour
 		if (Input.GetKeyDown(KeyCode.E))
 		{
 			currentPos = GetComponent<Rigidbody2D>().transform.position;
-			// print("shooting hook");
+			print("shooting hook");
 			targetPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 			targetPos.z = 0;
-			// print("target: "+targetPos);
-			// print("current:" + currentPos);
-			// print("dir: " + (targetPos - currentPos));
+			print("target: "+targetPos);
+			print("current:" + currentPos);
+			print("dir: " + (targetPos - currentPos));
 			targetPos.z = 0;
 			//lookDirection = Camera.main.ScreenToWorldPoint(Input.mousePosition) - currentPos;//transform.position;
 			//tempPos = transform.position;
@@ -64,24 +65,28 @@ public class grapplingHook : MonoBehaviour
 			if (hit.collider != null )
 
 			{
-				/*print(transform.position);
+				print(transform.position);
 				print(currentPos);
-				print("hit");*/
-				// print("hit point: "+hit.point);
+				print("hit");
+				print("hit point: "+hit.point);
 				
 				joint.enabled = true;
 				
 				anchorPos = new Vector2(hit.collider.gameObject.GetComponent<Rigidbody2D>().transform.position.x, hit.collider.gameObject.GetComponent<Rigidbody2D>().transform.position.y);
-				// print("anchor: " + anchorPos);
+				print("anchor: " + anchorPos);
 				Vector2 connectPoint = hit.point - anchorPos;
 				connectPoint.x = connectPoint.x / hit.collider.transform.localScale.x;
 				connectPoint.y = connectPoint.y / hit.collider.transform.localScale.y;
-				//Debug.Log(connectPoint);
-				
-
+				Debug.Log(connectPoint);
+				Debug.Log("hit again:");
+				//Vector2 v2 = ( 0, 0 );
+				joint.anchor = new Vector2(0,0);
+				Vector3 tempp = hit.collider.gameObject.GetComponent<Rigidbody2D>().transform.InverseTransformDirection(connectPoint);
+				tempp.z = 0;
+				Debug.Log(tempp);
 				joint.connectedBody = hit.collider.gameObject.GetComponent<Rigidbody2D>();
 				joint.distance = Vector2.Distance(currentPos, hit.point);
-				joint.connectedAnchor = hit.collider.gameObject.GetComponent<Rigidbody2D>().transform.InverseTransformDirection(connectPoint);
+				joint.connectedAnchor = tempp;
 				line.enabled = true;
 				line.SetPosition(0, transform.position);
 				line.SetPosition(1, hit.point);
@@ -98,7 +103,7 @@ public class grapplingHook : MonoBehaviour
 
 			line.SetPosition(0, transform.position);
 		}
-
+		
 
 		if (Input.GetKeyUp(KeyCode.E))
 		{
@@ -106,7 +111,7 @@ public class grapplingHook : MonoBehaviour
 			joint.enabled = false;
 			line.enabled = false;
 		}
-
+		
 	}
 
 }
