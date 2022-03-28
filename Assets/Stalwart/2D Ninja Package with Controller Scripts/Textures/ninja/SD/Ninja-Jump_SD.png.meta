@@ -1,0 +1,1134 @@
+fileFormatVersion: 2
+guid: e470f9bcf7da7fa4e896201f12a50bb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ninja-Jump_0
+  - first:
+      213: 21300002
+    second: Ninja-Jump_1
+  - first:
+      213: 21300004
+    second: Ninja-Jump_2
+  - first:
+      213: 21300006
+    second: Ninja-Jump_3
+  - first:
+      213: 21300008
+    second: Ninja-Jump_4
+  - first:
+      213: 21300010
+    second: Ninja-Jump_5
+  - first:
+      213: 21300012
+    second: Ninja-Jump_6
+  - first:
+      213: 21300014
+    second: Ninja-Jump_7
+  - first:
+      213: 21300016
+    second: Ninja-Jump_8
+  - first:
+      213: 21300018
+    second: Ninja-Jump_9
+  - first:
+      213: 21300020
+    second: Ninja-Jump_10
+  - first:
+      213: 21300022
+    second: Ninja-Jump_11
+  - first:
+      213: 21300024
+    second: Ninja-Jump_12
+  - first:
+      213: 21300026
+    second: Ninja-Jump2_0
+  - first:
+      213: 21300028
+    second: Ninja-Jump2_1
+  - first:
+      213: 21300030
+    second: Ninja-Jump2_2
+  - first:
+      213: 21300032
+    second: Ninja-Jump2_3
+  - first:
+      213: 21300034
+    second: Ninja-Jump2_4
+  - first:
+      213: 21300036
+    second: Ninja-Jump2_5
+  - first:
+      213: 21300038
+    second: Ninja-Jump2_6
+  - first:
+      213: 21300040
+    second: Ninja-Jump2_7
+  - first:
+      213: 21300042
+    second: Ninja-Jump2_8
+  - first:
+      213: 21300044
+    second: Ninja-Jump2_9
+  - first:
+      213: 21300046
+    second: Ninja-Jump_23
+  - first:
+      213: 21300048
+    second: Ninja-Jump2_10
+  - first:
+      213: 21300050
+    second: Ninja-Jump2_11
+  - first:
+      213: 21300052
+    second: Ninja-Jump2_12
+  - first:
+      213: 21300054
+    second: Ninja-Jump2_13
+  - first:
+      213: 21300056
+    second: Ninja-Jump2_14
+  - first:
+      213: 21300058
+    second: Ninja-Jump_29
+  - first:
+      213: 21300060
+    second: Ninja-Jump2_15
+  - first:
+      213: 21300062
+    second: Ninja-Jump2_16
+  - first:
+      213: 21300064
+    second: Ninja-Jump2_17
+  - first:
+      213: 21300066
+    second: Ninja-Jump2_18
+  - first:
+      213: 21300068
+    second: Ninja-Jump_34
+  - first:
+      213: 21300070
+    second: Ninja-Jump2_19
+  - first:
+      213: 21300072
+    second: Ninja-Jump2_20
+  - first:
+      213: 21300074
+    second: Ninja-Jump2_21
+  - first:
+      213: 21300076
+    second: Ninja-Jump_38
+  - first:
+      213: 21300078
+    second: Ninja-Jump2_22
+  - first:
+      213: 21300080
+    second: Ninja-Jump2_23
+  - first:
+      213: 21300082
+    second: Ninja-Jump2_24
+  - first:
+      213: 21300084
+    second: Ninja-Jump2_25
+  - first:
+      213: 21300086
+    second: Ninja-Jump2_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ninja-Jump_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1004
+        width: 138
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc563ac70df280f4796ef7272dd952cc
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1004
+        width: 137
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e331fd111a94a24fbb58cde5aadbf30
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1005
+        width: 138
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2e1055ed0b5d6479b4f9f2d4f4e61d
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump_3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1005
+        width: 137
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd81b109aabad9843b5a4080a3447342
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump_4
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1005
+        width: 136
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed8ad953fbddc346b0f03f11e477c89
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump_5
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1004
+        width: 138
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f54e2a03fbb7f42b65c1c3b4401272
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump_6
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1006
+        width: 143
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebda2fe01b1e7f4aae971efb3f29182
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump_7
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1007
+        width: 143
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de55dcec10fff8649b6ec5509f7b8a1e
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump_8
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1010
+        width: 146
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65a14ae2363777449990a52ce1d4bb7
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump_9
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1015
+        width: 153
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c39c637f4979dc479698dda0cc6968c
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump_10
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1018
+        width: 160
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fff8b0f58739144960fdd6a893d059
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 811
+        width: 158
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba07858934eb7345840acbfeb368f5b
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 813
+        width: 159
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3c4e62982db0942916bd0dd10b5a45
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_0
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 768
+        width: 131
+        height: 192
+      alignment: 9
+      pivot: {x: 0.47941437, y: 0.5202872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec37fb4cc65f1a44984075c9d576276
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_1
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 771
+        width: 133
+        height: 189
+      alignment: 9
+      pivot: {x: 0.47747114, y: 0.5126824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fb0c5c29404984c8f06736e741a8ad
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_2
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 783
+        width: 136
+        height: 185
+      alignment: 9
+      pivot: {x: 0.46695215, y: 0.5032388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cef62369542a245b395f8b07b2547d
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_3
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 787
+        width: 138
+        height: 177
+      alignment: 9
+      pivot: {x: 0.46960184, y: 0.5033852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb53496a95dd15e4a9435a23e22db1a8
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_4
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 802
+        width: 141
+        height: 168
+      alignment: 9
+      pivot: {x: 0.4808739, y: 0.5017831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f6941756c22df4e81006bc696a5a11
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_5
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 800
+        width: 145
+        height: 160
+      alignment: 9
+      pivot: {x: 0.47726882, y: 0.5243446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ff35ace73ad7e4e8e87d3a28e7c237
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_6
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 805
+        width: 138
+        height: 156
+      alignment: 9
+      pivot: {x: 0.4827129, y: 0.54078126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd3d2ddfccfc2846a5ebfd973d27227
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 551
+        width: 138
+        height: 149
+      alignment: 9
+      pivot: {x: 0.44058746, y: 0.57909995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4b3961f0960b84cb08e7b1a2c86e1f
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 556
+        width: 154
+        height: 142
+      alignment: 9
+      pivot: {x: 0.44676012, y: 0.5829992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d35d0cecf014a543aab83bc76451e36
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 561
+        width: 169
+        height: 129
+      alignment: 9
+      pivot: {x: 0.4818068, y: 0.56355697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b405a6df7dad3bc42b218e74d5c96d5a
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_10
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 573
+        width: 170
+        height: 136
+      alignment: 9
+      pivot: {x: 0.49095675, y: 0.5226068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49ebf3aace7690479c8fd1673ab2dae
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_11
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 574
+        width: 131
+        height: 158
+      alignment: 9
+      pivot: {x: 0.2692079, y: 0.38648504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f707aa1fa111e6c42be4ae21bf16b94a
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_12
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 584
+        width: 146
+        height: 161
+      alignment: 9
+      pivot: {x: 0.36662564, y: 0.41406325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea2dec5a85c4934da943e7396402dae
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_13
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 580
+        width: 141
+        height: 153
+      alignment: 9
+      pivot: {x: 0.44185036, y: 0.4999996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1073d827e73d2444b597e122d176cc6
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_14
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 579
+        width: 151
+        height: 130
+      alignment: 9
+      pivot: {x: 0.3914035, y: 0.69314766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a26e2b971737c458794c87004465b0
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 309
+        width: 165
+        height: 139
+      alignment: 9
+      pivot: {x: 0.3912015, y: 0.6755105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b65f9066ac6bcd408c569cb16264ba0
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_16
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 312
+        width: 159
+        height: 148
+      alignment: 9
+      pivot: {x: 0.41604576, y: 0.6399565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e030705d7c47a64187126bd94c4afa0
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_17
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 330
+        width: 153
+        height: 146
+      alignment: 9
+      pivot: {x: 0.45487267, y: 0.5851244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9808d52e16b45a64f97d6fbf66fd935a
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_18
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 340
+        width: 156
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5501611, y: 0.5592815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05930c2c87a9ae04398fe324f6d4294b
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_19
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 302
+        width: 135
+        height: 163
+      alignment: 9
+      pivot: {x: 0.71139777, y: 0.6355488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a036b5536c4c844802b93045f47e29
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_20
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 300
+        width: 149
+        height: 157
+      alignment: 9
+      pivot: {x: 0.6235712, y: 0.58502394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcf63e2fde1c5140b197bad91ee4104
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_21
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 303
+        width: 149
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5556067, y: 0.55863726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17215805cc31d643925177fee0dd15e
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_22
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 43
+        width: 136
+        height: 174
+      alignment: 9
+      pivot: {x: 0.49999973, y: 0.51813084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8623f923f77e0fa4d9ab9534cf86968c
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 59
+        width: 137
+        height: 185
+      alignment: 9
+      pivot: {x: 0.48355123, y: 0.475639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445575a169574ac4bb2d88f5355c80eb
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_24
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 71
+        width: 141
+        height: 186
+      alignment: 9
+      pivot: {x: 0.4584472, y: 0.46365464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e6345fb4665f24590af948c361de7c
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_25
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 64
+        width: 131
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5068802, y: 0.48674476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb070b780eea8ea49a51e2175a56b129
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-Jump2_26
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 65
+        width: 137
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5098681, y: 0.5111006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3deb2897e9d24a458d6c1a9e1a3e1a4
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d153f96f4fd217c4ba188864e6c02eb7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ninja-Jump2_8: 21300042
+      Ninja-Jump2_10: 21300048
+      Ninja-Jump2_22: 21300078
+      Ninja-Jump2_17: 21300064
+      Ninja-Jump2_13: 21300054
+      Ninja-Jump2_24: 21300082
+      Ninja-Jump_12: 21300024
+      Ninja-Jump2_12: 21300052
+      Ninja-Jump2_21: 21300074
+      Ninja-Jump_8: 21300016
+      Ninja-Jump2_20: 21300072
+      Ninja-Jump2_23: 21300080
+      Ninja-Jump2_26: 21300086
+      Ninja-Jump2_3: 21300032
+      Ninja-Jump2_18: 21300066
+      Ninja-Jump_4: 21300008
+      Ninja-Jump_2: 21300004
+      Ninja-Jump2_7: 21300040
+      Ninja-Jump_3: 21300006
+      Ninja-Jump_6: 21300012
+      Ninja-Jump_11: 21300022
+      Ninja-Jump2_25: 21300084
+      Ninja-Jump2_0: 21300026
+      Ninja-Jump2_14: 21300056
+      Ninja-Jump2_19: 21300070
+      Ninja-Jump_0: 21300000
+      Ninja-Jump2_6: 21300038
+      Ninja-Jump_7: 21300014
+      Ninja-Jump_5: 21300010
+      Ninja-Jump2_2: 21300030
+      Ninja-Jump2_4: 21300034
+      Ninja-Jump2_1: 21300028
+      Ninja-Jump_1: 21300002
+      Ninja-Jump2_15: 21300060
+      Ninja-Jump2_16: 21300062
+      Ninja-Jump2_11: 21300050
+      Ninja-Jump_10: 21300020
+      Ninja-Jump2_5: 21300036
+      Ninja-Jump_9: 21300018
+      Ninja-Jump2_9: 21300044
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

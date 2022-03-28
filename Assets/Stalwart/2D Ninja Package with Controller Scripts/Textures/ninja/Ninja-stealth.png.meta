@@ -1,0 +1,797 @@
+fileFormatVersion: 2
+guid: 7089b3b2d9315794cab7e74e629b76e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ninja-stealth_0
+  - first:
+      213: 21300002
+    second: Ninja-stealth_1
+  - first:
+      213: 21300004
+    second: Ninja-stealth_2
+  - first:
+      213: 21300006
+    second: Ninja-stealth_3
+  - first:
+      213: 21300008
+    second: Ninja-stealth_4
+  - first:
+      213: 21300010
+    second: Ninja-stealth_5
+  - first:
+      213: 21300012
+    second: Ninja-stealth_6
+  - first:
+      213: 21300014
+    second: Ninja-stealth_7
+  - first:
+      213: 21300016
+    second: Ninja-stealth_8
+  - first:
+      213: 21300018
+    second: Ninja-stealth_9
+  - first:
+      213: 21300020
+    second: Ninja-stealth_10
+  - first:
+      213: 21300022
+    second: Ninja-stealth_11
+  - first:
+      213: 21300024
+    second: Ninja-stealth_12
+  - first:
+      213: 21300026
+    second: Ninja-stealth_13
+  - first:
+      213: 21300028
+    second: Ninja-stealth_14
+  - first:
+      213: 21300030
+    second: Ninja-stealth_15
+  - first:
+      213: 21300032
+    second: Ninja-stealth_16
+  - first:
+      213: 21300034
+    second: Ninja-stealth_17
+  - first:
+      213: 21300036
+    second: Ninja-stealth_18
+  - first:
+      213: 21300038
+    second: Ninja-stealth_19
+  - first:
+      213: 21300040
+    second: Ninja-stealth_20
+  - first:
+      213: 21300042
+    second: Ninja-stealth_21
+  - first:
+      213: 21300044
+    second: Ninja-stealth_22
+  - first:
+      213: 21300046
+    second: Ninja-stealth_23
+  - first:
+      213: 21300048
+    second: Ninja-stealth_24
+  - first:
+      213: 21300050
+    second: Ninja-stealth_25
+  - first:
+      213: 21300052
+    second: Ninja-stealth_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ninja-stealth_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 852
+        width: 314
+        height: 268
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35062c36020e2a9488f98876a8ac2140
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 850
+        width: 316
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb3b60f12276684e8e461bdf260477f
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_2
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 860
+        width: 306
+        height: 274
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b21b5540b542c49b30251acd0a5c90
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_3
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 852
+        width: 300
+        height: 278
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8e23284caec174c8fc4618b3a3def2
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_4
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 852
+        width: 306
+        height: 282
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0f3fd018666a248aa577282938c1da
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_5
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 852
+        width: 304
+        height: 286
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9234b2c0344ebd4c8d22b0406ae63ed
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_6
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 852
+        width: 300
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e9f0e13fc3c234f94c071f04b6dacf
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_7
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 852
+        width: 296
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1d894c2eb081a46ae1ede722af1b92
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_8
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 852
+        width: 302
+        height: 282
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf0a46e05c95714fbd6477cb2cd2c5f
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_9
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 852
+        width: 298
+        height: 280
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e9d9723a1632145969ede679b582d4
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 464
+        width: 314
+        height: 274
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a412917829b2069499a183996e5d8bc3
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 458
+        width: 320
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c34330b15e4f6a49a2da8f9becec6da
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_12
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 460
+        width: 334
+        height: 268
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ade6330d777e14488a4930a9f94dd2
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_13
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 456
+        width: 332
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d114ab19703d6844996925fcfe396f3d
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_14
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 454
+        width: 324
+        height: 274
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a07cdb346a1a894998eedae1fc63863
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_15
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 450
+        width: 312
+        height: 280
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081b05d97dc09b74dae7c4978c3b894a
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_16
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 450
+        width: 302
+        height: 282
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9798ca5441efe9741b1751177ba8c170
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_17
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 454
+        width: 296
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beea9c0bb006ed47975b7ccd513dcc1
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_18
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 454
+        width: 300
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0626f15fd637e1c4c95cefd24d703d4a
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_19
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 458
+        width: 304
+        height: 286
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c841ecb4454ca4489870ff0d00a38ce
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 64
+        width: 306
+        height: 282
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4d6bf55d7dce542a41ef3f3c0016f6
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_21
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 58
+        width: 300
+        height: 278
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc4a1a1f6723634b943a8667a679e41
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_22
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 54
+        width: 288
+        height: 274
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27722cf1005d4c544ab4e9437f4a31f7
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_23
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 58
+        width: 306
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345e50224c473a24cb913f56e563d2e6
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_24
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 50
+        width: 296
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ed7c4ed8637664fa5cf591f8bfb79c
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_25
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 48
+        width: 296
+        height: 294
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444cc5eb685c22c4da7e94beb8bb1b06
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-stealth_26
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 50
+        width: 298
+        height: 280
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb19642317da1734084c206e9ab9bebd
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 453831a063f13c0488cfaefb8e46b76b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ninja-stealth_22: 21300044
+      Ninja-stealth_0: 21300000
+      Ninja-stealth_4: 21300008
+      Ninja-stealth_8: 21300016
+      Ninja-stealth_6: 21300012
+      Ninja-stealth_26: 21300052
+      Ninja-stealth_18: 21300036
+      Ninja-stealth_25: 21300050
+      Ninja-stealth_13: 21300026
+      Ninja-stealth_20: 21300040
+      Ninja-stealth_21: 21300042
+      Ninja-stealth_12: 21300024
+      Ninja-stealth_23: 21300046
+      Ninja-stealth_3: 21300006
+      Ninja-stealth_11: 21300022
+      Ninja-stealth_1: 21300002
+      Ninja-stealth_7: 21300014
+      Ninja-stealth_14: 21300028
+      Ninja-stealth_15: 21300030
+      Ninja-stealth_10: 21300020
+      Ninja-stealth_19: 21300038
+      Ninja-stealth_9: 21300018
+      Ninja-stealth_2: 21300004
+      Ninja-stealth_24: 21300048
+      Ninja-stealth_17: 21300034
+      Ninja-stealth_5: 21300010
+      Ninja-stealth_16: 21300032
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

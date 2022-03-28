@@ -1,0 +1,1847 @@
+fileFormatVersion: 2
+guid: 22e8d6dab6d9c8f45bfd8ae8b1c92fd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ninja-rifleAim_0
+  - first:
+      213: 21300002
+    second: Ninja-rifleAim_1
+  - first:
+      213: 21300004
+    second: Ninja-rifleAim_2
+  - first:
+      213: 21300006
+    second: Ninja-rifleIdle_0
+  - first:
+      213: 21300008
+    second: Ninja-rifleIdle_1
+  - first:
+      213: 21300010
+    second: Ninja-rifleIdle_2
+  - first:
+      213: 21300012
+    second: Ninja-rifleIdle_3
+  - first:
+      213: 21300014
+    second: Ninja-fire_0
+  - first:
+      213: 21300016
+    second: Ninja-fire_1
+  - first:
+      213: 21300018
+    second: Ninja-fire_2
+  - first:
+      213: 21300020
+    second: Ninja-fire_3
+  - first:
+      213: 21300022
+    second: Ninja-fire_4
+  - first:
+      213: 21300024
+    second: Ninja-fire_5
+  - first:
+      213: 21300026
+    second: Ninja-fire_6
+  - first:
+      213: 21300028
+    second: Ninja-fire_7
+  - first:
+      213: 21300030
+    second: Ninja-fire_8
+  - first:
+      213: 21300032
+    second: Ninja-fireAir_0
+  - first:
+      213: 21300034
+    second: Ninja-fireAir_1
+  - first:
+      213: 21300036
+    second: Ninja-fireAir_2
+  - first:
+      213: 21300038
+    second: Ninja-fireAir_3
+  - first:
+      213: 21300040
+    second: Ninja-fireAir_4
+  - first:
+      213: 21300042
+    second: Ninja-fireAir_5
+  - first:
+      213: 21300044
+    second: Ninja-fireAir_6
+  - first:
+      213: 21300046
+    second: Ninja-fireAir_7
+  - first:
+      213: 21300048
+    second: Ninja-fireAir_8
+  - first:
+      213: 21300050
+    second: Ninja-rifleJump_0
+  - first:
+      213: 21300052
+    second: Ninja-rifleJump_1
+  - first:
+      213: 21300054
+    second: Ninja-rifleJump_2
+  - first:
+      213: 21300056
+    second: Ninja-rifleJump_3
+  - first:
+      213: 21300058
+    second: Ninja-rifleJump_4
+  - first:
+      213: 21300060
+    second: Ninja-rifleJump_5
+  - first:
+      213: 21300062
+    second: Ninja-rifleJump_6
+  - first:
+      213: 21300064
+    second: Ninja-rifleReload_0
+  - first:
+      213: 21300066
+    second: Ninja-rifleReload_1
+  - first:
+      213: 21300068
+    second: Ninja-rifleReload_2
+  - first:
+      213: 21300070
+    second: Ninja-rifleReload_3
+  - first:
+      213: 21300072
+    second: Ninja-rifleReload_4
+  - first:
+      213: 21300074
+    second: Ninja-rifleReload_5
+  - first:
+      213: 21300076
+    second: Ninja-rifleReload_6
+  - first:
+      213: 21300078
+    second: Ninja-rifleReload_7
+  - first:
+      213: 21300080
+    second: Ninja-rifleReload_8
+  - first:
+      213: 21300082
+    second: Ninja-rifleReload_9
+  - first:
+      213: 21300084
+    second: Ninja-rifleReload_10
+  - first:
+      213: 21300086
+    second: Ninja-rifleRun_0
+  - first:
+      213: 21300088
+    second: Ninja-rifleRun_1
+  - first:
+      213: 21300090
+    second: Ninja-rifleRun_2
+  - first:
+      213: 21300092
+    second: Ninja-rifleRun_3
+  - first:
+      213: 21300094
+    second: Ninja-rifleRun_4
+  - first:
+      213: 21300096
+    second: Ninja-rifleRun_5
+  - first:
+      213: 21300098
+    second: Ninja-rifleRun_6
+  - first:
+      213: 21300100
+    second: Ninja-rifleRun_7
+  - first:
+      213: 21300102
+    second: Ninja-rifleRun_8
+  - first:
+      213: 21300104
+    second: Ninja-rifleRun_9
+  - first:
+      213: 21300106
+    second: Ninja-rifleRun_10
+  - first:
+      213: 21300108
+    second: Ninja-rifleRun_11
+  - first:
+      213: 21300110
+    second: Ninja-rifleRun_12
+  - first:
+      213: 21300112
+    second: Ninja-rifleRunBack_0
+  - first:
+      213: 21300114
+    second: Ninja-rifleRunBack_1
+  - first:
+      213: 21300116
+    second: Ninja-rifleRunBack_2
+  - first:
+      213: 21300118
+    second: Ninja-rifleRunBack_3
+  - first:
+      213: 21300120
+    second: Ninja-rifleRunBack_4
+  - first:
+      213: 21300122
+    second: Ninja-rifleRunBack_5
+  - first:
+      213: 21300124
+    second: Ninja-rifleRunBack_6
+  - first:
+      213: 21300126
+    second: Ninja-rifleRunBack_7
+  - first:
+      213: 21300128
+    second: Ninja-rifleRunBack_8
+  - first:
+      213: 21300130
+    second: Ninja-rifleRunBack_9
+  - first:
+      213: 21300132
+    second: Ninja-rifleRunBack_10
+  - first:
+      213: 21300134
+    second: Ninja-rifleRunBack_11
+  - first:
+      213: 21300136
+    second: Ninja-rifleRunBack_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ninja-rifleAim_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1077
+        width: 160
+        height: 96
+      alignment: 9
+      pivot: {x: 0.22761281, y: 0.049175262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21867d3226839a42aaa49cfd1ca375c
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleAim_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1077
+        width: 160
+        height: 96
+      alignment: 9
+      pivot: {x: 0.22717066, y: 0.046089172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22d3ef7b7e404542b38d62adbd658c0
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleAim_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1078
+        width: 160
+        height: 96
+      alignment: 9
+      pivot: {x: 0.22823982, y: 0.04612859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ba18fd06b24ea469ea5ab2a9a3d3ee
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleIdle_0
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1079
+        width: 160
+        height: 98
+      alignment: 9
+      pivot: {x: 0.27234992, y: 0.050263073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1c914b204edef4b866bf8dc5ddf33c
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleIdle_1
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1078
+        width: 160
+        height: 98
+      alignment: 9
+      pivot: {x: 0.27520448, y: 0.047933772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bc7bf9460c68d4bb60b7fcd5b19aba
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleIdle_2
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1078
+        width: 160
+        height: 98
+      alignment: 9
+      pivot: {x: 0.273777, y: 0.05142897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d304d134bbac44e8620ba1f61b6711
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleIdle_3
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1078
+        width: 160
+        height: 98
+      alignment: 9
+      pivot: {x: 0.27449113, y: 0.05259362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb260768114fbe04ea039b7d58d52029
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-fire_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 948
+        width: 157
+        height: 96
+      alignment: 9
+      pivot: {x: 0.23287585, y: 0.05536906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97675c09301a5446a1dccc69ce32943
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-fire_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 947
+        width: 178
+        height: 96
+      alignment: 9
+      pivot: {x: 0.2096165, y: 0.050756454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1914bd205a647e940985d59f8f4464eb
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-fire_2
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 945
+        width: 178
+        height: 96
+      alignment: 9
+      pivot: {x: 0.20689426, y: 0.047391254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47ee4a79d2b45346a5292719b952611
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-fire_3
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 947
+        width: 179
+        height: 96
+      alignment: 9
+      pivot: {x: 0.20728391, y: 0.054153442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb4a1d13338a0d49b4a157ae707571b
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-fire_4
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 948
+        width: 182
+        height: 96
+      alignment: 9
+      pivot: {x: 0.21192782, y: 0.0497818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcfc326107531044ac006a11c715449
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-fire_5
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 952
+        width: 177
+        height: 96
+      alignment: 9
+      pivot: {x: 0.22409558, y: 0.050572712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6017d22f0fda94041afbe88a4196481f
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-fire_6
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 954
+        width: 178
+        height: 96
+      alignment: 9
+      pivot: {x: 0.22740053, y: 0.04960378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fb196da90502048a44a07a95effa7a
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-fire_7
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 959
+        width: 177
+        height: 96
+      alignment: 9
+      pivot: {x: 0.22958253, y: 0.049273174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05dfb487d6aa954e9a2047be0b25973
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-fire_8
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 959
+        width: 176
+        height: 96
+      alignment: 9
+      pivot: {x: 0.2295664, y: 0.05235036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5120f6f3b44e62c4fbc6a0257a6b7d11
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-fireAir_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 822
+        width: 170
+        height: 97
+      alignment: 9
+      pivot: {x: 0.07198919, y: 0.15086003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26885bd844c0e2a41bff66318fafffe3
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-fireAir_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 819
+        width: 191
+        height: 97
+      alignment: 9
+      pivot: {x: 0.06360367, y: 0.15519542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1efdc1923f4c84987191eab2b9e3a7
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-fireAir_2
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 818
+        width: 190
+        height: 98
+      alignment: 9
+      pivot: {x: 0.06770951, y: 0.15020877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf881686b907df4b9cf99b5362c0d99
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-fireAir_3
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 818
+        width: 189
+        height: 98
+      alignment: 9
+      pivot: {x: 0.077992596, y: 0.13981909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0622f54b9dfbcd44b5f469e1d1d557b
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-fireAir_4
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 820
+        width: 186
+        height: 98
+      alignment: 9
+      pivot: {x: 0.091258384, y: 0.13808767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b08788f8a0e28a428be262c3f07c259
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-fireAir_5
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 822
+        width: 190
+        height: 98
+      alignment: 9
+      pivot: {x: 0.10164987, y: 0.13116081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8001fea22517a94e9445c18b48c5f89
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-fireAir_6
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 820
+        width: 190
+        height: 98
+      alignment: 9
+      pivot: {x: 0.114154376, y: 0.13289285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279332f9a9c536346b527dc3e715513a
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-fireAir_7
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 814
+        width: 188
+        height: 99
+      alignment: 9
+      pivot: {x: 0.11456299, y: 0.13831492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78247686c9d26c946824a309c64e1f0e
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-fireAir_8
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 817
+        width: 193
+        height: 99
+      alignment: 9
+      pivot: {x: 0.117513865, y: 0.136601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28759d48b89e6b141863a8b1a0a4e73e
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleJump_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 689
+        width: 162
+        height: 99
+      alignment: 9
+      pivot: {x: 0.22998998, y: 0.06783102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6598d65035c25c74eb5bb160fd546473
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleJump_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 689
+        width: 162
+        height: 99
+      alignment: 9
+      pivot: {x: 0.22999017, y: 0.07473478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d521ff631667e14c92ba59f020b0f17
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleJump_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 689
+        width: 163
+        height: 100
+      alignment: 9
+      pivot: {x: 0.20481133, y: 0.08582214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776c36729419f27478933c350b6cefcc
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleJump_3
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 696
+        width: 165
+        height: 100
+      alignment: 9
+      pivot: {x: 0.16365375, y: 0.1063263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd7c1df75b471418805cf68651de7b
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleJump_4
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 700
+        width: 165
+        height: 99
+      alignment: 9
+      pivot: {x: 0.12554562, y: 0.12167944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b934826e94cf9994d9a47f8c1ae1b977
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleJump_5
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 700
+        width: 166
+        height: 98
+      alignment: 9
+      pivot: {x: 0.094863705, y: 0.13734654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffd40f43b28a384783a00dd67951612
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleJump_6
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 702
+        width: 166
+        height: 97
+      alignment: 9
+      pivot: {x: 0.08142384, y: 0.14851741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a720986da5561f74388140447d4d2a9e
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleReload_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 559
+        width: 160
+        height: 98
+      alignment: 9
+      pivot: {x: 0.23186591, y: 0.062230323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2262fdf95e224642939fe3db14b44d9
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleReload_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 559
+        width: 161
+        height: 98
+      alignment: 9
+      pivot: {x: 0.2254958, y: 0.06471471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570989c6df2addf4991d54411b806f00
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleReload_2
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 559
+        width: 163
+        height: 98
+      alignment: 9
+      pivot: {x: 0.20458479, y: 0.06340743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6826258793cc01340bc3729b6d1188b8
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleReload_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 563
+        width: 164
+        height: 98
+      alignment: 9
+      pivot: {x: 0.19805498, y: 0.058679074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b70d4ee1a1aed4c9676ee5666db976
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleReload_4
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 559
+        width: 166
+        height: 106
+      alignment: 9
+      pivot: {x: 0.19337115, y: 0.13810125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96df4e71dc421a4cabc2b56d1df22b2
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleReload_5
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 559
+        width: 168
+        height: 110
+      alignment: 9
+      pivot: {x: 0.18437086, y: 0.15705733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ef99897561b6342ac389ccea800cbc
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleReload_6
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 562
+        width: 170
+        height: 108
+      alignment: 9
+      pivot: {x: 0.17995821, y: 0.1467709}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca7b9afd79b3674ea2d32a2cb451e37
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleReload_7
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 569
+        width: 174
+        height: 102
+      alignment: 9
+      pivot: {x: 0.17876565, y: 0.09578031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59269430912463c4899d3a726da10400
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleReload_8
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 570
+        width: 176
+        height: 107
+      alignment: 9
+      pivot: {x: 0.17637843, y: 0.13850418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52216d611fb6f3d449a2cf12c151a14e
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleReload_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 429
+        width: 177
+        height: 110
+      alignment: 9
+      pivot: {x: 0.16989125, y: 0.1646562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be31fd6e4c420e54986ee82b4c9f9952
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleReload_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 426
+        width: 178
+        height: 111
+      alignment: 9
+      pivot: {x: 0.17245218, y: 0.16797838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63376f710202e3f49a2b1b7658ba368f
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRun_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 289
+        width: 94
+        height: 108
+      alignment: 9
+      pivot: {x: 0.15441139, y: 0.24366449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e01c8770309744ebd35c4b48296c2f
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRun_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 287
+        width: 96
+        height: 109
+      alignment: 9
+      pivot: {x: 0.16703844, y: 0.24179526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d14d833d3505347b7c3119ebc0d3f5
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRun_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 287
+        width: 98
+        height: 110
+      alignment: 9
+      pivot: {x: 0.17722803, y: 0.23931219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2482b42909ae8354fb87a4774e089adf
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRun_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 284
+        width: 103
+        height: 112
+      alignment: 9
+      pivot: {x: 0.20200592, y: 0.23937252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54430f4e4757add4c898c597f157e4dc
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRun_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 281
+        width: 108
+        height: 114
+      alignment: 9
+      pivot: {x: 0.23541486, y: 0.23686968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a341044ab325e46941a70ca41bba07
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRun_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 279
+        width: 113
+        height: 116
+      alignment: 9
+      pivot: {x: 0.25212112, y: 0.22923306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95941f4745747143aa61257de8b4cd2
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRun_6
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 276
+        width: 119
+        height: 117
+      alignment: 9
+      pivot: {x: 0.25080115, y: 0.23715237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9fb633836bc0148a220779b2d754e3
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRun_7
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 271
+        width: 124
+        height: 118
+      alignment: 9
+      pivot: {x: 0.22460002, y: 0.25029197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5d229b6f9c22142af196285de25368
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRun_8
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 267
+        width: 128
+        height: 118
+      alignment: 9
+      pivot: {x: 0.20347595, y: 0.27092057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbdea7ff1d330046ac804a9061813f4
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRun_9
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 262
+        width: 132
+        height: 117
+      alignment: 9
+      pivot: {x: 0.17791933, y: 0.28095004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ef3822f6350804990845b85deefc2c
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRun_10
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 259
+        width: 136
+        height: 116
+      alignment: 9
+      pivot: {x: 0.16986443, y: 0.2878723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3b2e9a8813e8c48930c05f506bef7d
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRun_11
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 257
+        width: 138
+        height: 115
+      alignment: 9
+      pivot: {x: 0.1659767, y: 0.28856707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e7b313d3fb9a54689f321f5a07ebce
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRun_12
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 255
+        width: 139
+        height: 115
+      alignment: 9
+      pivot: {x: 0.15997358, y: 0.2918659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0424e86dfbc473341b9bd893cbd330ba
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRunBack_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 146
+        width: 160
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25714585, y: 0.07064024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e705c3996e1d9ba4b8de049b2b76feb5
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRunBack_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 149
+        width: 160
+        height: 95
+      alignment: 9
+      pivot: {x: 0.25862217, y: 0.0623593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce294c8ac3a44fb4fb28983db800c718
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRunBack_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 152
+        width: 160
+        height: 94
+      alignment: 9
+      pivot: {x: 0.259165, y: 0.048909128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4357940f12d76e54eb1f04b23beff506
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRunBack_3
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 150
+        width: 159
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25145486, y: 0.06898943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72477fdc6a27a0a42aa659241e46a359
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRunBack_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 151
+        width: 156
+        height: 94
+      alignment: 9
+      pivot: {x: 0.24590947, y: 0.048670344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd8b5a76d55aec49b71a0ec5a314eb4
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRunBack_5
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 152
+        width: 154
+        height: 94
+      alignment: 9
+      pivot: {x: 0.25044587, y: 0.03899059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa909b1a1a1641d4e94356961cbc2c3d
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRunBack_6
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 152
+        width: 148
+        height: 93
+      alignment: 9
+      pivot: {x: 0.25695223, y: 0.040975098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61702dcff9e08364280ec90e45ad4319
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRunBack_7
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 146
+        width: 141
+        height: 93
+      alignment: 9
+      pivot: {x: 0.26163304, y: 0.05521598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ba7f30d5ecd7247a76e3e0ec7d4750
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRunBack_8
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 142
+        width: 132
+        height: 93
+      alignment: 9
+      pivot: {x: 0.27209565, y: 0.047759354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdf3e55ab980c44099bccbed4a0f295
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRunBack_9
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 140
+        width: 124
+        height: 92
+      alignment: 9
+      pivot: {x: 0.3096717, y: 0.037060115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754667cd1f002f541ab35eab038d3ee6
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRunBack_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 20
+        width: 117
+        height: 92
+      alignment: 9
+      pivot: {x: 0.315248, y: 0.041563097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebd063ec36ac2246bff362ff053abc8
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRunBack_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 21
+        width: 112
+        height: 92
+      alignment: 9
+      pivot: {x: 0.3143354, y: 0.042287327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062fbcefc9804fa449482caa20191595
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-rifleRunBack_12
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 28
+        width: 111
+        height: 92
+      alignment: 9
+      pivot: {x: 0.33328605, y: 0.047224045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9350b12a1eec843a1f4338ace8e175
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 40cc8500e89167a46a4f35541252f120
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ninja-rifleRunBack_8: 21300128
+      Ninja-rifleRun_4: 21300094
+      Ninja-fireAir_2: 21300036
+      Ninja-rifleIdle_3: 21300012
+      Ninja-rifleRun_0: 21300086
+      Ninja-fireAir_4: 21300040
+      Ninja-fireAir_7: 21300046
+      Ninja-rifleRun_3: 21300092
+      Ninja-fireAir_1: 21300034
+      Ninja-fire_0: 21300014
+      Ninja-rifleReload_6: 21300076
+      Ninja-rifleReload_7: 21300078
+      Ninja-rifleRun_5: 21300096
+      Ninja-rifleJump_3: 21300056
+      Ninja-fireAir_0: 21300032
+      Ninja-rifleRun_2: 21300090
+      Ninja-rifleRunBack_9: 21300130
+      Ninja-rifleRunBack_11: 21300134
+      Ninja-rifleRunBack_12: 21300136
+      Ninja-rifleRun_7: 21300100
+      Ninja-rifleJump_0: 21300050
+      Ninja-rifleRunBack_2: 21300116
+      Ninja-rifleRunBack_6: 21300124
+      Ninja-rifleReload_10: 21300084
+      Ninja-rifleAim_1: 21300002
+      Ninja-rifleReload_0: 21300064
+      Ninja-rifleAim_0: 21300000
+      Ninja-rifleReload_4: 21300072
+      Ninja-rifleReload_2: 21300068
+      Ninja-fire_5: 21300024
+      Ninja-fireAir_3: 21300038
+      Ninja-rifleRunBack_3: 21300118
+      Ninja-rifleRunBack_1: 21300114
+      Ninja-rifleJump_4: 21300058
+      Ninja-rifleIdle_2: 21300010
+      Ninja-fire_4: 21300022
+      Ninja-rifleRun_6: 21300098
+      Ninja-fireAir_8: 21300048
+      Ninja-rifleRunBack_7: 21300126
+      Ninja-fire_1: 21300016
+      Ninja-fireAir_5: 21300042
+      Ninja-fireAir_6: 21300044
+      Ninja-rifleRunBack_0: 21300112
+      Ninja-rifleReload_8: 21300080
+      Ninja-rifleReload_5: 21300074
+      Ninja-rifleRunBack_5: 21300122
+      Ninja-rifleRun_8: 21300102
+      Ninja-rifleJump_1: 21300052
+      Ninja-rifleReload_9: 21300082
+      Ninja-rifleRunBack_10: 21300132
+      Ninja-rifleIdle_0: 21300006
+      Ninja-rifleReload_1: 21300066
+      Ninja-rifleIdle_1: 21300008
+      Ninja-rifleJump_5: 21300060
+      Ninja-rifleJump_2: 21300054
+      Ninja-rifleRun_1: 21300088
+      Ninja-rifleRun_9: 21300104
+      Ninja-fire_2: 21300018
+      Ninja-rifleJump_6: 21300062
+      Ninja-fire_6: 21300026
+      Ninja-rifleRun_10: 21300106
+      Ninja-rifleAim_2: 21300004
+      Ninja-fire_8: 21300030
+      Ninja-rifleRun_12: 21300110
+      Ninja-rifleReload_3: 21300070
+      Ninja-rifleRun_11: 21300108
+      Ninja-rifleRunBack_4: 21300120
+      Ninja-fire_3: 21300020
+      Ninja-fire_7: 21300028
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

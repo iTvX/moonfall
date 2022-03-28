@@ -1,0 +1,1022 @@
+fileFormatVersion: 2
+guid: d548b5233003cc944a032ccc83bd2e6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ninja-attack3_0
+  - first:
+      213: 21300002
+    second: Ninja-attack3_1
+  - first:
+      213: 21300004
+    second: Ninja-attack3_2
+  - first:
+      213: 21300006
+    second: Ninja-attack3_3
+  - first:
+      213: 21300008
+    second: Ninja-attack3_4
+  - first:
+      213: 21300010
+    second: Ninja-attack3_5
+  - first:
+      213: 21300012
+    second: Ninja-attack3_6
+  - first:
+      213: 21300014
+    second: Ninja-attack3_7
+  - first:
+      213: 21300016
+    second: Ninja-attack3_8
+  - first:
+      213: 21300018
+    second: Ninja-attack3_9
+  - first:
+      213: 21300020
+    second: Ninja-attack3_10
+  - first:
+      213: 21300022
+    second: Ninja-attack3_11
+  - first:
+      213: 21300024
+    second: Ninja-attack3_12
+  - first:
+      213: 21300026
+    second: Ninja-attack3_13
+  - first:
+      213: 21300028
+    second: Ninja-attack3_14
+  - first:
+      213: 21300030
+    second: Ninja-attack3_15
+  - first:
+      213: 21300032
+    second: Ninja-attack3_16
+  - first:
+      213: 21300034
+    second: Ninja-attack3_17
+  - first:
+      213: 21300036
+    second: Ninja-throwStar_0
+  - first:
+      213: 21300038
+    second: Ninja-throwStar_1
+  - first:
+      213: 21300040
+    second: Ninja-throwStar_2
+  - first:
+      213: 21300042
+    second: Ninja-throwStar_3
+  - first:
+      213: 21300044
+    second: Ninja-throwStar_4
+  - first:
+      213: 21300046
+    second: Ninja-throwStar_5
+  - first:
+      213: 21300048
+    second: Ninja-throwStar_6
+  - first:
+      213: 21300050
+    second: Ninja-throwStar_7
+  - first:
+      213: 21300052
+    second: Ninja-throwStar_8
+  - first:
+      213: 21300054
+    second: Ninja-jThrowStar_0
+  - first:
+      213: 21300056
+    second: Ninja-jThrowStar_1
+  - first:
+      213: 21300058
+    second: Ninja-jThrowStar_2
+  - first:
+      213: 21300060
+    second: Ninja-jThrowStar_3
+  - first:
+      213: 21300062
+    second: Ninja-jThrowStar_4
+  - first:
+      213: 21300064
+    second: Ninja-jThrowStar_5
+  - first:
+      213: 21300066
+    second: Ninja-jThrowStar_6
+  - first:
+      213: 21300068
+    second: Ninja-jThrowStar_7
+  - first:
+      213: 21300070
+    second: Ninja-jThrowStar_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ninja-attack3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1940
+        width: 338
+        height: 306
+      alignment: 9
+      pivot: {x: 0.6094836, y: 0.73057806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7924b09390c1e489bf8546e3bc4600
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-attack3_1
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1942
+        width: 368
+        height: 308
+      alignment: 9
+      pivot: {x: 0.6421223, y: 0.73869264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da6ae747215ccd4aaaeb97c7cc295a1
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-attack3_2
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1944
+        width: 390
+        height: 310
+      alignment: 9
+      pivot: {x: 0.6494188, y: 0.73655653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d099c11fc9a3c2b4eb405273d8197a44
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-attack3_3
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1940
+        width: 422
+        height: 316
+      alignment: 9
+      pivot: {x: 0.6070571, y: 0.7237765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b6cb71826164d47b178eb0946fbc33
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-attack3_4
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1938
+        width: 462
+        height: 318
+      alignment: 9
+      pivot: {x: 0.54535097, y: 0.7100139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0503d9b772ecf874998978bef0e5da17
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-attack3_5
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 1940
+        width: 482
+        height: 324
+      alignment: 9
+      pivot: {x: 0.5176592, y: 0.6879386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d391fbb880fa7b94b8cacd8dbcec1690
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-attack3_6
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 1932
+        width: 492
+        height: 330
+      alignment: 9
+      pivot: {x: 0.48702085, y: 0.6631133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0416eb4d4f5762a44b4b7bdda176bdec
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-attack3_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1520
+        width: 488
+        height: 340
+      alignment: 9
+      pivot: {x: 0.45639828, y: 0.6402696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ad90dd3481138498212097c31abf52
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-attack3_8
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1506
+        width: 482
+        height: 346
+      alignment: 9
+      pivot: {x: 0.4269328, y: 0.6420782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53280f4f347f8c47bacbf045cb436a0
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-attack3_9
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1510
+        width: 480
+        height: 352
+      alignment: 9
+      pivot: {x: 0.4093679, y: 0.6336101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cca2c5557bb66a43970771c017b54c3
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-attack3_10
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1504
+        width: 472
+        height: 358
+      alignment: 9
+      pivot: {x: 0.38790324, y: 0.62808657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd0d1e67868d5346aa6c226d84b4f7a
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-attack3_11
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 1500
+        width: 496
+        height: 364
+      alignment: 9
+      pivot: {x: 0.3506583, y: 0.59690404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67620975deb10f47805babff0e9da2d
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-attack3_12
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 1492
+        width: 564
+        height: 368
+      alignment: 9
+      pivot: {x: 0.28319144, y: 0.57987547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a5d4e0e42bf1443ada5b2675ff6db8
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-attack3_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1072
+        width: 614
+        height: 370
+      alignment: 9
+      pivot: {x: 0.23001088, y: 0.54355896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72df391dd96f95478244b6364c6b8bf
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-attack3_14
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1066
+        width: 650
+        height: 370
+      alignment: 9
+      pivot: {x: 0.17247108, y: 0.5042309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd741edf6f67ae43bd7040cecaac62a
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-attack3_15
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1048
+        width: 672
+        height: 370
+      alignment: 9
+      pivot: {x: 0.12961634, y: 0.49153888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9ce404d6a33614d91caaadcc9cd20e
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-attack3_16
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 1030
+        width: 682
+        height: 372
+      alignment: 9
+      pivot: {x: 0.1281613, y: 0.49158403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31326858f32f3c4ca2d22651178c5e1
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-attack3_17
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 1038
+        width: 686
+        height: 372
+      alignment: 9
+      pivot: {x: 0.12576587, y: 0.4747518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1f23aa72c2ac24f8ce522e61058926
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-throwStar_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 610
+        width: 270
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df8840476bc6814aac808fcf7c8b18a
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-throwStar_1
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 604
+        width: 270
+        height: 390
+      alignment: 9
+      pivot: {x: 0.49487984, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4845d44687cbf459cddce32064cc03
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-throwStar_2
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 598
+        width: 270
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e06e5a625a0be14f89ab1742169cd62
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-throwStar_3
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 598
+        width: 270
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536023d883a5b2d4ea3fc3dad4aa0def
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-throwStar_4
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 584
+        width: 292
+        height: 388
+      alignment: 9
+      pivot: {x: 0.49999958, y: 0.5195964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524633432f0b44c43bb0882ed67b7e53
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-throwStar_5
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 588
+        width: 302
+        height: 388
+      alignment: 9
+      pivot: {x: 0.44303358, y: 0.5105822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1450ae4b38054d640bb36db55fb981eb
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-throwStar_6
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 598
+        width: 328
+        height: 388
+      alignment: 9
+      pivot: {x: 0.35962212, y: 0.515171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae094ac5970f844aaedd0db0d08be57
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-throwStar_7
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 586
+        width: 344
+        height: 386
+      alignment: 9
+      pivot: {x: 0.3132225, y: 0.5261167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0465cb5402b8040be10b1b66e72034
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-throwStar_8
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 590
+        width: 380
+        height: 384
+      alignment: 9
+      pivot: {x: 0.24381296, y: 0.52903223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de43ce89cc5fe3b4084cea78d7ab7a66
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-jThrowStar_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 46
+        width: 278
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622a6ce512d11544ba8a301ce1b0d824
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-jThrowStar_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 50
+        width: 276
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a47e8f5806224f40a6f7965fe3aab3f
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-jThrowStar_2
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 58
+        width: 276
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ef8fc557eafb447a1e9c6d8b425b39
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-jThrowStar_3
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 62
+        width: 276
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63d3a1c9651b854e9a5db820a68912f
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-jThrowStar_4
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 70
+        width: 294
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e79e4625e4f08468c9cf3d77c0dc8b
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-jThrowStar_5
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 64
+        width: 302
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ad2d263ed1a62499dbe0e9f3a41f8b
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-jThrowStar_6
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 68
+        width: 328
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe59191ab5dfa34b903157cdde3fb8b
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-jThrowStar_7
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 68
+        width: 344
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6755f57b301ecdf42a7f0cd270c1a67d
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-jThrowStar_8
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 72
+        width: 380
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4724283eb8f5efb4e978f27fea97d4dd
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7110822dd23cb4c4981101ee67551dbc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ninja-attack3_7: 21300014
+      Ninja-attack3_14: 21300028
+      Ninja-attack3_2: 21300004
+      Ninja-attack3_3: 21300006
+      Ninja-jThrowStar_5: 21300064
+      Ninja-jThrowStar_3: 21300060
+      Ninja-jThrowStar_7: 21300068
+      Ninja-attack3_8: 21300016
+      Ninja-jThrowStar_1: 21300056
+      Ninja-throwStar_6: 21300048
+      Ninja-throwStar_8: 21300052
+      Ninja-throwStar_7: 21300050
+      Ninja-attack3_17: 21300034
+      Ninja-attack3_15: 21300030
+      Ninja-throwStar_2: 21300040
+      Ninja-throwStar_1: 21300038
+      Ninja-attack3_11: 21300022
+      Ninja-throwStar_5: 21300046
+      Ninja-throwStar_3: 21300042
+      Ninja-attack3_9: 21300018
+      Ninja-jThrowStar_8: 21300070
+      Ninja-jThrowStar_6: 21300066
+      Ninja-attack3_12: 21300024
+      Ninja-attack3_0: 21300000
+      Ninja-attack3_4: 21300008
+      Ninja-attack3_10: 21300020
+      Ninja-attack3_13: 21300026
+      Ninja-attack3_16: 21300032
+      Ninja-jThrowStar_4: 21300062
+      Ninja-attack3_5: 21300010
+      Ninja-jThrowStar_2: 21300058
+      Ninja-attack3_6: 21300012
+      Ninja-throwStar_0: 21300036
+      Ninja-jThrowStar_0: 21300054
+      Ninja-attack3_1: 21300002
+      Ninja-throwStar_4: 21300044
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

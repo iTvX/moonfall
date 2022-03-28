@@ -1,0 +1,1847 @@
+fileFormatVersion: 2
+guid: b76653e7ac39d1c47a2f1bf29a9d59d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ninja-bowAttack_0
+  - first:
+      213: 21300002
+    second: Ninja-bowAttack_1
+  - first:
+      213: 21300004
+    second: Ninja-bowAttack_2
+  - first:
+      213: 21300006
+    second: Ninja-bowAttack_3
+  - first:
+      213: 21300008
+    second: Ninja-bowAttack_4
+  - first:
+      213: 21300010
+    second: Ninja-bowAttack_5
+  - first:
+      213: 21300012
+    second: Ninja-bowAttack_6
+  - first:
+      213: 21300014
+    second: Ninja-bowAttack_7
+  - first:
+      213: 21300016
+    second: Ninja-bowAttack_8
+  - first:
+      213: 21300018
+    second: Ninja-bowAttack_9
+  - first:
+      213: 21300020
+    second: Ninja-bowAttack_10
+  - first:
+      213: 21300022
+    second: Ninja-bowAttack_11
+  - first:
+      213: 21300024
+    second: Ninja-bowAttack_12
+  - first:
+      213: 21300026
+    second: Ninja-bowAttack_13
+  - first:
+      213: 21300028
+    second: Ninja-bowAttack_14
+  - first:
+      213: 21300030
+    second: Ninja-bowAttack_15
+  - first:
+      213: 21300032
+    second: Ninja-bowIdle_0
+  - first:
+      213: 21300034
+    second: Ninja-bowIdle_1
+  - first:
+      213: 21300036
+    second: Ninja-bowIdle_2
+  - first:
+      213: 21300038
+    second: Ninja-bowIdle_3
+  - first:
+      213: 21300040
+    second: Ninja-bowJump_0
+  - first:
+      213: 21300042
+    second: Ninja-bowJump_1
+  - first:
+      213: 21300044
+    second: Ninja-bowJump_2
+  - first:
+      213: 21300046
+    second: Ninja-bowJump_3
+  - first:
+      213: 21300048
+    second: Ninja-bowJump_4
+  - first:
+      213: 21300050
+    second: Ninja-bowJump_5
+  - first:
+      213: 21300052
+    second: Ninja-bowJump_6
+  - first:
+      213: 21300054
+    second: Ninja-bowAirAttack_0
+  - first:
+      213: 21300056
+    second: Ninja-bowAirAttack_1
+  - first:
+      213: 21300058
+    second: Ninja-bowAirAttack_2
+  - first:
+      213: 21300060
+    second: Ninja-bowAirAttack_3
+  - first:
+      213: 21300062
+    second: Ninja-bowAirAttack_4
+  - first:
+      213: 21300064
+    second: Ninja-bowAirAttack_5
+  - first:
+      213: 21300066
+    second: Ninja-bowAirAttack_6
+  - first:
+      213: 21300068
+    second: Ninja-bowAirAttack_7
+  - first:
+      213: 21300070
+    second: Ninja-bowAirAttack_8
+  - first:
+      213: 21300072
+    second: Ninja-bowAirAttack_9
+  - first:
+      213: 21300074
+    second: Ninja-bowAirAttack_10
+  - first:
+      213: 21300076
+    second: Ninja-bowAirAttack_11
+  - first:
+      213: 21300078
+    second: Ninja-bowAirAttack_12
+  - first:
+      213: 21300080
+    second: Ninja-bowAirAttack_13
+  - first:
+      213: 21300082
+    second: Ninja-bowAirAttack_14
+  - first:
+      213: 21300084
+    second: Ninja-bowAirAttack_15
+  - first:
+      213: 21300086
+    second: Ninja-bowRunBack_0
+  - first:
+      213: 21300088
+    second: Ninja-bowRunBack_1
+  - first:
+      213: 21300090
+    second: Ninja-bowRunBack_2
+  - first:
+      213: 21300092
+    second: Ninja-bowRunBack_3
+  - first:
+      213: 21300094
+    second: Ninja-bowRunBack_4
+  - first:
+      213: 21300096
+    second: Ninja-bowRunBack_5
+  - first:
+      213: 21300098
+    second: Ninja-bowRunBack_6
+  - first:
+      213: 21300100
+    second: Ninja-bowRunBack_7
+  - first:
+      213: 21300102
+    second: Ninja-bowRunBack_8
+  - first:
+      213: 21300104
+    second: Ninja-bowRunBack_9
+  - first:
+      213: 21300106
+    second: Ninja-bowRunBack_10
+  - first:
+      213: 21300108
+    second: Ninja-bowRunBack_11
+  - first:
+      213: 21300110
+    second: Ninja-bowRunBack_12
+  - first:
+      213: 21300112
+    second: Ninja-bowRun_0
+  - first:
+      213: 21300114
+    second: Ninja-bowRun_1
+  - first:
+      213: 21300116
+    second: Ninja-bowRun_2
+  - first:
+      213: 21300118
+    second: Ninja-bowRun_3
+  - first:
+      213: 21300120
+    second: Ninja-bowRun_4
+  - first:
+      213: 21300122
+    second: Ninja-bowRun_5
+  - first:
+      213: 21300124
+    second: Ninja-bowRun_6
+  - first:
+      213: 21300126
+    second: Ninja-bowRun_7
+  - first:
+      213: 21300128
+    second: Ninja-bowRun_8
+  - first:
+      213: 21300130
+    second: Ninja-bowRun_9
+  - first:
+      213: 21300132
+    second: Ninja-bowRun_10
+  - first:
+      213: 21300134
+    second: Ninja-bowRun_11
+  - first:
+      213: 21300136
+    second: Ninja-bowRun_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ninja-bowAttack_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1782
+        width: 280
+        height: 214
+      alignment: 9
+      pivot: {x: 0.31115308, y: 0.1170563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d2c6401b10bae4da73892f2e382c8e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAttack_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1784
+        width: 300
+        height: 212
+      alignment: 9
+      pivot: {x: 0.29113066, y: 0.12141102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddab1cee17b82ed4dbcdbf4818ff318e
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAttack_2
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1788
+        width: 274
+        height: 216
+      alignment: 9
+      pivot: {x: 0.33194926, y: 0.12248343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58989c4b775de7a48aefb73a2d2fb694
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAttack_3
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1788
+        width: 310
+        height: 214
+      alignment: 9
+      pivot: {x: 0.29591024, y: 0.12902148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77f5f602c5c56e45bdcfbbc20dbe0bc
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1788
+        width: 278
+        height: 212
+      alignment: 9
+      pivot: {x: 0.33149466, y: 0.11709652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03776633429e8f4489448f2e61fdfe4
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1788
+        width: 282
+        height: 216
+      alignment: 9
+      pivot: {x: 0.34055626, y: 0.12181487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d10add657257d14fa99ce77c8fb3c18
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1788
+        width: 282
+        height: 214
+      alignment: 9
+      pivot: {x: 0.34175098, y: 0.124962926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04bfb71d4275d44abab842e21e401b6
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAttack_7
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1788
+        width: 284
+        height: 212
+      alignment: 9
+      pivot: {x: 0.35027733, y: 0.11817558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f5ebf662fbc7c4cbfc7713f80b7e0e
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAttack_8
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 1788
+        width: 284
+        height: 212
+      alignment: 9
+      pivot: {x: 0.3509255, y: 0.11742185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd5794fe2bf7ce4783bdb70a62c6738
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAttack_9
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 1780
+        width: 284
+        height: 214
+      alignment: 9
+      pivot: {x: 0.3511275, y: 0.11801689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dc8c7df6979094f9e406abb656776d
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAttack_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1498
+        width: 282
+        height: 212
+      alignment: 9
+      pivot: {x: 0.33688334, y: 0.124063745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb9bd31351b1714b83bac1dcca90bd3
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAttack_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1504
+        width: 282
+        height: 216
+      alignment: 9
+      pivot: {x: 0.34591773, y: 0.12638742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8187a81ecc530146b358d6fa203f69d
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAttack_12
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1510
+        width: 278
+        height: 216
+      alignment: 9
+      pivot: {x: 0.3429954, y: 0.12816875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6537e7a7dd2f982489e244a04c15d058
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAttack_13
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1516
+        width: 278
+        height: 216
+      alignment: 9
+      pivot: {x: 0.3367718, y: 0.122792564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44261804913c044db1ce4d2403640a3
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAttack_14
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1514
+        width: 282
+        height: 216
+      alignment: 9
+      pivot: {x: 0.31993806, y: 0.12193298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d977e67552d91f24980597895b78ddd5
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAttack_15
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1518
+        width: 280
+        height: 216
+      alignment: 9
+      pivot: {x: 0.31016105, y: 0.12157582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cea9e4737167c4badf99235947b5f5
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowIdle_0
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1496
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0.3701572, y: 0.27017042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b140913d8762434697a0722719d4924
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowIdle_1
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 1498
+        width: 250
+        height: 252
+      alignment: 9
+      pivot: {x: 0.37064943, y: 0.26985338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846e8966425bc7d4e90c94f8c13b4d17
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowIdle_2
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1498
+        width: 252
+        height: 252
+      alignment: 9
+      pivot: {x: 0.37286764, y: 0.2713008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eedec70810cd764cb0be5509486fa86
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowIdle_3
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 1496
+        width: 250
+        height: 254
+      alignment: 9
+      pivot: {x: 0.3715, y: 0.27619898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2bd34b4919fbd4b86a92d47acd3eb1
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowJump_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1182
+        width: 278
+        height: 254
+      alignment: 9
+      pivot: {x: 0.34792003, y: 0.2597911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d7f7415dd030e4d8776689ad0517e8
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowJump_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1180
+        width: 276
+        height: 250
+      alignment: 9
+      pivot: {x: 0.3206377, y: 0.25360155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88863230385a82445b8449c8ec612312
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowJump_2
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1188
+        width: 278
+        height: 244
+      alignment: 9
+      pivot: {x: 0.26712233, y: 0.26002076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1381bd31e6517944b88a970e78b4aa11
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowJump_3
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1182
+        width: 274
+        height: 236
+      alignment: 9
+      pivot: {x: 0.21598203, y: 0.27123454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5932c72077e61543ad43741cc15e998
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowJump_4
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1196
+        width: 276
+        height: 228
+      alignment: 9
+      pivot: {x: 0.16225666, y: 0.2913026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1618484f793cd41be312e5cac881c5
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowJump_5
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1202
+        width: 270
+        height: 222
+      alignment: 9
+      pivot: {x: 0.12231852, y: 0.31161252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a3895e94addc848908660859efd507
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowJump_6
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1202
+        width: 274
+        height: 220
+      alignment: 9
+      pivot: {x: 0.14022048, y: 0.2966425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d53bc289a4ac6045861b3aac43dd39c
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAirAttack_0
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 1212
+        width: 268
+        height: 214
+      alignment: 9
+      pivot: {x: 0.13284712, y: 0.30850133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e775b13348c9141b0132d833c11489
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAirAttack_1
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 1216
+        width: 282
+        height: 214
+      alignment: 9
+      pivot: {x: 0.12689511, y: 0.30744037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fc65a94b7f3d04f925dfa468d00e02
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAirAttack_2
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 1216
+        width: 306
+        height: 214
+      alignment: 9
+      pivot: {x: 0.13334386, y: 0.30657503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d96cf9123113846812fa26a38bdf56
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAirAttack_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 894
+        width: 298
+        height: 216
+      alignment: 9
+      pivot: {x: 0.13728723, y: 0.3140239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87689c363637005429d9ff6c29f99bd6
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAirAttack_4
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 898
+        width: 306
+        height: 214
+      alignment: 9
+      pivot: {x: 0.13594265, y: 0.31035066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc1ff4faba0da04abda09147c0ff078
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAirAttack_5
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 912
+        width: 268
+        height: 216
+      alignment: 9
+      pivot: {x: 0.15695031, y: 0.31402418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c672bb0cbdf07b4b913e04f49875bac
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAirAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 910
+        width: 268
+        height: 216
+      alignment: 9
+      pivot: {x: 0.14922412, y: 0.31210667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5b3c5c5f4bc8a43920137777c0a1db
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAirAttack_7
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 910
+        width: 264
+        height: 228
+      alignment: 9
+      pivot: {x: 0.14861506, y: 0.2983832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3953356a09ac64c87a5f93926d9c27
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAirAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 908
+        width: 262
+        height: 236
+      alignment: 9
+      pivot: {x: 0.14435187, y: 0.28416002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7ca87289a45804ca8d3a1435b0e8f4
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAirAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 916
+        width: 262
+        height: 232
+      alignment: 9
+      pivot: {x: 0.13961023, y: 0.29114902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ce31f1a1535a2479d5dd7650239962
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAirAttack_10
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 924
+        width: 266
+        height: 220
+      alignment: 9
+      pivot: {x: 0.14502963, y: 0.30422834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54f8311e5404074ea5b47e209a4a43b
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAirAttack_11
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 938
+        width: 266
+        height: 216
+      alignment: 9
+      pivot: {x: 0.14658625, y: 0.3197759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def0da20293a21d458075068a07f6fb7
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAirAttack_12
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 948
+        width: 268
+        height: 216
+      alignment: 9
+      pivot: {x: 0.15540552, y: 0.31018943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9cce871d3fc5247916b3e20eaefac7
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAirAttack_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 626
+        width: 266
+        height: 216
+      alignment: 9
+      pivot: {x: 0.1520322, y: 0.31166077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c09f3c80549104abfd754f14e3edbc
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAirAttack_14
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 630
+        width: 268
+        height: 216
+      alignment: 9
+      pivot: {x: 0.14209542, y: 0.29956564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bf533ba20a91f43ac5c2bf02128c3d
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowAirAttack_15
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 640
+        width: 270
+        height: 214
+      alignment: 9
+      pivot: {x: 0.1423134, y: 0.2999259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c09092cb29b03f4caf41a623efa3f87
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRunBack_0
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 596
+        width: 244
+        height: 250
+      alignment: 9
+      pivot: {x: 0.38314068, y: 0.29308885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b123bba864ff74aaf2515989c21e1e
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRunBack_1
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 600
+        width: 240
+        height: 250
+      alignment: 9
+      pivot: {x: 0.37391815, y: 0.29426757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fe2b34184a03b418204e437670cf6d
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRunBack_2
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 598
+        width: 234
+        height: 250
+      alignment: 9
+      pivot: {x: 0.36911142, y: 0.28967115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2772e4555b80243a06daf899b65a0a
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRunBack_3
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 596
+        width: 232
+        height: 250
+      alignment: 9
+      pivot: {x: 0.35561606, y: 0.2917632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b2618584539cd45a1ccdccd41bd51c
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRunBack_4
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 600
+        width: 230
+        height: 250
+      alignment: 9
+      pivot: {x: 0.36616212, y: 0.288625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dce1c308167a0049908d73616e82bbd
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRunBack_5
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 596
+        width: 222
+        height: 250
+      alignment: 9
+      pivot: {x: 0.34916398, y: 0.3025652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582bd86cecfef5c4ea091f95924a5919
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRunBack_6
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 594
+        width: 216
+        height: 250
+      alignment: 9
+      pivot: {x: 0.3590461, y: 0.29476514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573f2b7e42a2c8b4eb0c786dbe7850f3
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRunBack_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 310
+        width: 210
+        height: 248
+      alignment: 9
+      pivot: {x: 0.3309639, y: 0.28644907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6152f5c950f04a945967f7cccd31a65c
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRunBack_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 310
+        width: 204
+        height: 248
+      alignment: 9
+      pivot: {x: 0.33984002, y: 0.29942188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32589b31ba52724580897c633daab43
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRunBack_9
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 308
+        width: 200
+        height: 248
+      alignment: 9
+      pivot: {x: 0.3355954, y: 0.30037713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009d6916dffd95648b4d6562233bdcc9
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRunBack_10
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 314
+        width: 198
+        height: 250
+      alignment: 9
+      pivot: {x: 0.3469565, y: 0.30736157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b086e8fb7a7c4164e96aa6627f12fea8
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRunBack_11
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 326
+        width: 202
+        height: 246
+      alignment: 9
+      pivot: {x: 0.35967895, y: 0.30783677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01bd050617d87645a687c8c4b871479
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRunBack_12
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 330
+        width: 200
+        height: 246
+      alignment: 9
+      pivot: {x: 0.35917968, y: 0.30538815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873d86a9dd7720c409bcc85c1fa32b98
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRun_0
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 344
+        width: 202
+        height: 206
+      alignment: 9
+      pivot: {x: 0.22127964, y: 0.28873524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f0cc24bc2d3fb418348dbd43c06e03
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRun_1
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 344
+        width: 202
+        height: 214
+      alignment: 9
+      pivot: {x: 0.21649593, y: 0.28352186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74024c8fdeb12c04c9118ec4f6fa5cad
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRun_2
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 338
+        width: 202
+        height: 216
+      alignment: 9
+      pivot: {x: 0.20213515, y: 0.26720387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5975d469c9ca44fbf654c435d9a56e
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRun_3
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 346
+        width: 202
+        height: 216
+      alignment: 9
+      pivot: {x: 0.20058449, y: 0.24260952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f096a4198c4f8e045aefdcf6b336922a
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRun_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 52
+        width: 228
+        height: 228
+      alignment: 9
+      pivot: {x: 0.28639954, y: 0.26280126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c2e8c9491f4674097901668a09af1b
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRun_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 44
+        width: 234
+        height: 230
+      alignment: 9
+      pivot: {x: 0.29148525, y: 0.2708137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bf57001e10caf48ac447eb579ba62f
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRun_6
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 38
+        width: 200
+        height: 238
+      alignment: 9
+      pivot: {x: 0.15335694, y: 0.29423326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000d4b17980cab242b7996cead59efbc
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRun_7
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 56
+        width: 234
+        height: 230
+      alignment: 9
+      pivot: {x: 0.28449947, y: 0.26441282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a4cb19e5de70b4d938b79b09ab1886
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRun_8
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 54
+        width: 230
+        height: 228
+      alignment: 9
+      pivot: {x: 0.28347698, y: 0.27090663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1841da3bac0e0ff4397c15e317c25aa7
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRun_9
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 62
+        width: 248
+        height: 222
+      alignment: 9
+      pivot: {x: 0.29773688, y: 0.2725438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae10a0a6b7252d44bb2d6d450233b6cb
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRun_10
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 68
+        width: 262
+        height: 216
+      alignment: 9
+      pivot: {x: 0.28714013, y: 0.27121156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17721ab5ea634fb48b3da5b78069afc4
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRun_11
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 62
+        width: 280
+        height: 218
+      alignment: 9
+      pivot: {x: 0.3066816, y: 0.3102872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a62fe13981d0104b9c71cc4400a1c4a
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-bowRun_12
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 68
+        width: 294
+        height: 220
+      alignment: 9
+      pivot: {x: 0.31419402, y: 0.3367538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089bc50f39a06f74fb201815d9138b6d
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cc233427943cf44429ea469d9319be07
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ninja-bowRunBack_6: 21300098
+      Ninja-bowAirAttack_7: 21300068
+      Ninja-bowRunBack_4: 21300094
+      Ninja-bowAirAttack_2: 21300058
+      Ninja-bowJump_3: 21300046
+      Ninja-bowAirAttack_3: 21300060
+      Ninja-bowRun_2: 21300116
+      Ninja-bowAirAttack_13: 21300080
+      Ninja-bowAirAttack_11: 21300076
+      Ninja-bowRunBack_7: 21300100
+      Ninja-bowAttack_1: 21300002
+      Ninja-bowRun_1: 21300114
+      Ninja-bowRunBack_12: 21300110
+      Ninja-bowIdle_1: 21300034
+      Ninja-bowAirAttack_1: 21300056
+      Ninja-bowAttack_12: 21300024
+      Ninja-bowAirAttack_5: 21300064
+      Ninja-bowAttack_2: 21300004
+      Ninja-bowRunBack_0: 21300086
+      Ninja-bowRun_11: 21300134
+      Ninja-bowRun_9: 21300130
+      Ninja-bowAttack_8: 21300016
+      Ninja-bowRun_8: 21300128
+      Ninja-bowAttack_4: 21300008
+      Ninja-bowIdle_0: 21300032
+      Ninja-bowJump_0: 21300040
+      Ninja-bowRun_10: 21300132
+      Ninja-bowAttack_11: 21300022
+      Ninja-bowAirAttack_9: 21300072
+      Ninja-bowRunBack_11: 21300108
+      Ninja-bowAirAttack_6: 21300066
+      Ninja-bowAttack_6: 21300012
+      Ninja-bowRunBack_1: 21300088
+      Ninja-bowAirAttack_8: 21300070
+      Ninja-bowAirAttack_0: 21300054
+      Ninja-bowRunBack_3: 21300092
+      Ninja-bowAttack_0: 21300000
+      Ninja-bowAirAttack_10: 21300074
+      Ninja-bowRun_0: 21300112
+      Ninja-bowJump_4: 21300048
+      Ninja-bowRun_5: 21300122
+      Ninja-bowRun_12: 21300136
+      Ninja-bowRun_4: 21300120
+      Ninja-bowRunBack_2: 21300090
+      Ninja-bowRun_3: 21300118
+      Ninja-bowAttack_9: 21300018
+      Ninja-bowJump_2: 21300044
+      Ninja-bowAttack_13: 21300026
+      Ninja-bowAirAttack_14: 21300082
+      Ninja-bowJump_6: 21300052
+      Ninja-bowRun_7: 21300126
+      Ninja-bowAttack_3: 21300006
+      Ninja-bowJump_5: 21300050
+      Ninja-bowAttack_7: 21300014
+      Ninja-bowIdle_2: 21300036
+      Ninja-bowAttack_10: 21300020
+      Ninja-bowRunBack_10: 21300106
+      Ninja-bowAirAttack_15: 21300084
+      Ninja-bowAirAttack_4: 21300062
+      Ninja-bowIdle_3: 21300038
+      Ninja-bowRunBack_5: 21300096
+      Ninja-bowAirAttack_12: 21300078
+      Ninja-bowRunBack_8: 21300102
+      Ninja-bowAttack_14: 21300028
+      Ninja-bowAttack_15: 21300030
+      Ninja-bowJump_1: 21300042
+      Ninja-bowRun_6: 21300124
+      Ninja-bowAttack_5: 21300010
+      Ninja-bowRunBack_9: 21300104
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

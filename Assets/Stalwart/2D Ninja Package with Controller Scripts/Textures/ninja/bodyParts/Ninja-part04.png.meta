@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 807a926b78837d64da61030f8c0feb99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SidewaysLowerBody
+  - first:
+      213: 21300002
+    second: ForwardedLowerbody
+  - first:
+      213: 21300004
+    second: ExpandedSidewaysLowerbody
+  - first:
+      213: 21300006
+    second: RigtKnee
+  - first:
+      213: 21300008
+    second: LeftKnee
+  - first:
+      213: 21300010
+    second: LateralLowerBody
+  - first:
+      213: 21300012
+    second: LowerBodyBackground
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SidewaysLowerBody
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 880
+        width: 428
+        height: 256
+      alignment: 9
+      pivot: {x: 0.46837294, y: 0.83130264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95c0b651dc349b4ba940a130c6c63de
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardedLowerbody
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 816
+        width: 440
+        height: 340
+      alignment: 9
+      pivot: {x: 0.51922774, y: 0.8583159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cb90e38ebc8f449b875bd763be1ebb
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExpandedSidewaysLowerbody
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 472
+        width: 412
+        height: 280
+      alignment: 9
+      pivot: {x: 0.5, y: 0.86299026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9014ee223be55554bbd80dda71588c91
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RigtKnee
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 456
+        width: 156
+        height: 272
+      alignment: 9
+      pivot: {x: 0.90352184, y: 0.88089865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ba8ff53a6f9f54386aba1103f90ed7
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftKnee
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 432
+        width: 196
+        height: 292
+      alignment: 9
+      pivot: {x: 0.09519118, y: 0.89972216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13e6ce146191ee42a6b43bc8aeafe65
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LateralLowerBody
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 312
+        height: 352
+      alignment: 9
+      pivot: {x: 0.3633909, y: 0.7887421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0509a421a33f9d41ba38f0b83d597a6
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LowerBodyBackground
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 76
+        width: 240
+        height: 252
+      alignment: 9
+      pivot: {x: 0.49453583, y: 0.85908705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8d6bcf70bdcbc4d844a72af094c9fb
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f5b221aabd49a2e4da1eebef3af906d2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LeftKnee: 21300008
+      LateralLowerBody: 21300010
+      ForwardedLowerbody: 21300002
+      ExpandedSidewaysLowerbody: 21300004
+      LowerBodyBackground: 21300012
+      RigtKnee: 21300006
+      SidewaysLowerBody: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

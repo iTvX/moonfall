@@ -1,0 +1,1322 @@
+fileFormatVersion: 2
+guid: f819622cd3c1dd64db842f33f3d2cb31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ninja-air-attack_0
+  - first:
+      213: 21300002
+    second: Ninja-air-attack_1
+  - first:
+      213: 21300004
+    second: Ninja-air-attack_2
+  - first:
+      213: 21300006
+    second: Ninja-air-attack_3
+  - first:
+      213: 21300008
+    second: Ninja-air-attack_4
+  - first:
+      213: 21300010
+    second: Ninja-air-attack_5
+  - first:
+      213: 21300012
+    second: Ninja-air-attack_6
+  - first:
+      213: 21300014
+    second: Ninja-air-attack_7
+  - first:
+      213: 21300016
+    second: Ninja-air-attack_8
+  - first:
+      213: 21300018
+    second: Ninja-air-attack_9
+  - first:
+      213: 21300020
+    second: Ninja-air-attack_10
+  - first:
+      213: 21300022
+    second: Ninja-air-attack_11
+  - first:
+      213: 21300024
+    second: Ninja-air-attack_12
+  - first:
+      213: 21300026
+    second: Ninja-air-attack_13
+  - first:
+      213: 21300028
+    second: Ninja-air-attack_14
+  - first:
+      213: 21300030
+    second: Ninja-air-attack_15
+  - first:
+      213: 21300032
+    second: Ninja-air-attack_16
+  - first:
+      213: 21300034
+    second: Ninja-air-attack_17
+  - first:
+      213: 21300036
+    second: Ninja-air-attack_18
+  - first:
+      213: 21300038
+    second: Ninja-air-attack_19
+  - first:
+      213: 21300040
+    second: Ninja-air-attack_20
+  - first:
+      213: 21300042
+    second: Ninja-air-attack_21
+  - first:
+      213: 21300044
+    second: Ninja-air-attack_22
+  - first:
+      213: 21300046
+    second: Ninja-air-attack_23
+  - first:
+      213: 21300048
+    second: Ninja-air-attack_24
+  - first:
+      213: 21300050
+    second: Ninja-air-attack_25
+  - first:
+      213: 21300052
+    second: Ninja-air-attack_26
+  - first:
+      213: 21300054
+    second: Ninja-air-attack_27
+  - first:
+      213: 21300056
+    second: Ninja-air-attack_28
+  - first:
+      213: 21300058
+    second: Ninja-air-attack_29
+  - first:
+      213: 21300060
+    second: Ninja-air-attack_30
+  - first:
+      213: 21300062
+    second: Ninja-air-attack_31
+  - first:
+      213: 21300064
+    second: Ninja-air-attack_32
+  - first:
+      213: 21300066
+    second: Ninja-air-attack_33
+  - first:
+      213: 21300068
+    second: Ninja-air-attack_34
+  - first:
+      213: 21300070
+    second: Ninja-air-attack_35
+  - first:
+      213: 21300072
+    second: Ninja-air-attack_36
+  - first:
+      213: 21300074
+    second: Ninja-air-attack_37
+  - first:
+      213: 21300076
+    second: Ninja-air-attack_38
+  - first:
+      213: 21300078
+    second: Ninja-air-attack_39
+  - first:
+      213: 21300080
+    second: Ninja-air-attack_40
+  - first:
+      213: 21300082
+    second: Ninja-air-attack_41
+  - first:
+      213: 21300084
+    second: Ninja-air-attack_42
+  - first:
+      213: 21300086
+    second: Ninja-air-attack_43
+  - first:
+      213: 21300088
+    second: Ninja-air-attack_44
+  - first:
+      213: 21300090
+    second: Ninja-air-attack_45
+  - first:
+      213: 21300092
+    second: Ninja-air-attack_46
+  - first:
+      213: 21300094
+    second: Ninja-air-attack_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ninja-air-attack_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2658
+        width: 328
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66d29d041a9b42489ca2d059716cb78
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2622
+        width: 304
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a9a349385b39b4cbd1cdba9bf37a21
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_2
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 2536
+        width: 306
+        height: 538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa025093d400a4844b4c9f8ea06aaa0e
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_3
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 2534
+        width: 274
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac30c6abe7edb6b449a745f0c6dc5d35
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_4
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 2586
+        width: 346
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ea19cc47fe90f4882e76bb7ae71154
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_5
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 2586
+        width: 356
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7881309801917284a8320769b69abd7c
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_6
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 2594
+        width: 344
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c9112e3b0a5c44480ff1322268e0e3
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_7
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 2582
+        width: 312
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca27c0feb42d04848bc2dfe661623628
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_8
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 2532
+        width: 254
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8bc8ba0eeb6a14ebc73d23b98a5ae9
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_9
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 2482
+        width: 262
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e4defd49ddde04ba29c386a307e261
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_10
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 2478
+        width: 300
+        height: 608
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dd8f56b48aea14d832ed4d04980f95
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1966
+        width: 424
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d594491606a57b543af183c595635ae0
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_12
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2024
+        width: 516
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7d7fd4c9b26d944ae29b05f7a1c9a4
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_13
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 2058
+        width: 552
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dec96039b54e49439b0e4bda8eabff2
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_14
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2066
+        width: 544
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04a5640a5fe7134eb227fc6b4a60a00
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_15
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 2050
+        width: 522
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb6a90f522cafb4684704423b6cbc68
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_16
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 2028
+        width: 498
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cba0b0ba7086b489743e583e6c2a0d
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_17
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 2030
+        width: 458
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3e8c48e1b6b974d9ad5b02a8c7272c
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1566
+        width: 420
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f6270e85f257c43bddb49cd78cc94a
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_19
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1560
+        width: 378
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d62b059159e864d9ab1eefa78b9b93
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_20
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1578
+        width: 360
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bac60a814ef63e4d92f815ebc9958e8
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_21
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1570
+        width: 386
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ae2824e6c59ea40a2970936ababeef
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_22
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1560
+        width: 420
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3971b0d2d588069409f56887681bec5b
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_23
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1552
+        width: 392
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a802c6fedbf822b40b9a2327bb72703e
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_24
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 1520
+        width: 320
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ac816105a5c7b4a9cbf28d80d8c2a4
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_25
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 1514
+        width: 284
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a792a217674aca54d90376ec7ff6cf45
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1014
+        width: 276
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efdc239015753e49b70556232e1d984
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1012
+        width: 276
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99879a63b2c3ea0409639ea305f325d6
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_28
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1020
+        width: 282
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c54a2d14b06a1047bf6ac054d33fe8a
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_29
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1036
+        width: 282
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a892154dd5411f4aa02c399dc6e575d
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_30
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1030
+        width: 278
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412259afd382c5441970ee0c4c4a300a
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_31
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1032
+        width: 326
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb06dfb94f26d6b409c1814c93c4ea22
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_32
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1042
+        width: 348
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bdd140afa48df4bbc1ff4a315b87ac
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_33
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 1042
+        width: 372
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5665e0c3994c83943b30a11e0ccf432c
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_34
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 1040
+        width: 386
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264b712a2cf733f4ca203b163f343998
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_35
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 1036
+        width: 404
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce2155b09d03ed4c953f64a74e52b1d
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 526
+        width: 424
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6995aa32cf75e54c82eab23a6717916
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_37
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 536
+        width: 456
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b78523bcf6a394c96e52a96469a0e9
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_38
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 532
+        width: 484
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac9cafdb3b333d489c6dbe9116e7c55
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_39
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 540
+        width: 508
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7b3166301699048ac7fca475536251
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_40
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 540
+        width: 532
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76621fc481849b548a415d7337adb92c
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_41
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 548
+        width: 552
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6385024c7f9484344a19bfa1382293b3
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_42
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 540
+        width: 568
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2992880be111b40b3a2175e1fb13dd
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_43
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 98
+        width: 580
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2c0399db37e5741abacb23cf7472ad
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_44
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 94
+        width: 590
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c449d2584ddfa4e418208181bd7b6583
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_45
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 68
+        width: 594
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe711f71849ec8d428040a1321a4877a
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_46
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 56
+        width: 598
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc85811d92dc824bbaa07675c1db647
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja-air-attack_47
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 62
+        width: 602
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b01f45c5cdbee34eaccb4724c63de90
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a07d304a7e6170f4ea3916487d5736cc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ninja-air-attack_16: 21300032
+      Ninja-air-attack_7: 21300014
+      Ninja-air-attack_36: 21300072
+      Ninja-air-attack_37: 21300074
+      Ninja-air-attack_9: 21300018
+      Ninja-air-attack_14: 21300028
+      Ninja-air-attack_4: 21300008
+      Ninja-air-attack_6: 21300012
+      Ninja-air-attack_20: 21300040
+      Ninja-air-attack_46: 21300092
+      Ninja-air-attack_2: 21300004
+      Ninja-air-attack_29: 21300058
+      Ninja-air-attack_12: 21300024
+      Ninja-air-attack_33: 21300066
+      Ninja-air-attack_1: 21300002
+      Ninja-air-attack_19: 21300038
+      Ninja-air-attack_25: 21300050
+      Ninja-air-attack_43: 21300086
+      Ninja-air-attack_40: 21300080
+      Ninja-air-attack_28: 21300056
+      Ninja-air-attack_47: 21300094
+      Ninja-air-attack_35: 21300070
+      Ninja-air-attack_17: 21300034
+      Ninja-air-attack_44: 21300088
+      Ninja-air-attack_5: 21300010
+      Ninja-air-attack_10: 21300020
+      Ninja-air-attack_11: 21300022
+      Ninja-air-attack_21: 21300042
+      Ninja-air-attack_27: 21300054
+      Ninja-air-attack_30: 21300060
+      Ninja-air-attack_3: 21300006
+      Ninja-air-attack_15: 21300030
+      Ninja-air-attack_41: 21300082
+      Ninja-air-attack_8: 21300016
+      Ninja-air-attack_26: 21300052
+      Ninja-air-attack_13: 21300026
+      Ninja-air-attack_22: 21300044
+      Ninja-air-attack_39: 21300078
+      Ninja-air-attack_24: 21300048
+      Ninja-air-attack_0: 21300000
+      Ninja-air-attack_34: 21300068
+      Ninja-air-attack_18: 21300036
+      Ninja-air-attack_42: 21300084
+      Ninja-air-attack_45: 21300090
+      Ninja-air-attack_38: 21300076
+      Ninja-air-attack_31: 21300062
+      Ninja-air-attack_23: 21300046
+      Ninja-air-attack_32: 21300064
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

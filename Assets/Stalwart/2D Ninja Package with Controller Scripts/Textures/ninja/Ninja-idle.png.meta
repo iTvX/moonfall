@@ -1,0 +1,1122 @@
+fileFormatVersion: 2
+guid: d1b2244e8d20c9d43b76c4d2336df92f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ninja_idle_0
+  - first:
+      213: 21300002
+    second: Ninja_idle_1
+  - first:
+      213: 21300004
+    second: Ninja_idle_2
+  - first:
+      213: 21300006
+    second: Ninja_idle_3
+  - first:
+      213: 21300008
+    second: Ninja_idle_4
+  - first:
+      213: 21300010
+    second: Ninja_idle_5
+  - first:
+      213: 21300012
+    second: Ninja_idle_6
+  - first:
+      213: 21300014
+    second: Ninja_idle_7
+  - first:
+      213: 21300016
+    second: Ninja_idle_8
+  - first:
+      213: 21300018
+    second: Ninja_idle_9
+  - first:
+      213: 21300020
+    second: Ninja_idle_10
+  - first:
+      213: 21300022
+    second: Ninja_idle_11
+  - first:
+      213: 21300024
+    second: Ninja_idle_12
+  - first:
+      213: 21300026
+    second: Ninja_idle_13
+  - first:
+      213: 21300028
+    second: Ninja_idle_14
+  - first:
+      213: 21300030
+    second: Ninja_idle_15
+  - first:
+      213: 21300032
+    second: Ninja_idle_16
+  - first:
+      213: 21300034
+    second: Ninja_idle_17
+  - first:
+      213: 21300036
+    second: Ninja_idle_18
+  - first:
+      213: 21300038
+    second: Ninja_idle_19
+  - first:
+      213: 21300040
+    second: Ninja_idle_24
+  - first:
+      213: 21300042
+    second: Ninja_idle_25
+  - first:
+      213: 21300044
+    second: Ninja_idle_26
+  - first:
+      213: 21300046
+    second: Ninja_idle_27
+  - first:
+      213: 21300048
+    second: Ninja_idle_28
+  - first:
+      213: 21300050
+    second: Ninja_idle_29
+  - first:
+      213: 21300052
+    second: Ninja_idle_30
+  - first:
+      213: 21300054
+    second: Ninja_idle_31
+  - first:
+      213: 21300056
+    second: Ninja_idle_32
+  - first:
+      213: 21300058
+    second: Ninja_idle_33
+  - first:
+      213: 21300060
+    second: Ninja_idle_34
+  - first:
+      213: 21300062
+    second: Ninja_idle_35
+  - first:
+      213: 21300064
+    second: Ninja_idle_36
+  - first:
+      213: 21300066
+    second: Ninja_idle_38
+  - first:
+      213: 21300068
+    second: Ninja_idle_39
+  - first:
+      213: 21300070
+    second: Ninja_idle_40
+  - first:
+      213: 21300072
+    second: Ninja_idle_41
+  - first:
+      213: 21300074
+    second: Ninja_idle_43
+  - first:
+      213: 21300076
+    second: Ninja_idle_44
+  - first:
+      213: 21300078
+    second: Ninja_idle_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ninja_idle_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1900
+        width: 288
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc93b7e54471fe4fa2185a0238bf4a7
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_1
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1900
+        width: 288
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d025714b59f314d94decc8c3d0114d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1898
+        width: 288
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d80a6dc23a56d4d97c644bc3098cbe
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_3
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1898
+        width: 288
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa925bfc12c4c1747a786ac35293b6e5
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_4
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1896
+        width: 288
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5453b5b08e051c48a81bdc9fb73e675
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_5
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1894
+        width: 286
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6095077034a7f4548b9d798307c6ac2d
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_6
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 1894
+        width: 280
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77f5709eba71e7409d358d48294ee18
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_7
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 1892
+        width: 268
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f6116d61bf30e4f8a8c61c2cc754e6
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_8
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 1892
+        width: 272
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4622d4d22927e1042bd250c227089101
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_9
+      rect:
+        serializedVersion: 2
+        x: 3474
+        y: 1892
+        width: 268
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1cd5dc41c33f04789621ce667bb4c7
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1440
+        width: 264
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23fdcf3354bbff45972ea83f92a9e8d
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1442
+        width: 258
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bb9a346df2bb54798628d033ebae94
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_12
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1440
+        width: 262
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065ac7cc1da12e441b3c11c4d789a1dc
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_13
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1440
+        width: 280
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038a8e1f8d7887c47acb9fe29f3e7df8
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 290
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a211158812992f14095af5ac783dbb78
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_15
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1436
+        width: 298
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce04b41dba46514b95c50dd7fea3937
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_16
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 1438
+        width: 306
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8d96bdbe4bdd645b18b931a1f324d2
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_17
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 1436
+        width: 328
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0c9f02a94b5e34191dc40270adaf25
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_18
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 1432
+        width: 346
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55ae8af041e7104aabede5cd37292f6
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_19
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 1430
+        width: 376
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0926bed9a534d84191eac2b223740b1
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 986
+        width: 396
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85d4ebd5df757940ad00b0d2a637f82
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_25
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 992
+        width: 420
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36af406fd8a138b41ad3ead37c58c73f
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_26
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 988
+        width: 410
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac3e1a244bfc8f4a8502e5809119269
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_27
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 992
+        width: 400
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed572536392538438709e7bbdf3be62
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_28
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 990
+        width: 390
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35be66745bc7cf640b861abf509fe6f2
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_29
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 988
+        width: 382
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99a71b1d9d545141bd32a4fa099a3e9
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_30
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 990
+        width: 362
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7f8d3df877f6f4a8b810acf73d3f3d
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_31
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 988
+        width: 352
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa6b6bffe525e947a43d64ec4e2ce1d
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_32
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 980
+        width: 348
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4b77070bc4a8042a9a947463171c98
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 536
+        width: 342
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6c8cac43096f54f98a135ef26c3b14
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_34
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 530
+        width: 342
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af34b621f6a32ab4ab04f313d8eaa9bd
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_35
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 524
+        width: 342
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07f1a08427b5e3418f58769fd937dc0
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_36
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 524
+        width: 340
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc7fd6ae63c38a4381b65efa3da9ac0
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_38
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 532
+        width: 338
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a7501c54866e04d8f217e88e466774
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_39
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 534
+        width: 336
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3995072f37e3e8344a8cda1088f4fad3
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_40
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 534
+        width: 332
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005e11dffcb58694c872e0341191206b
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_41
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 530
+        width: 330
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52d998654f568f4abb86cb137a3ebd2
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_43
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 92
+        width: 334
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ac9646f681d98448d1afd9a4f085bf
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_44
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 86
+        width: 338
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a29dfdea9b7cdc499f6858471fc3aef
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_idle_45
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 82
+        width: 348
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914f99abaa024294aac0391c2f55b6bd
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ce099d107fac5754686d4537a61b8459
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ninja_idle_9: 21300018
+      Ninja_idle_30: 21300052
+      Ninja_idle_15: 21300030
+      Ninja_idle_19: 21300038
+      Ninja_idle_25: 21300042
+      Ninja_idle_12: 21300024
+      Ninja_idle_35: 21300062
+      Ninja_idle_40: 21300070
+      Ninja_idle_41: 21300072
+      Ninja_idle_28: 21300048
+      Ninja_idle_33: 21300058
+      Ninja_idle_3: 21300006
+      Ninja_idle_4: 21300008
+      Ninja_idle_39: 21300068
+      Ninja_idle_32: 21300056
+      Ninja_idle_27: 21300046
+      Ninja_idle_44: 21300076
+      Ninja_idle_45: 21300078
+      Ninja_idle_14: 21300028
+      Ninja_idle_10: 21300020
+      Ninja_idle_2: 21300004
+      Ninja_idle_16: 21300032
+      Ninja_idle_6: 21300012
+      Ninja_idle_34: 21300060
+      Ninja_idle_11: 21300022
+      Ninja_idle_13: 21300026
+      Ninja_idle_17: 21300034
+      Ninja_idle_43: 21300074
+      Ninja_idle_1: 21300002
+      Ninja_idle_29: 21300050
+      Ninja_idle_18: 21300036
+      Ninja_idle_36: 21300064
+      Ninja_idle_31: 21300054
+      Ninja_idle_38: 21300066
+      Ninja_idle_26: 21300044
+      Ninja_idle_0: 21300000
+      Ninja_idle_8: 21300016
+      Ninja_idle_5: 21300010
+      Ninja_idle_7: 21300014
+      Ninja_idle_24: 21300040
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
