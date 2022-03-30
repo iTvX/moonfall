@@ -174,6 +174,19 @@ public class MoveScript : MonoBehaviour
             jumpCount = 2;
         }
     }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+
+
+        if (collision.gameObject.tag == "Gears" || collision.gameObject.tag == "Spikes")
+        {
+            GameObject.Find("FinishMenu").SendMessage("ShowFinishPanel");
+        }
+        if (collision.gameObject.tag == "DisappearBlocks")
+        {
+            Destroy(collision.gameObject);
+        }
+    }
 
     void CheckLadder()
     {
@@ -194,6 +207,9 @@ public class MoveScript : MonoBehaviour
             rigidbody2D.gravityScale = playerGravity;
         }
     }
+
+
+
 
     void RecordDistanceAndHeightWithTime(int intDistance, int currentheight, int intTimer) {
         // Send custom event

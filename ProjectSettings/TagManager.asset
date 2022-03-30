@@ -6,6 +6,19 @@ TagManager:
   tags:
   - Ground
   - Ladder
+  - PLAYER
+  - ninjastar
+  - EnemyMelee
+  - enemy
+  - Katana
+  - Ninja
+  - NinjaGroundPoint
+  - bullet
+  - arrow
+  - musketFire
+  - Gears
+  - Spikes
+  - DisappearBlocks
   layers:
   - Default
   - TransparentFX
@@ -49,8 +62,14 @@ TagManager:
   - name: Ladder
     uniqueID: 3415402201
     locked: 0
+  - name: background
+    uniqueID: 1418444983
+    locked: 0
   - name: Player
     uniqueID: 2148536113
+    locked: 0
+  - name: foreground
+    uniqueID: 2019270659
     locked: 0
   - name: subs
     uniqueID: 2833397111
