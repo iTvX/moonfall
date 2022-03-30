@@ -186,16 +186,16 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 4096
@@ -207,7 +207,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
@@ -220,6 +220,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1077,12 +1101,12 @@ TextureImporter:
       Ninja_idle_9: 21300018
       Ninja_idle_30: 21300052
       Ninja_idle_15: 21300030
+      Ninja_idle_5: 21300010
       Ninja_idle_19: 21300038
-      Ninja_idle_25: 21300042
+      Ninja_idle_41: 21300072
       Ninja_idle_12: 21300024
       Ninja_idle_35: 21300062
       Ninja_idle_40: 21300070
-      Ninja_idle_41: 21300072
       Ninja_idle_28: 21300048
       Ninja_idle_33: 21300058
       Ninja_idle_3: 21300006
@@ -1110,10 +1134,10 @@ TextureImporter:
       Ninja_idle_38: 21300066
       Ninja_idle_26: 21300044
       Ninja_idle_0: 21300000
-      Ninja_idle_8: 21300016
-      Ninja_idle_5: 21300010
-      Ninja_idle_7: 21300014
       Ninja_idle_24: 21300040
+      Ninja_idle_8: 21300016
+      Ninja_idle_7: 21300014
+      Ninja_idle_25: 21300042
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

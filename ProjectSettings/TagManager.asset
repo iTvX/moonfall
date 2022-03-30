@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - Ladder
+<<<<<<< HEAD
   - PLAYER
   - ninjastar
   - EnemyMelee
@@ -19,6 +20,19 @@ TagManager:
   - Gears
   - Spikes
   - DisappearBlocks
+=======
+  - ground
+  - Wall
+  - enemy
+  - Katana
+  - EnemyMelee
+  - NinjaGroundPoint
+  - Ninja
+  - bullet
+  - ninjastar
+  - arrow
+  - musketFire
+>>>>>>> 8f6e70eda46961bef5dd787bc156b1579d346e13
   layers:
   - Default
   - TransparentFX
@@ -27,7 +41,7 @@ TagManager:
   - Water
   - UI
   - Subs
-  - 
+  - Ground
   - Player
   - Ladder
   - 
