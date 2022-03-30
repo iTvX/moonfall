@@ -128,6 +128,7 @@ public class SkeletonMove : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.E)){
 
             throwing();
+            animator.SetBool("isThrowing", true);
             inThrowing = true;
         }
         if(!inThrowing)
@@ -145,6 +146,7 @@ public class SkeletonMove : MonoBehaviour
                 tempPos.y = tempPos.y + 1.2f;
                 transform.position = tempPos;
                 inThrowing = false;
+                animator.SetBool("isThrowing", false);
             }
         }
         if (isJump && (lastSecondHeight > currentheight))
