@@ -247,7 +247,7 @@ public class SkeletonMove : MonoBehaviour
                 tempJumpPosition = transform.position;
             }
 
-            gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 5f), ForceMode2D.Impulse);
+            gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 2f), ForceMode2D.Impulse);
             jumpCount--;
             animator.SetBool("isground", false);
         }
