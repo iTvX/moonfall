@@ -6,6 +6,17 @@ TagManager:
   tags:
   - Ground
   - Ladder
+  - ground
+  - Wall
+  - enemy
+  - Katana
+  - EnemyMelee
+  - NinjaGroundPoint
+  - Ninja
+  - bullet
+  - ninjastar
+  - arrow
+  - musketFire
   layers:
   - Default
   - TransparentFX
@@ -14,7 +25,7 @@ TagManager:
   - Water
   - UI
   - Subs
-  - 
+  - Ground
   - Player
   - Ladder
   - 
