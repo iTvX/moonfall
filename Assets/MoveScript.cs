@@ -5,6 +5,7 @@ using UnityEngine.UI;
 using System;
 #if ENABLE_CLOUD_SERVICES_ANALYTICS
 using UnityEngine.Analytics;
+using UnityEngine.SceneManagement;
 #endif
 public class MoveScript : MonoBehaviour
 {
@@ -199,7 +200,7 @@ public class MoveScript : MonoBehaviour
 
         if (collision.gameObject.tag == "Gears" || collision.gameObject.tag == "Spikes")
         {
-            GameObject.Find("FinishMenu").SendMessage("ShowFinishPanel");
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
         if (collision.gameObject.tag == "DisappearBlocks")
         {
