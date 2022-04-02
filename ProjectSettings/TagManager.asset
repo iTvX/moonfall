@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Ground
   - Ladder
+  - Spikes
+  - DisappearBlocks
+  - Gears
   layers:
   - Default
   - TransparentFX
