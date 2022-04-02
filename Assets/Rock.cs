@@ -13,7 +13,7 @@ public class Rock : MonoBehaviour
     {
         rigidbody2D = GetComponent<Rigidbody2D>();
         isTriggered = false;
-        timer = 5.0f;
+        timer = 3.0f;
     }
 
     // Update is called once per frame
@@ -34,7 +34,14 @@ public class Rock : MonoBehaviour
             }
         }
 
-        if ((System.Math.Abs(rigidbody2D.velocity.x) + System.Math.Abs(rigidbody2D.velocity.y)) < 1 && isTriggered)
+        if ((System.Math.Abs(rigidbody2D.velocity.x) + System.Math.Abs(rigidbody2D.velocity.y)) == 0 && isTriggered)
+        {
+            rigidbody2D.isKinematic = true;
+            rigidbody2D.velocity = Vector2.zero;
+            rigidbody2D.freezeRotation = true;
+        }
+
+        else if ((System.Math.Abs(rigidbody2D.velocity.x) + System.Math.Abs(rigidbody2D.velocity.y)) < 0.5 && isTriggered)
         {
             timer -= Time.deltaTime;
             if (timer <= 0)
@@ -43,13 +50,12 @@ public class Rock : MonoBehaviour
                 rigidbody2D.velocity = Vector2.zero;
                 rigidbody2D.freezeRotation = true;
             }
-
         }
     }
 
     private void OnCollisionEnter2D(Collision2D other)
     {
-        if (other.gameObject.CompareTag("Player") && (System.Math.Abs(rigidbody2D.velocity.x) + System.Math.Abs(rigidbody2D.velocity.y)) > 0)
+        if (other.gameObject.CompareTag("Player") && (System.Math.Abs(rigidbody2D.velocity.x) + System.Math.Abs(rigidbody2D.velocity.y)) > 0.2)
         {
             GameObject.Find("FinishMenu").SendMessage("ShowFinishPanel");
         }
