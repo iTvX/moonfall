@@ -5,11 +5,15 @@ using UnityEngine;
 public class Rock : MonoBehaviour
 {
     private Rigidbody2D rigidbody2D;
+    private bool isTriggered;
+    private float timer;
     
     // Start is called before the first frame update
     void Start()
     {
         rigidbody2D = GetComponent<Rigidbody2D>();
+        isTriggered = false;
+        timer = 5.0f;
     }
 
     // Update is called once per frame
@@ -24,17 +28,28 @@ public class Rock : MonoBehaviour
         {
             rigidbody2D.isKinematic = false;
             rigidbody2D.gravityScale = 1f;
+            if ((System.Math.Abs(rigidbody2D.velocity.x) + System.Math.Abs(rigidbody2D.velocity.y)) > 1 && !isTriggered)
+            {
+                isTriggered = true;
+            }
+        }
+
+        if ((System.Math.Abs(rigidbody2D.velocity.x) + System.Math.Abs(rigidbody2D.velocity.y)) < 1 && isTriggered)
+        {
+            timer -= Time.deltaTime;
+            if (timer <= 0)
+            {
+                rigidbody2D.isKinematic = true;
+                rigidbody2D.velocity = Vector2.zero;
+                rigidbody2D.freezeRotation = true;
+            }
+
         }
     }
 
     private void OnCollisionEnter2D(Collision2D other)
     {
-        if (rigidbody2D.velocity.x == 0 && rigidbody2D.velocity.y == 0)
-        {
-            rigidbody2D.isKinematic = true;
-        }
-        
-        if (other.gameObject.CompareTag("Player") && (System.Math.Abs(rigidbody2D.velocity.x) >= 5 || System.Math.Abs(rigidbody2D.velocity.y) >= 5))
+        if (other.gameObject.CompareTag("Player") && (System.Math.Abs(rigidbody2D.velocity.x) + System.Math.Abs(rigidbody2D.velocity.y)) > 0)
         {
             GameObject.Find("FinishMenu").SendMessage("ShowFinishPanel");
         }

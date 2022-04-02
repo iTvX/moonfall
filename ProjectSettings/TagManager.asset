@@ -3,26 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-<<<<<<< HEAD
-  tags: []
-=======
   tags:
   - Ground
   - Ladder
-  - PLAYER
-  - ninjastar
-  - EnemyMelee
-  - enemy
-  - Katana
-  - Ninja
-  - NinjaGroundPoint
-  - bullet
-  - arrow
-  - musketFire
-  - Gears
-  - Spikes
-  - DisappearBlocks
->>>>>>> 6ced9ab7fb477523990b7bcac7a5f30744ffd3d2
   layers:
   - Default
   - TransparentFX
@@ -30,17 +13,10 @@ TagManager:
   - 
   - Water
   - UI
-<<<<<<< HEAD
-  - 
-  - 
-  - 
-  - 
-=======
-  - Subs
-  - 
-  - Player
   - Ladder
->>>>>>> 6ced9ab7fb477523990b7bcac7a5f30744ffd3d2
+  - Player
+  - 
+  - 
   - 
   - 
   - 
@@ -67,24 +43,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-<<<<<<< HEAD
-=======
-  - name: Ground
-    uniqueID: 3698492847
-    locked: 0
   - name: Ladder
-    uniqueID: 3415402201
+    uniqueID: 2423474811
     locked: 0
-  - name: background
-    uniqueID: 1418444983
-    locked: 0
-  - name: Player
-    uniqueID: 2148536113
-    locked: 0
-  - name: foreground
-    uniqueID: 2019270659
-    locked: 0
-  - name: subs
-    uniqueID: 2833397111
-    locked: 0
->>>>>>> 6ced9ab7fb477523990b7bcac7a5f30744ffd3d2
