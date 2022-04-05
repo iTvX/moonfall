@@ -16,6 +16,7 @@ public class grapplingHook : MonoBehaviour
 	Vector3 currentPos;
 	Vector2 anchorPos;
 	Vector2 lookDirection;
+	public Camera cam;
 	// Use this for initialization
 	void Start()
 	{
@@ -48,7 +49,7 @@ public class grapplingHook : MonoBehaviour
 		{
 			currentPos = GetComponent<Rigidbody2D>().transform.position;
 			print("shooting hook");
-			targetPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+			targetPos = cam.ScreenToWorldPoint(Input.mousePosition);
 			targetPos.z = 0;
 			print("target: "+targetPos);
 			print("current:" + currentPos);
