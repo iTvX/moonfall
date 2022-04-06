@@ -9,6 +9,7 @@ TagManager:
   - Spikes
   - DisappearBlocks
   - Gears
+  - wall
   layers:
   - Default
   - TransparentFX
