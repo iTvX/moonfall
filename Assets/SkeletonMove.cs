@@ -20,7 +20,7 @@ public class SkeletonMove : MonoBehaviour
     public float mouseFacY;
     private Transform proj;
     private GameObject projG;
-
+    public Camera cam;
     public float moveSpeed = 5f;
     public float climbSpeed = 0.5f;
     public float playerGravity;
@@ -191,7 +191,7 @@ public class SkeletonMove : MonoBehaviour
         
         currentPos = proj.GetComponent<Rigidbody2D>().transform.position;
         print("shooting hook");
-        targetPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        targetPos = cam.ScreenToWorldPoint(Input.mousePosition);
         targetPos.z = 0;
         float fx = -(currentPos.x - targetPos.x)/mouseFacX;
         float fy = -(currentPos.y - targetPos.y)/ mouseFacY;
