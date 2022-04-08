@@ -5,13 +5,15 @@ using UnityEngine.UI;
 using System;
 #if ENABLE_CLOUD_SERVICES_ANALYTICS
 using UnityEngine.Analytics;
+using UnityEngine.SceneManagement;
 #endif
 public class MoveScript : MonoBehaviour
 {
     public Animator animator;
     private BoxCollider2D character;
     private Rigidbody2D rigidbody2D;
-    
+    private bool facingRight = true;
+
     public float moveSpeed = 5f;
     public float climbSpeed = 0.5f;
     public float playerGravity;
@@ -73,7 +75,15 @@ public class MoveScript : MonoBehaviour
         ClimbLadder();
         
         Vector3 movement = new Vector3(Input.GetAxis("Horizontal"), 0f, 0f);
-        animator.SetFloat("speed", movement.x);
+        if(movement.x > 0 && !facingRight)
+        {
+            Flip();
+        }
+        else if(movement.x < 0 && facingRight)
+        {
+            Flip();
+        }
+        animator.SetFloat("speed", Mathf.Abs(movement.x));
         transform.position += movement * Time.deltaTime * moveSpeed;
         //�����г�
         Vector3 Julicha = transform.position - lastPosition;
@@ -154,6 +164,16 @@ public class MoveScript : MonoBehaviour
 
     }
 
+    void Flip()
+    {
+        // Switch the way the player is labelled as facing.
+        facingRight = !facingRight;
+
+        // Multiply the player's x local scale by -1.
+        Vector3 theScale = transform.localScale;
+        theScale.x *= -1;
+        transform.localScale = theScale;
+    }
     void Jump(int timer)
     {
         //print(isGrounded);
@@ -172,6 +192,19 @@ public class MoveScript : MonoBehaviour
         if (isGrounded)
         {
             jumpCount = 2;
+        }
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+
+
+        if (collision.gameObject.tag == "Gears" || collision.gameObject.tag == "Spikes")
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
+        if (collision.gameObject.tag == "DisappearBlocks")
+        {
+            Destroy(collision.gameObject);
         }
     }
 
@@ -194,6 +227,9 @@ public class MoveScript : MonoBehaviour
             rigidbody2D.gravityScale = playerGravity;
         }
     }
+
+
+
 
     void RecordDistanceAndHeightWithTime(int intDistance, int currentheight, int intTimer) {
         // Send custom event

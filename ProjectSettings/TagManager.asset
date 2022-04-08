@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Ground
   - Ladder
+  - Spikes
+  - DisappearBlocks
+  - Gears
+  - wall
   layers:
   - Default
   - TransparentFX
@@ -13,10 +17,10 @@ TagManager:
   - 
   - Water
   - UI
-  - Subs
-  - 
-  - Player
   - Ladder
+  - Player
+  - 
+  - 
   - 
   - 
   - 
@@ -43,15 +47,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Ground
-    uniqueID: 3698492847
-    locked: 0
   - name: Ladder
-    uniqueID: 3415402201
-    locked: 0
-  - name: Player
-    uniqueID: 2148536113
-    locked: 0
-  - name: subs
-    uniqueID: 2833397111
+    uniqueID: 2423474811
     locked: 0
