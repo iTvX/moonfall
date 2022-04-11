@@ -18936,27 +18936,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2462450168029031724, guid: b00ff456afa154c44a7f212b37ef7e74, type: 3}
   m_PrefabInstance: {fileID: 6048822751318780115}
   m_PrefabAsset: {fileID: 0}
---- !u!61 &742117042 stripped
-BoxCollider2D:
-  m_CorrespondingSourceObject: {fileID: 2462450168029031728, guid: b00ff456afa154c44a7f212b37ef7e74, type: 3}
-  m_PrefabInstance: {fileID: 6048822751318780115}
-  m_PrefabAsset: {fileID: 0}
---- !u!58 &742117044
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 742117025}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.15168, y: -0.5356903}
-  serializedVersion: 2
-  m_Radius: 0.43870544
 --- !u!1 &751829848
 GameObject:
   m_ObjectHideFlags: 0
@@ -50956,10 +50935,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2462450168029031725, guid: b00ff456afa154c44a7f212b37ef7e74, type: 3}
-      propertyPath: CrouchDisableCollider
-      value: 
-      objectReference: {fileID: 742117042}
     - target: {fileID: 4253356887171450894, guid: b00ff456afa154c44a7f212b37ef7e74, type: 3}
       propertyPath: height
       value: 
@@ -50972,18 +50947,6 @@ PrefabInstance:
       propertyPath: Timecount
       value: 
       objectReference: {fileID: 590833699}
-    - target: {fileID: 6048822751787214461, guid: b00ff456afa154c44a7f212b37ef7e74, type: 3}
-      propertyPath: cam
-      value: 
-      objectReference: {fileID: 519420031}
-    - target: {fileID: 6048822751787214461, guid: b00ff456afa154c44a7f212b37ef7e74, type: 3}
-      propertyPath: line
-      value: 
-      objectReference: {fileID: 398861355}
-    - target: {fileID: 6048822751787214462, guid: b00ff456afa154c44a7f212b37ef7e74, type: 3}
-      propertyPath: m_Distance
-      value: 1035.7288
-      objectReference: {fileID: 0}
     - target: {fileID: 6048822752185220753, guid: b00ff456afa154c44a7f212b37ef7e74, type: 3}
       propertyPath: follow1
       value: 
