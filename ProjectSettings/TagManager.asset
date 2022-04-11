@@ -50,3 +50,9 @@ TagManager:
   - name: Ladder
     uniqueID: 2423474811
     locked: 0
+  - name: player
+    uniqueID: 3162334671
+    locked: 0
+  - name: foreground
+    uniqueID: 2711529695
+    locked: 0

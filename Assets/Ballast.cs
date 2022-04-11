@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Ballast : MonoBehaviour
 {
@@ -22,7 +23,7 @@ public class Ballast : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player") && rigidbody2D.velocity.y < -1)
         {
-            GameObject.Find("FinishMenu").SendMessage("ShowFinishPanel");
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
     }
 }

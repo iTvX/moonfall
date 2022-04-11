@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Rock : MonoBehaviour
 {
@@ -57,7 +58,7 @@ public class Rock : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player") && (System.Math.Abs(rigidbody2D.velocity.x) + System.Math.Abs(rigidbody2D.velocity.y)) > 0.2)
         {
-            GameObject.Find("FinishMenu").SendMessage("ShowFinishPanel");
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
     }
 }
