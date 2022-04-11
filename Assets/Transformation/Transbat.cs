@@ -34,7 +34,7 @@ public class Transbat : MonoBehaviour
             follow1.gameObject.SetActive(false);
             follow3.gameObject.SetActive(false);
             follow2.gameObject.SetActive(true);
-            
+            Destroy(gameObject);
         }
     }
 }

@@ -34,7 +34,8 @@ public class TransRabbit : MonoBehaviour
             follow1.gameObject.SetActive(false);
             follow3.gameObject.SetActive(true);
             follow2.gameObject.SetActive(false);
-            
+            Destroy(gameObject);
+
         }
     }
 }
