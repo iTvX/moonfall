@@ -18,6 +18,7 @@ public class NinjaMove : MonoBehaviour
 
     public float moveSpeed = 7f;
     public float climbSpeed = 3f;
+    public float jumpForce = 5f;
     public float playerGravity;
     
     public bool isGrounded = false;
@@ -209,7 +210,7 @@ public class NinjaMove : MonoBehaviour
                 tempJumpPosition = transform.position;
             }
 
-            gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 7f), ForceMode2D.Impulse);
+            gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, jumpForce), ForceMode2D.Impulse);
             jumpCount--;
             animator.SetBool("isground", false);
         }

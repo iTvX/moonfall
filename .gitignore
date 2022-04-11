@@ -81,6 +81,5 @@ obj
 *.html
 *.sln
 Logs
-*.json
 Assets/prefabs/FinishMenu.unitypackage.meta
 

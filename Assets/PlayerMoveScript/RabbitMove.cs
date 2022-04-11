@@ -16,6 +16,7 @@ public class RabbitMove : MonoBehaviour
 
     public float moveSpeed = 5f;
     public float climbSpeed = 3f;
+    public float jumpForce = 6f;
     public float playerGravity;
     
     public bool isGrounded = false;
@@ -201,7 +202,7 @@ public class RabbitMove : MonoBehaviour
                 tempJumpPosition = transform.position;
             }
 
-            gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 8.5f), ForceMode2D.Impulse);
+            gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, jumpForce), ForceMode2D.Impulse);
             jumpCount--;
             animator.SetBool("isground", false);
 

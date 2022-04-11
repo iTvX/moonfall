@@ -12,6 +12,7 @@ public class Rock : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        transform.gameObject.layer = 7;
         rigidbody2D = GetComponent<Rigidbody2D>();
         isTriggered = false;
         timer = 3.0f;
