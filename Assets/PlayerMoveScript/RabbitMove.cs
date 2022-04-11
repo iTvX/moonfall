@@ -15,7 +15,7 @@ public class RabbitMove : MonoBehaviour
     private bool facingRight = false;
 
     public float moveSpeed = 5f;
-    public float climbSpeed = 0.5f;
+    public float climbSpeed = 3f;
     public float playerGravity;
     
     public bool isGrounded = false;
