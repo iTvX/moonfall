@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using System;
+using UnityEngine.SceneManagement;
 #if ENABLE_CLOUD_SERVICES_ANALYTICS
 using UnityEngine.Analytics;
 #endif
@@ -12,6 +13,7 @@ public class NinjaMove : MonoBehaviour
     public Animator animator;
     private BoxCollider2D character;
     private Rigidbody2D rigidbody2D;
+    [SerializeField] private Collider2D CrouchDisableCollider;
     private bool facingRight = true;
 
     public float moveSpeed = 7f;
@@ -35,6 +37,7 @@ public class NinjaMove : MonoBehaviour
     private float timer;
 
     private bool isJump = false;
+    private bool isCrouch = false;
     // private int numJump = 8; // compute distance after 8 frames delay
     private Vector3 tempJumpPosition;
     private float jumpDistance;
@@ -49,6 +52,8 @@ public class NinjaMove : MonoBehaviour
     private bool isOnLadder;
     private bool isClimbingLadder;
 
+    private CheckPoints cp;
+
 
     // Start is called before the first frame update
     async void Start()
@@ -61,6 +66,8 @@ public class NinjaMove : MonoBehaviour
         rigidbody2D = GetComponent<Rigidbody2D>();
 
         playerGravity = rigidbody2D.gravityScale;
+        cp = GameObject.FindGameObjectWithTag("CP").GetComponent<CheckPoints>();
+        transform.position = cp.lastCheckPointPos;
         
     }
 
@@ -73,6 +80,7 @@ public class NinjaMove : MonoBehaviour
         int intTimer = (int)timer;
 
         Jump(intTimer);
+        Crouch();
         ClimbLadder();
         
         Vector3 movement = new Vector3(Input.GetAxis("Horizontal"), 0f, 0f);
@@ -214,6 +222,23 @@ public class NinjaMove : MonoBehaviour
         {
             jumpCount = 1;
             animator.SetBool("isground", true);
+        }
+    }
+    void Crouch()
+    {
+        if (Input.GetKeyDown(KeyCode.S))
+        {
+            Debug.Log("Crouch!");
+            isCrouch = true;
+            CrouchDisableCollider.enabled = false;
+            animator.SetBool("iscrouch", true);
+        }
+        else if (Input.GetKeyUp(KeyCode.S))
+        {
+            isCrouch = false;
+            CrouchDisableCollider.enabled = true;
+            animator.SetBool("iscrouch", false);
+
         }
     }
 

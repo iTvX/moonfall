@@ -10,6 +10,7 @@ TagManager:
   - DisappearBlocks
   - Gears
   - wall
+  - CP
   layers:
   - Default
   - TransparentFX
