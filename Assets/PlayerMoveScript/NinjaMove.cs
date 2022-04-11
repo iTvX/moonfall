@@ -14,7 +14,7 @@ public class NinjaMove : MonoBehaviour
     private Rigidbody2D rigidbody2D;
     private bool facingRight = true;
 
-    public float moveSpeed = 5f;
+    public float moveSpeed = 7f;
     public float climbSpeed = 0.5f;
     public float playerGravity;
     
@@ -205,7 +205,7 @@ public class NinjaMove : MonoBehaviour
                 tempJumpPosition = transform.position;
             }
 
-            gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 5f), ForceMode2D.Impulse);
+            gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 7f), ForceMode2D.Impulse);
             jumpCount--;
             animator.SetBool("isground", false);
         }
