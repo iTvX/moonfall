@@ -214,6 +214,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6048822752185220754}
     m_Modifications:
+    - target: {fileID: 6048822751787214462, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
+      propertyPath: m_Distance
+      value: 1090.9963
+      objectReference: {fileID: 0}
+    - target: {fileID: 8204957497655451354, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
+      propertyPath: jumpCount
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8204957497655451354, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
+      propertyPath: climbSpeed
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8204957497655451354, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
       propertyPath: CrouchDisableCollider
       value: 

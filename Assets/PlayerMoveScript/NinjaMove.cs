@@ -23,7 +23,7 @@ public class NinjaMove : MonoBehaviour
     public bool isGrounded = false;
     private Vector3 lastPosition;
     private float totalDistance;
-    public int jumpCount = 1;
+    public int jumpCount = 2;
     public Text distance;
     public Text height;
     public Text Timecount;
@@ -216,7 +216,7 @@ public class NinjaMove : MonoBehaviour
 
         if (isGrounded)
         {
-            jumpCount = 1;
+            jumpCount = 2;
             animator.SetBool("isground", true);
         }
     }
@@ -250,10 +250,12 @@ public class NinjaMove : MonoBehaviour
             float moveY = Input.GetAxis("Vertical");
             rigidbody2D.gravityScale = 0.0f;
             rigidbody2D.velocity = new Vector2(0.0f, moveY * climbSpeed);
+            animator.SetBool("isladder", true);
         }
 
         else
         {
+            animator.SetBool("isladder", false);
             rigidbody2D.gravityScale = playerGravity;
         }
     }
