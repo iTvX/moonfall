@@ -102,11 +102,7 @@ public class MoveScript : MonoBehaviour
         float heightcount = Gaoducha.magnitude;
         currentheight = (int)heightcount;
         //timer
-        
 
-       
-
- 
         if (intTimer == lastTimeSent + 1) {
             RecordDistanceAndHeightWithTime(intDistance, currentheight, intTimer);
             lastTimeSent = intTimer;

@@ -15,7 +15,7 @@ public class NinjaMove : MonoBehaviour
     private bool facingRight = true;
 
     public float moveSpeed = 7f;
-    public float climbSpeed = 0.5f;
+    public float climbSpeed = 3f;
     public float playerGravity;
     
     public bool isGrounded = false;
@@ -104,11 +104,7 @@ public class NinjaMove : MonoBehaviour
         float heightcount = Gaoducha.magnitude;
         currentheight = (int)heightcount;
         //timer
-        
 
-       
-
- 
         if (intTimer == lastTimeSent + 1) {
             RecordDistanceAndHeightWithTime(intDistance, currentheight, intTimer);
             lastTimeSent = intTimer;

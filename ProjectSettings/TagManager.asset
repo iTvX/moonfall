@@ -19,7 +19,7 @@ TagManager:
   - UI
   - Ladder
   - Player
-  - 
+  - Spike
   - 
   - 
   - 
@@ -46,6 +46,9 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Spike
+    uniqueID: 1087650627
     locked: 0
   - name: Ladder
     uniqueID: 2423474811
