@@ -53515,6 +53515,10 @@ PrefabInstance:
       propertyPath: Timecount
       value: 
       objectReference: {fileID: 590833699}
+    - target: {fileID: 5190287927263074253, guid: b00ff456afa154c44a7f212b37ef7e74, type: 3}
+      propertyPath: climbSpeed
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 6048822751572816859, guid: b00ff456afa154c44a7f212b37ef7e74, type: 3}
       propertyPath: height
       value: 
