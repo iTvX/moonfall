@@ -8,11 +8,12 @@ public class Rock : MonoBehaviour
     private Rigidbody2D rigidbody2D;
     private bool isTriggered;
     private float timer;
-    
+    bool freeze = false;
+    public Collider2D collider;
     // Start is called before the first frame update
     void Start()
     {
-        transform.gameObject.layer = 7;
+        //transform.gameObject.layer = 7;
         rigidbody2D = GetComponent<Rigidbody2D>();
         isTriggered = false;
         timer = 3.0f;
@@ -21,11 +22,38 @@ public class Rock : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (isTriggered)
+        {
+            if (!freeze)
+            {
+                if ((System.Math.Abs(rigidbody2D.velocity.x) + System.Math.Abs(rigidbody2D.velocity.y)) == 0)
+                {
+                    rigidbody2D.isKinematic = true;
+                    rigidbody2D.velocity = Vector2.zero;
+                    rigidbody2D.freezeRotation = true;
+                    
+
+                }
+
+                else if ((System.Math.Abs(rigidbody2D.velocity.x) + System.Math.Abs(rigidbody2D.velocity.y)) < 0.5)
+                {
+                    timer -= Time.deltaTime;
+                    if (timer <= 0)
+                    {
+                        rigidbody2D.isKinematic = true;
+                        
+                        rigidbody2D.velocity = Vector2.zero;
+                        rigidbody2D.freezeRotation = true;
+                        freeze = true;
+                    }
+                }
+            }
+        }
     }
 
     private void OnTriggerStay2D(Collider2D other)
     {
+        
         if (other.gameObject.CompareTag("Player"))
         {
             rigidbody2D.isKinematic = false;
@@ -33,26 +61,12 @@ public class Rock : MonoBehaviour
             if ((System.Math.Abs(rigidbody2D.velocity.x) + System.Math.Abs(rigidbody2D.velocity.y)) > 1 && !isTriggered)
             {
                 isTriggered = true;
+                print("Disable");
+                collider.enabled = false;
             }
         }
 
-        if ((System.Math.Abs(rigidbody2D.velocity.x) + System.Math.Abs(rigidbody2D.velocity.y)) == 0 && isTriggered)
-        {
-            rigidbody2D.isKinematic = true;
-            rigidbody2D.velocity = Vector2.zero;
-            rigidbody2D.freezeRotation = true;
-        }
-
-        else if ((System.Math.Abs(rigidbody2D.velocity.x) + System.Math.Abs(rigidbody2D.velocity.y)) < 0.5 && isTriggered)
-        {
-            timer -= Time.deltaTime;
-            if (timer <= 0)
-            {
-                rigidbody2D.isKinematic = true;
-                rigidbody2D.velocity = Vector2.zero;
-                rigidbody2D.freezeRotation = true;
-            }
-        }
+        
     }
 
     private void OnCollisionEnter2D(Collision2D other)
