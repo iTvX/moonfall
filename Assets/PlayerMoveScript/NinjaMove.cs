@@ -93,9 +93,12 @@ public class NinjaMove : MonoBehaviour
         {
             Flip();
         }
-        animator.SetFloat("speed", Mathf.Abs(movement.x));
-        
-        transform.position += movement * Time.deltaTime * moveSpeed;
+        if (!isHook)
+        {
+            animator.SetFloat("speed", Mathf.Abs(movement.x));
+
+            transform.position += movement * Time.deltaTime * moveSpeed;
+        }
         //�����г�
         Vector3 Julicha = transform.position - lastPosition;
         // if the user falls, stop tracking last fall position.
