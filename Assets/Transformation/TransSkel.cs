@@ -3,20 +3,19 @@ using System.Collections.Generic;
 using UnityEngine;
 using Cinemachine;
 
-public class TransRabbit : MonoBehaviour
+public class TransSkel : MonoBehaviour
 {
-    // Start is called before the first frame update
-    
     [SerializeField] CinemachineVirtualCamera NinjaCam;
-    [SerializeField] CinemachineVirtualCamera RabbitCam;
+    [SerializeField] CinemachineVirtualCamera SkelCam;
+
     public GameObject Ninja;
-    public GameObject Rabbit;
+    public GameObject Skel;
     private Vector3 trackposition;
 
     private int whichcharacter;
     void Start()
     {
-        
+
 
     }
 
@@ -25,14 +24,12 @@ public class TransRabbit : MonoBehaviour
         if (collision.tag == "Player")
         {
             trackposition = Ninja.transform.position;
-            Rabbit.transform.position = trackposition;
+            Skel.transform.position = trackposition;
             Ninja.gameObject.SetActive(false);
-            Rabbit.gameObject.SetActive(true);
-           
+            Skel.gameObject.SetActive(true);
             NinjaCam.gameObject.SetActive(false);
-            RabbitCam.gameObject.SetActive(true);
+            SkelCam.gameObject.SetActive(true);
             Destroy(gameObject);
-
         }
     }
 }

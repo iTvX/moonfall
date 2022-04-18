@@ -7,12 +7,11 @@ public class Transbat : MonoBehaviour
 {
     // Start is called before the first frame update
     
-    [SerializeField] CinemachineVirtualCamera follow1;
-    [SerializeField] CinemachineVirtualCamera follow2;
-    [SerializeField] CinemachineVirtualCamera follow3;
+    [SerializeField] CinemachineVirtualCamera NinjaCam;
+    [SerializeField] CinemachineVirtualCamera BatCam;
+ 
     public GameObject Ninja;
     public GameObject Bat;
-    public GameObject Rabbit;
     private Vector3 trackposition;
 
     private int whichcharacter;
@@ -29,11 +28,9 @@ public class Transbat : MonoBehaviour
             trackposition = Ninja.transform.position;
             Bat.transform.position = trackposition;
             Ninja.gameObject.SetActive(false);
-            Rabbit.gameObject.SetActive(false);
             Bat.gameObject.SetActive(true);
-            follow1.gameObject.SetActive(false);
-            follow3.gameObject.SetActive(false);
-            follow2.gameObject.SetActive(true);
+            NinjaCam.gameObject.SetActive(false);
+            BatCam.gameObject.SetActive(true);
             Destroy(gameObject);
         }
     }

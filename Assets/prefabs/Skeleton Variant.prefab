@@ -169,6 +169,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4842203243089045625, guid: 03f9e15cb78a3114ebf323f3b0473a99, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4842203243089045625, guid: 03f9e15cb78a3114ebf323f3b0473a99, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4842203243089045625, guid: 03f9e15cb78a3114ebf323f3b0473a99, type: 3}
       propertyPath: m_LocalPosition.x
       value: 955.3
       objectReference: {fileID: 0}
@@ -210,7 +218,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4842203243089045626, guid: 03f9e15cb78a3114ebf323f3b0473a99, type: 3}
       propertyPath: m_Name
-      value: Skeleton
+      value: Skeleton Variant
       objectReference: {fileID: 0}
     - target: {fileID: 4842203243089045626, guid: 03f9e15cb78a3114ebf323f3b0473a99, type: 3}
       propertyPath: m_Layer
@@ -294,6 +302,7 @@ MonoBehaviour:
   animator: {fileID: 3023512822902502435}
   mouseFacX: 8
   mouseFacY: 8
+  cam: {fileID: 0}
   moveSpeed: 5
   climbSpeed: 0.5
   playerGravity: 0
