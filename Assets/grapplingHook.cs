@@ -24,6 +24,7 @@ public class grapplingHook : MonoBehaviour
     {
         joint = GetComponent<DistanceJoint2D>();
         joint.enabled = false;
+        transform.GetComponent<NinjaMove>().isHook = false;
         line.enabled = false;
     }
 
@@ -49,6 +50,7 @@ public class grapplingHook : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.E))
         {
+            
             currentPos = GetComponent<Rigidbody2D>().transform.position;
             // print("shooting hook");
             targetPos = cam.ScreenToWorldPoint(Input.mousePosition);
@@ -74,6 +76,7 @@ public class grapplingHook : MonoBehaviour
                 // print("hit point: "+hit.point);
 
                 joint.enabled = true;
+                transform.GetComponent<NinjaMove>().isHook = true;
                 transform.parent = hit.collider.transform;
                 anchorPos = new Vector2(hit.collider.gameObject.GetComponent<Rigidbody2D>().transform.position.x, hit.collider.gameObject.GetComponent<Rigidbody2D>().transform.position.y);
                 print("anchor: " + anchorPos);
@@ -119,6 +122,7 @@ public class grapplingHook : MonoBehaviour
         {
             transform.parent = null;
             joint.enabled = false;
+            transform.GetComponent<NinjaMove>().isHook = false;
             line.enabled = false;
         }
 

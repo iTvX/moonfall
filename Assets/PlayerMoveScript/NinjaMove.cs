@@ -44,7 +44,7 @@ public class NinjaMove : MonoBehaviour
     private float jumpDistance;
 
 
-    private bool isHook = false;
+    public bool isHook = false;
     // private int numHook = 8;
     private Vector3 tempHookPosition;
     private float hookDistance;
@@ -124,16 +124,17 @@ public class NinjaMove : MonoBehaviour
             lastSecondHeight = currentheight;
         }
 
-        if(Input.GetKeyDown(KeyCode.E)){
-            if (!isHook)
-            {
-                isHook = true;
-                tempHookPosition = transform.position;
-            }
-            //           print("reocord swing");
-            RecordSwing(intTimer);
+        //if(Input.GetKeyDown(KeyCode.E)){
+        //    if (!isHook)
+        //    {
+        //        print("is hooking");
+        //        isHook = true;
+        //        tempHookPosition = transform.position;
+        //    }
+        //    //           print("reocord swing");
+        //    RecordSwing(intTimer);
             
-        }
+        //}
 
         if (isJump && (lastSecondHeight > currentheight))
         {
@@ -148,18 +149,18 @@ public class NinjaMove : MonoBehaviour
 
         }
 
-        if (isHook && (lastSecondHeight > currentheight))
-        {
+        //if (isHook && (lastSecondHeight > currentheight))
+        //{
 
-            // Debug.Log("hook-fall!");
-            isHook = false;
-            float distanceDiff = (transform.position - tempHookPosition).magnitude;
-            hookDistance += distanceDiff;
-            hookDistance = (float)Math.Round(hookDistance, 2);
-            RecordHookDistance(hookDistance, intTimer);
+        //    Debug.Log("no hooking");
+        //    isHook = false;
+        //    float distanceDiff = (transform.position - tempHookPosition).magnitude;
+        //    hookDistance += distanceDiff;
+        //    hookDistance = (float)Math.Round(hookDistance, 2);
+        //    RecordHookDistance(hookDistance, intTimer);
 
 
-        }
+        //}
 
         if (lastSecondHeight >= currentheight + 5 && !inFalling) {
             RecordFall(intTimer);
