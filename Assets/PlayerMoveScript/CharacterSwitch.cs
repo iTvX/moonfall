@@ -6,10 +6,11 @@ using Cinemachine;
 
 public class CharacterSwitch : MonoBehaviour
 {
-    public GameObject player1, player2, player3;
+    public GameObject player1, player2, player3, player4;
     [SerializeField] CinemachineVirtualCamera follow1;
     [SerializeField] CinemachineVirtualCamera follow2;
     [SerializeField] CinemachineVirtualCamera follow3;
+    [SerializeField] CinemachineVirtualCamera follow4;
 
     private Vector3 trackposition;
 
@@ -23,9 +24,11 @@ public class CharacterSwitch : MonoBehaviour
         player1.gameObject.SetActive(true);
         player2.gameObject.SetActive(false);
         player3.gameObject.SetActive(false);
+        player4.gameObject.SetActive(false);
         follow1.gameObject.SetActive(true);
         follow2.gameObject.SetActive(false);
         follow3.gameObject.SetActive(false);
+        follow4.gameObject.SetActive(false);
         whichcharacter = 1;
 
     }
