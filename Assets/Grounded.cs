@@ -14,18 +14,20 @@ public class Grounded : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        print("grounded");
     }
     private void OnCollisionEnter2D(Collision2D collision){
 	if (collision.collider.tag == "Ground"||collision.collider.tag == "wall"){
-	    Player.GetComponent<MoveScript>().isGrounded = true;
+            print("colliding");
+	    Player.GetComponent<NinjaMove>().isGrounded = true;
 	
 	}
 
     }
     private void OnCollisionExit2D(Collision2D collision){
-	if (collision.collider.tag == "Ground"||collision.collider.tag == "wall"){
-	    Player.GetComponent<MoveScript>().isGrounded = false;
+        print("not colliding");
+        if (collision.collider.tag == "Ground"||collision.collider.tag == "wall"){
+	    Player.GetComponent<NinjaMove>().isGrounded = false;
 
 	
 	}

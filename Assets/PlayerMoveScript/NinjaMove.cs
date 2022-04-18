@@ -170,24 +170,24 @@ public class NinjaMove : MonoBehaviour
         Timecount.text = "Time: " + intTimer.ToString() + "s";
 
     }
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.collider.tag == "Ground" || collision.collider.tag == "wall")
-        {
-            isGrounded = true;
+    //private void OnCollisionEnter2D(Collision2D collision)
+    //{
+    //    if (collision.collider.tag == "Ground" || collision.collider.tag == "wall")
+    //    {
+    //        isGrounded = true;
 
-        }
+    //    }
 
-    }
-    private void OnCollisionExit2D(Collision2D collision)
-    {
-        if (collision.collider.tag == "Ground" || collision.collider.tag == "wall")
-        {
-            isGrounded = false;
+    //}
+    //private void OnCollisionExit2D(Collision2D collision)
+    //{
+    //    if (collision.collider.tag == "Ground" || collision.collider.tag == "wall")
+    //    {
+    //        isGrounded = false;
 
 
-        }
-    }
+    //    }
+    //}
 
     void Flip()
     {
