@@ -16,7 +16,7 @@ public class Rock : MonoBehaviour
         //transform.gameObject.layer = 7;
         rigidbody2D = GetComponent<Rigidbody2D>();
         isTriggered = false;
-        timer = 3.0f;
+        timer = 0.5f;
     }
 
     // Update is called once per frame
