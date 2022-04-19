@@ -24,7 +24,7 @@ public class NinjaMove : MonoBehaviour
     public bool isGrounded = false;
     private Vector3 lastPosition;
     private float totalDistance;
-    public int jumpCount = 2;
+    public int jumpCount = 1;
     public Text distance;
     public Text height;
     public Text Timecount;
@@ -75,6 +75,8 @@ public class NinjaMove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        CheckHook();
+        
         CheckLadder();
         
         timer += Time.deltaTime;
@@ -217,11 +219,12 @@ public class NinjaMove : MonoBehaviour
             gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, jumpForce), ForceMode2D.Impulse);
             jumpCount--;
             animator.SetBool("isground", false);
+            AudioManager.Instance.Play("jump");
         }
 
         if (isGrounded)
         {
-            jumpCount = 2;
+            jumpCount = 1;
             animator.SetBool("isground", true);
         }
     }
@@ -246,6 +249,20 @@ public class NinjaMove : MonoBehaviour
     void CheckLadder()
     {
         isOnLadder = character.IsTouchingLayers(LayerMask.GetMask("Ladder"));
+    }
+    void CheckHook()
+    {
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            isHook = true;
+            animator.SetBool("ishook", true);
+            Debug.Log("hooking!");
+        }
+        else if(Input.GetKeyUp(KeyCode.E))
+        {
+            isHook = false;
+            animator.SetBool("ishook", false);
+        }
     }
 
     void ClimbLadder()
