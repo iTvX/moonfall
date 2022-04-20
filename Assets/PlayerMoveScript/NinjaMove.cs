@@ -171,9 +171,9 @@ public class NinjaMove : MonoBehaviour
             inFalling = false;  // Set inFalling flag to false, so we can record next fall
         }
 
-        distance.text = "Total Distance: " + intDistance.ToString() + "m";
-        height.text = "Height: " + currentheight.ToString() + "m";
-        Timecount.text = "Time: " + intTimer.ToString() + "s";
+        //distance.text = "Total Distance: " + intDistance.ToString() + "m";
+        //height.text = "Height: " + currentheight.ToString() + "m";
+        //Timecount.text = "Time: " + intTimer.ToString() + "s";
 
     }
     //private void OnCollisionEnter2D(Collision2D collision)
