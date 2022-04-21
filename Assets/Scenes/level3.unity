@@ -848,7 +848,7 @@ GameObject:
   - component: {fileID: 18861909}
   - component: {fileID: 18861908}
   - component: {fileID: 18861907}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: SpriteShapeProfile_Mine_Entrance_02 (33)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -4988,7 +4988,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.151341, y: 1}
+    m_SensorSize: {x: 1.3333334, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -9006,7 +9006,7 @@ GameObject:
   - component: {fileID: 459966609}
   - component: {fileID: 459966608}
   - component: {fileID: 459966607}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: SpriteShapeProfile_Mine_Rope_01 (31)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -9514,7 +9514,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.3380159, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -9525,7 +9525,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.63, y: 0.76}
+  m_Size: {x: 0.9539683, y: 0.76}
   m_EdgeRadius: 0
 --- !u!50 &485686229
 Rigidbody2D:
@@ -12559,7 +12559,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.30738977, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -12570,7 +12570,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.63, y: 0.76}
+  m_Size: {x: 1.0152206, y: 0.76}
   m_EdgeRadius: 0
 --- !u!50 &664206383
 Rigidbody2D:
@@ -15021,7 +15021,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.28876662, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -15032,7 +15032,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.63, y: 0.76}
+  m_Size: {x: 1.0524669, y: 0.76}
   m_EdgeRadius: 0
 --- !u!50 &808268314
 Rigidbody2D:
@@ -16255,7 +16255,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.28601596, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -16266,7 +16266,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.63, y: 0.76}
+  m_Size: {x: 1.0579681, y: 0.76}
   m_EdgeRadius: 0
 --- !u!50 &883422054
 Rigidbody2D:
@@ -16866,7 +16866,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2972193395689178913, guid: 4461f9c60edcb08478b0357ace2acdb8, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2972193395689178926, guid: 4461f9c60edcb08478b0357ace2acdb8, type: 3}
       propertyPath: m_RootOrder
@@ -19702,7 +19702,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.24591872, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -19713,7 +19713,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.63, y: 0.76}
+  m_Size: {x: 1.1381626, y: 0.76}
   m_EdgeRadius: 0
 --- !u!50 &1077456965
 Rigidbody2D:
@@ -19879,7 +19879,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.36731905, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -19890,7 +19890,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.63, y: 0.76}
+  m_Size: {x: 0.8953618, y: 0.76}
   m_EdgeRadius: 0
 --- !u!50 &1098544345
 Rigidbody2D:
@@ -20903,7 +20903,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.36246586, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -20914,7 +20914,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.63, y: 0.76}
+  m_Size: {x: 0.9050684, y: 0.76}
   m_EdgeRadius: 0
 --- !u!50 &1152965087
 Rigidbody2D:
@@ -21034,7 +21034,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 4, y: 0.51}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.2
 --- !u!50 &1153789461
 Rigidbody2D:
   serializedVersion: 4
@@ -23483,7 +23483,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.151341, y: 1}
+    m_SensorSize: {x: 1.3333334, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -23568,7 +23568,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 4, y: 0.51}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.2
 --- !u!50 &1326390992
 Rigidbody2D:
   serializedVersion: 4
@@ -24450,7 +24450,7 @@ GameObject:
   - component: {fileID: 1402662083}
   - component: {fileID: 1402662082}
   - component: {fileID: 1402662081}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: SpriteShapeProfile_Mine_Rope_01 (32)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -25655,7 +25655,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.151341, y: 1}
+    m_SensorSize: {x: 1.3333334, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -25759,7 +25759,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.151341, y: 1}
+    m_SensorSize: {x: 1.3333334, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -26280,7 +26280,7 @@ GameObject:
   - component: {fileID: 1508248932}
   - component: {fileID: 1508248931}
   - component: {fileID: 1508248930}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: SpriteShapeProfile_Mine_Entrance_02 (32)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -27276,7 +27276,7 @@ GameObject:
   - component: {fileID: 1545762949}
   - component: {fileID: 1545762948}
   - component: {fileID: 1545762947}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: SpriteShapeProfile_Mine_Entrance_02 (31)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -28975,7 +28975,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.2601324, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -28986,7 +28986,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.63, y: 0.76}
+  m_Size: {x: 1.109735, y: 0.76}
   m_EdgeRadius: 0
 --- !u!50 &1646661088
 Rigidbody2D:
@@ -29234,7 +29234,7 @@ GameObject:
   - component: {fileID: 1662366297}
   - component: {fileID: 1662366296}
   - component: {fileID: 1662366295}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: SpriteShapeProfile_Mine_Rope_01 (30)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -33560,7 +33560,7 @@ EdgeCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
   m_Points:
   - {x: -16.400347, y: 5.1879387}
   - {x: -16.406525, y: 5.3787036}
