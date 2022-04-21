@@ -16837,9 +16837,6 @@ MonoBehaviour:
   playerGravity: 0
   isGrounded: 0
   jumpCount: 1
-  distance: {fileID: 0}
-  height: {fileID: 0}
-  Timecount: {fileID: 0}
 --- !u!4 &634186252 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4842203243089045625, guid: 03f9e15cb78a3114ebf323f3b0473a99, type: 3}
@@ -51283,6 +51280,10 @@ PrefabInstance:
       propertyPath: follow3
       value: 
       objectReference: {fileID: 1383565203}
+    - target: {fileID: 5190287927875410567, guid: b00ff456afa154c44a7f212b37ef7e74, type: 3}
+      propertyPath: follow4
+      value: 
+      objectReference: {fileID: 1881769073}
     - target: {fileID: 5190287927875410682, guid: b00ff456afa154c44a7f212b37ef7e74, type: 3}
       propertyPath: m_Name
       value: Player
