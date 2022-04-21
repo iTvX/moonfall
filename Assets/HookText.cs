@@ -13,6 +13,7 @@ public class HookText : MonoBehaviour
     public Text t_jump;
     public Text t_jump_2;
     public Text t_ladder;
+    public Text t_crouch;
     public bool e_pressed = false;
     public bool w_pressed = false;
 
@@ -70,16 +71,19 @@ public class HookText : MonoBehaviour
         t_jump_2 = GameObject.Find("Text (double jump)").GetComponent<Text>();
         t_hook = GameObject.Find("Text (hook)").GetComponent<Text>();
         t_ladder = GameObject.Find("Text (ladder)").GetComponent<Text>();
+        t_crouch = GameObject.Find("Text (crouch)").GetComponent<Text>();
 
         t_left.gameObject.SetActive(false);
         t_right.gameObject.SetActive(false);
         t_jump.gameObject.SetActive(false);
         t_jump_2.gameObject.SetActive(false);
+        t_crouch.gameObject.SetActive(false);
 
         t_left.text = "Press A to move left";
         t_right.text = "Press D to move right";
         t_jump.text = "Press space to jump";
         t_jump_2.text = "Press space twice for double jump!";
+        t_crouch.text = "Press S to crouch";
 
         t_hook.text = "";
         t_ladder.text = "";
@@ -87,12 +91,15 @@ public class HookText : MonoBehaviour
         t_right.GetComponent<Text>().color = Color.white;
         t_jump.GetComponent<Text>().color = Color.white;
         t_jump_2.GetComponent<Text>().color = Color.white;
+        t_crouch.GetComponent<Text>().color = Color.white;
+
 
         float body_x = body.transform.position.x;
         float body_y = body.transform.position.y;
         
         t_left.transform.position = new Vector3(body_x, body_y - 1.5f, 1);
         t_right.transform.position = new Vector3(body_x, body_y+1f, 1);
+        t_crouch.transform.position = new Vector3(body_x, body_y + 1.5f, 1);
         t_jump.transform.position = new Vector3(body_x, body_y - 2.2f, 1);
         t_jump_2.transform.position = new Vector3(body_x, body_y - 2.7f, 1);
 
@@ -100,6 +107,7 @@ public class HookText : MonoBehaviour
         t_right.gameObject.SetActive(true);
         t_jump.gameObject.SetActive(true);
         t_jump_2.gameObject.SetActive(true);
+        t_crouch.gameObject.SetActive(true);
 
 
 
@@ -122,6 +130,10 @@ public class HookText : MonoBehaviour
         }
         if (Input.GetKey(KeyCode.D)){
             t_right.gameObject.SetActive(false);
+        }
+        if (Input.GetKey(KeyCode.S))
+        {
+            t_crouch.gameObject.SetActive(false);
         }
         if (Input.GetKey(KeyCode.Space))
         {
