@@ -490,8 +490,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 371, y: 62.31006}
-  m_SizeDelta: {x: 635.41, y: 67.56}
+  m_AnchoredPosition: {x: 120, y: 58}
+  m_SizeDelta: {x: 138.59, y: 67.56}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &601646322
 MonoBehaviour:
@@ -546,7 +546,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: level3
+          m_StringArgument: SampleScene
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &601646323
@@ -994,8 +994,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 371, y: 140.34}
-  m_SizeDelta: {x: 635.41, y: 67.56}
+  m_AnchoredPosition: {x: 120, y: 136.56}
+  m_SizeDelta: {x: 142.18, y: 67.56}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1366944130
 MonoBehaviour:
@@ -1436,8 +1436,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 32, y: -290}
-  m_SizeDelta: {x: 1076.5415, y: 362.2103}
+  m_AnchoredPosition: {x: -28, y: -276}
+  m_SizeDelta: {x: 316.06, y: 157.74}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1696319704
 MonoBehaviour:
@@ -1572,8 +1572,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 515, y: 62.309998}
-  m_SizeDelta: {x: 571.2, y: 46.619995}
+  m_AnchoredPosition: {x: 271.06, y: 53.03}
+  m_SizeDelta: {x: 89.31, y: 57.62}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1701270619
 MonoBehaviour:
@@ -1862,8 +1862,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 371, y: 217.56}
-  m_SizeDelta: {x: 635.4, y: 67.56}
+  m_AnchoredPosition: {x: 120, y: 217}
+  m_SizeDelta: {x: 152.93, y: 67.56}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2111413413
 MonoBehaviour:
@@ -2015,6 +2015,6 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: SampleScene
+          m_StringArgument: level3
           m_BoolArgument: 0
         m_CallState: 2
