@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1588951732785609764}
   - component: {fileID: 7707281425632051827}
   - component: {fileID: 6343625613198446235}
+  - component: {fileID: 2628397571532578889}
   m_Layer: 0
   m_Name: Spike_Up (7)
   m_TagString: Spikes
@@ -96,7 +97,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -133,3 +134,15 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &2628397571532578889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2247557618057673465}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fd3e37af57ce4a12b78f4f743145a74, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

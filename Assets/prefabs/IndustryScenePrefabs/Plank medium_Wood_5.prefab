@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3972062904508428625}
   - component: {fileID: 5701278635508722516}
   - component: {fileID: 1153032370486050364}
+  - component: {fileID: 1152522069200157885}
   m_Layer: 0
   m_Name: Plank medium_Wood_5
   m_TagString: DisappearBlocks
@@ -133,3 +134,15 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &1152522069200157885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1060802393724370454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6000d5be634340a4a1a58e5d97b436a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
