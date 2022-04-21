@@ -413,7 +413,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &15070829
 Rigidbody2D:
   serializedVersion: 4
@@ -928,7 +928,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &31358481
 Rigidbody2D:
   serializedVersion: 4
@@ -1548,7 +1548,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!212 &36213697
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3232,7 +3232,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 8.82, y: 1.66}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &113918694
 Rigidbody2D:
   serializedVersion: 4
@@ -3440,7 +3440,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 2.15, y: 2.3}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &116044104
 Rigidbody2D:
   serializedVersion: 4
@@ -3573,7 +3573,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &117518723
 Rigidbody2D:
   serializedVersion: 4
@@ -3706,7 +3706,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &118172899
 Rigidbody2D:
   serializedVersion: 4
@@ -4056,7 +4056,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 0.9, y: 6.61}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &136576102
 Rigidbody2D:
   serializedVersion: 4
@@ -4174,7 +4174,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 2.15, y: 2.3}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &141961490
 Rigidbody2D:
   serializedVersion: 4
@@ -4328,7 +4328,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &144102367
 Rigidbody2D:
   serializedVersion: 4
@@ -4534,7 +4534,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &146372613
 Rigidbody2D:
   serializedVersion: 4
@@ -5097,7 +5097,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &177205116
 Rigidbody2D:
   serializedVersion: 4
@@ -5371,7 +5371,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 7.67, y: 9.7}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &194395901
 Rigidbody2D:
   serializedVersion: 4
@@ -6869,7 +6869,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 9.5, y: 2.37}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &243590689
 Rigidbody2D:
   serializedVersion: 4
@@ -7272,7 +7272,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 0.9, y: 6.61}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &252321656
 Rigidbody2D:
   serializedVersion: 4
@@ -7501,7 +7501,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 258885528}
   m_LocalRotation: {x: -0, y: -0, z: 0.0003369616, w: 1}
-  m_LocalPosition: {x: 44.677002, y: -60.6174, z: 22.100391}
+  m_LocalPosition: {x: 44.677063, y: -60.61725, z: 22.100391}
   m_LocalScale: {x: 2.11057, y: 2.11057, z: 2.11057}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7533,7 +7533,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.1183121}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &258885532
 Rigidbody2D:
   serializedVersion: 4
@@ -7948,7 +7948,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &261754127
 Rigidbody2D:
   serializedVersion: 4
@@ -8361,7 +8361,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 5.12, y: 2.04}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &272920206
 Rigidbody2D:
   serializedVersion: 4
@@ -8560,7 +8560,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &274577033
 Rigidbody2D:
   serializedVersion: 4
@@ -8781,7 +8781,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!212 &277185235
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8842,7 +8842,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 277185232}
   m_LocalRotation: {x: -0, y: -0, z: -0.0021691234, w: 0.9999977}
-  m_LocalPosition: {x: -23.729614, y: -60.619873, z: 22.100391}
+  m_LocalPosition: {x: -23.72931, y: -60.61911, z: 22.100391}
   m_LocalScale: {x: 1.1554009, y: 2.0521076, z: 1.1554009}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9065,7 +9065,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &293958851
 Rigidbody2D:
   serializedVersion: 4
@@ -10002,7 +10002,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 5.12, y: 2.04}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &315352701
 Rigidbody2D:
   serializedVersion: 4
@@ -11096,7 +11096,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 0.9, y: 6.61}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &337703737
 Rigidbody2D:
   serializedVersion: 4
@@ -11367,7 +11367,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &354862701
 Rigidbody2D:
   serializedVersion: 4
@@ -11715,7 +11715,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &365443957
 Rigidbody2D:
   serializedVersion: 4
@@ -12076,7 +12076,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &367927855
 Rigidbody2D:
   serializedVersion: 4
@@ -12290,7 +12290,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &373394777
 Rigidbody2D:
   serializedVersion: 4
@@ -12481,7 +12481,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 8.82, y: 1.66}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &374040204
 Rigidbody2D:
   serializedVersion: 4
@@ -12831,7 +12831,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!212 &382763559
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13793,7 +13793,7 @@ GameObject:
   - component: {fileID: 412106119}
   m_Layer: 0
   m_Name: Mine_Rock_3 (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14055,7 +14055,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &414878423
 Rigidbody2D:
   serializedVersion: 4
@@ -14188,7 +14188,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &416098965
 Rigidbody2D:
   serializedVersion: 4
@@ -14373,7 +14373,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 5.12, y: 2.04}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &417116315
 Rigidbody2D:
   serializedVersion: 4
@@ -14793,7 +14793,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 8.82, y: 1.66}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &432043740
 Rigidbody2D:
   serializedVersion: 4
@@ -15595,7 +15595,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 9.48, y: 3.4}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &455300659
 Rigidbody2D:
   serializedVersion: 4
@@ -15848,7 +15848,7 @@ GameObject:
   - component: {fileID: 455575140}
   m_Layer: 0
   m_Name: Mine_Rock_3 (4)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16115,7 +16115,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &457187902
 Rigidbody2D:
   serializedVersion: 4
@@ -16478,7 +16478,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 5.12, y: 2.04}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &467276191
 Rigidbody2D:
   serializedVersion: 4
@@ -16913,7 +16913,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 7.67, y: 9.7}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &474082585
 Rigidbody2D:
   serializedVersion: 4
@@ -17211,7 +17211,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &480840862
 Rigidbody2D:
   serializedVersion: 4
@@ -17622,7 +17622,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &496642242
 Rigidbody2D:
   serializedVersion: 4
@@ -17665,7 +17665,7 @@ GameObject:
   - component: {fileID: 500396502}
   m_Layer: 0
   m_Name: Mine_Rock_7 (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17922,7 +17922,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 7.06, y: 2.18}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &502668931
 Rigidbody2D:
   serializedVersion: 4
@@ -18054,7 +18054,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 2.32, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &503606018
 Rigidbody2D:
   serializedVersion: 4
@@ -19149,7 +19149,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &526895643
 Rigidbody2D:
   serializedVersion: 4
@@ -19667,7 +19667,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 9.89, y: 3.89}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &564430461
 Rigidbody2D:
   serializedVersion: 4
@@ -20887,7 +20887,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &611220926
 Rigidbody2D:
   serializedVersion: 4
@@ -23594,7 +23594,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!212 &684719375
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -23796,7 +23796,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.0059385}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!212 &690949663
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -25153,7 +25153,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 7.06, y: 2.13}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &751829850
 Rigidbody2D:
   serializedVersion: 4
@@ -25672,7 +25672,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &754246215
 Rigidbody2D:
   serializedVersion: 4
@@ -26221,7 +26221,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &764886313
 Rigidbody2D:
   serializedVersion: 4
@@ -26781,7 +26781,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &786617843
 Rigidbody2D:
   serializedVersion: 4
@@ -28064,7 +28064,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &822696920
 Rigidbody2D:
   serializedVersion: 4
@@ -28816,7 +28816,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &853955382
 Rigidbody2D:
   serializedVersion: 4
@@ -28904,7 +28904,7 @@ GameObject:
   - component: {fileID: 854932092}
   m_Layer: 0
   m_Name: Mine_Rock_7 (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29990,7 +29990,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 5.12, y: 2.04}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &886941003
 Rigidbody2D:
   serializedVersion: 4
@@ -30173,7 +30173,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &892484148
 Rigidbody2D:
   serializedVersion: 4
@@ -30933,7 +30933,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &926795787
 Rigidbody2D:
   serializedVersion: 4
@@ -32014,7 +32014,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 7.67, y: 9.7}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &945908764
 Rigidbody2D:
   serializedVersion: 4
@@ -32336,7 +32336,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 5.54, y: 1.02}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &956111310
 Rigidbody2D:
   serializedVersion: 4
@@ -32734,7 +32734,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 0.9, y: 6.61}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &962652007
 Rigidbody2D:
   serializedVersion: 4
@@ -32853,7 +32853,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 7.06, y: 2.13}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &962920360
 Rigidbody2D:
   serializedVersion: 4
@@ -34035,7 +34035,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.0163026}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!212 &1006402280
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -34096,7 +34096,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1006402277}
   m_LocalRotation: {x: -0, y: -0, z: -0.19302705, w: 0.9811934}
-  m_LocalPosition: {x: -26.724487, y: -56.848633, z: 22.100391}
+  m_LocalPosition: {x: -26.724182, y: -56.8479, z: 22.100391}
   m_LocalScale: {x: 2.0068798, y: 2.0068798, z: 2.0068798}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -34485,7 +34485,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 9.5, y: 2.37}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1008966046
 Rigidbody2D:
   serializedVersion: 4
@@ -35084,7 +35084,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1019290607
 Rigidbody2D:
   serializedVersion: 4
@@ -35869,7 +35869,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 2.15, y: 2.3}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1042624098
 Rigidbody2D:
   serializedVersion: 4
@@ -36268,7 +36268,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 7.06, y: 2.13}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1081429132
 Rigidbody2D:
   serializedVersion: 4
@@ -36413,7 +36413,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1088417732
 Rigidbody2D:
   serializedVersion: 4
@@ -36667,7 +36667,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 1.9592018}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1092639768
 Rigidbody2D:
   serializedVersion: 4
@@ -36749,7 +36749,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1092639766}
   m_LocalRotation: {x: -0, y: -0, z: 0.0003369616, w: 1}
-  m_LocalPosition: {x: -7.159607, y: -60.559845, z: 22.100391}
+  m_LocalPosition: {x: -7.159363, y: -60.559235, z: 22.100391}
   m_LocalScale: {x: 2.11057, y: 2.11057, z: 2.11057}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -36972,7 +36972,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1111614203
 Rigidbody2D:
   serializedVersion: 4
@@ -37462,7 +37462,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1121217292
 Rigidbody2D:
   serializedVersion: 4
@@ -38028,7 +38028,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 5.54, y: 1.02}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1154822037
 Rigidbody2D:
   serializedVersion: 4
@@ -38325,7 +38325,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 9.89, y: 3.89}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1164702082
 Rigidbody2D:
   serializedVersion: 4
@@ -39331,7 +39331,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1229042531
 Rigidbody2D:
   serializedVersion: 4
@@ -39743,7 +39743,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1234444821
 Rigidbody2D:
   serializedVersion: 4
@@ -39945,7 +39945,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 5.12, y: 2.04}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1234784251
 Rigidbody2D:
   serializedVersion: 4
@@ -40304,7 +40304,7 @@ GameObject:
   - component: {fileID: 1257184060}
   m_Layer: 0
   m_Name: Mine_Rock_3 (3)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40574,7 +40574,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 7.06, y: 2.18}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!1 &1261904176
 GameObject:
   m_ObjectHideFlags: 0
@@ -40851,7 +40851,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 2.15, y: 2.3}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1271689570
 Rigidbody2D:
   serializedVersion: 4
@@ -41339,7 +41339,10 @@ MonoBehaviour:
   t_right: {fileID: 55641651}
   t_hook: {fileID: 719135032}
   t_jump: {fileID: 1073360352}
+  t_jump_2: {fileID: 0}
+  t_ladder: {fileID: 0}
   e_pressed: 0
+  w_pressed: 0
 --- !u!1 &1293625778
 GameObject:
   m_ObjectHideFlags: 0
@@ -41604,7 +41607,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 5.12, y: 2.04}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1299164186
 Rigidbody2D:
   serializedVersion: 4
@@ -41788,7 +41791,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1304854023
 Rigidbody2D:
   serializedVersion: 4
@@ -42185,7 +42188,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 19.86, y: 4.34}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!212 &1315200183
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -43330,7 +43333,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 1.9740295}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!212 &1344488998
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -44500,7 +44503,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1365029311
 Rigidbody2D:
   serializedVersion: 4
@@ -44834,7 +44837,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1377148333
 Rigidbody2D:
   serializedVersion: 4
@@ -45237,7 +45240,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 0.9, y: 6.61}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1395465520
 Rigidbody2D:
   serializedVersion: 4
@@ -45783,7 +45786,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1432662449
 Rigidbody2D:
   serializedVersion: 4
@@ -45997,7 +46000,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 0.9, y: 6.61}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1438221932
 Rigidbody2D:
   serializedVersion: 4
@@ -46130,7 +46133,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1440570198
 Rigidbody2D:
   serializedVersion: 4
@@ -47064,7 +47067,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1479967554
 Rigidbody2D:
   serializedVersion: 4
@@ -47434,7 +47437,7 @@ GameObject:
   - component: {fileID: 1484247430}
   m_Layer: 0
   m_Name: Mine_Rock_3 (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47834,7 +47837,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 5.12, y: 2.04}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1492723342
 Rigidbody2D:
   serializedVersion: 4
@@ -48559,7 +48562,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1496651189
 Rigidbody2D:
   serializedVersion: 4
@@ -48887,7 +48890,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 5.12, y: 2.04}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1510732849
 Rigidbody2D:
   serializedVersion: 4
@@ -49566,7 +49569,7 @@ GameObject:
   - component: {fileID: 1534432285}
   m_Layer: 0
   m_Name: Mine_Rock_7 (5)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49907,7 +49910,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1540929890
 Rigidbody2D:
   serializedVersion: 4
@@ -50812,7 +50815,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 1.9809515}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1584902376
 Rigidbody2D:
   serializedVersion: 4
@@ -50894,7 +50897,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1584902374}
   m_LocalRotation: {x: -0, y: -0, z: 0.0003369616, w: 1}
-  m_LocalPosition: {x: 14.450378, y: -60.559845, z: 22.100391}
+  m_LocalPosition: {x: 14.450562, y: -60.559418, z: 22.100391}
   m_LocalScale: {x: 2.11057, y: 2.11057, z: 2.11057}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -51102,7 +51105,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!60 &1608523092
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -52906,7 +52909,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1658062113
 Rigidbody2D:
   serializedVersion: 4
@@ -53124,7 +53127,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1663221117
 Rigidbody2D:
   serializedVersion: 4
@@ -53751,7 +53754,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1675184318
 Rigidbody2D:
   serializedVersion: 4
@@ -54393,7 +54396,7 @@ GameObject:
   - component: {fileID: 1698033240}
   m_Layer: 0
   m_Name: Mine_Rock_7
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -54805,7 +54808,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 0.9, y: 6.61}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1707734177
 Rigidbody2D:
   serializedVersion: 4
@@ -55241,7 +55244,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 1, y: 5.2}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1717975964
 Rigidbody2D:
   serializedVersion: 4
@@ -55906,7 +55909,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1737263771
 Rigidbody2D:
   serializedVersion: 4
@@ -56315,7 +56318,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1767699888
 Rigidbody2D:
   serializedVersion: 4
@@ -56550,7 +56553,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 15.42, y: 2.32}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1789511025
 Rigidbody2D:
   serializedVersion: 4
@@ -57997,7 +58000,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 7.67, y: 9.7}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1818579060
 Rigidbody2D:
   serializedVersion: 4
@@ -58971,7 +58974,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 8.82, y: 1.66}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1838609039
 Rigidbody2D:
   serializedVersion: 4
@@ -60351,7 +60354,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 9.89, y: 3.89}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1882886188
 Rigidbody2D:
   serializedVersion: 4
@@ -60644,7 +60647,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1885367275
 Rigidbody2D:
   serializedVersion: 4
@@ -61069,7 +61072,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1893722110
 Rigidbody2D:
   serializedVersion: 4
@@ -61910,7 +61913,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1923056267
 Rigidbody2D:
   serializedVersion: 4
@@ -63581,7 +63584,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!60 &1973225084
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -63794,7 +63797,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1981837407
 Rigidbody2D:
   serializedVersion: 4
@@ -64129,7 +64132,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &1993485451
 Rigidbody2D:
   serializedVersion: 4
@@ -64549,7 +64552,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 5.12, y: 2.04}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &2000510783
 Rigidbody2D:
   serializedVersion: 4
@@ -64941,7 +64944,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &2007654821
 Rigidbody2D:
   serializedVersion: 4
@@ -65988,7 +65991,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &2043606128
 Rigidbody2D:
   serializedVersion: 4
@@ -66508,7 +66511,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 7.67, y: 9.7}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &2055089266
 Rigidbody2D:
   serializedVersion: 4
@@ -67190,7 +67193,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 0.9, y: 6.61}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &2061598815
 Rigidbody2D:
   serializedVersion: 4
@@ -67564,7 +67567,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &2077488343
 Rigidbody2D:
   serializedVersion: 4
@@ -68262,7 +68265,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 9.5, y: 2.37}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &2087899999
 Rigidbody2D:
   serializedVersion: 4
@@ -68719,7 +68722,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 7.06, y: 2.18}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &2107473707
 Rigidbody2D:
   serializedVersion: 4
@@ -68890,7 +68893,7 @@ GameObject:
   - component: {fileID: 2114467433}
   m_Layer: 0
   m_Name: Mine_Rock_3
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -69522,7 +69525,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &2121050483
 Rigidbody2D:
   serializedVersion: 4
@@ -69991,7 +69994,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.24, y: 2.33}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &2126127688
 Rigidbody2D:
   serializedVersion: 4
@@ -70192,7 +70195,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.27, y: 1.82}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &2126262174
 Rigidbody2D:
   serializedVersion: 4
@@ -70607,7 +70610,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 2.15, y: 2.3}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 0.3
 --- !u!50 &2143866778
 Rigidbody2D:
   serializedVersion: 4
