@@ -23,9 +23,9 @@ public class RabbitMove : MonoBehaviour
     private Vector3 lastPosition;
     private float totalDistance;
     public int jumpCount = 1;
-    public Text distance;
-    public Text height;
-    public Text Timecount;
+    //public Text distance;
+    //public Text height;
+    //public Text Timecount;
     private Vector3 startpoint;
     private Vector3 lastfallpoint;
     private int currentheight = 0;
@@ -161,9 +161,9 @@ public class RabbitMove : MonoBehaviour
             inFalling = false;  // Set inFalling flag to false, so we can record next fall
         }
 
-        distance.text = "Total Distance: " + intDistance.ToString() + "m";
-        height.text = "Height: " + currentheight.ToString() + "m";
-        Timecount.text = "Time: " + intTimer.ToString() + "s";
+        //distance.text = "Total Distance: " + intDistance.ToString() + "m";
+        //height.text = "Height: " + currentheight.ToString() + "m";
+        //Timecount.text = "Time: " + intTimer.ToString() + "s";
 
     }
     //private void OnCollisionEnter2D(Collision2D collision)
