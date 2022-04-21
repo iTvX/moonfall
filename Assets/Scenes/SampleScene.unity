@@ -18160,7 +18160,7 @@ GameObject:
   - component: {fileID: 506866974}
   m_Layer: 0
   m_Name: SpriteShapeProfile_Mine_Rope_01 (26)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21527,7 +21527,7 @@ GameObject:
   - component: {fileID: 622683729}
   m_Layer: 0
   m_Name: SpriteShapeProfile_Mine_Rope_01
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46386,7 +46386,7 @@ GameObject:
   - component: {fileID: 1446670606}
   m_Layer: 0
   m_Name: SpriteShapeProfile_Mine_Rope_01 (27)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48341,7 +48341,7 @@ GameObject:
   - component: {fileID: 1496611192}
   m_Layer: 0
   m_Name: SpriteShapeProfile_Mine_Rope_01 (28)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
