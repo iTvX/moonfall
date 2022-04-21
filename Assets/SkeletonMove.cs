@@ -85,17 +85,21 @@ public class SkeletonMove : MonoBehaviour
         ClimbLadder();
         
         Vector3 movement = new Vector3(Input.GetAxis("Horizontal"), 0f, 0f);
-        if(movement.x > 0 && facingRight)
-        {
-            Flip();
-        }
-        else if(movement.x < 0 && !facingRight)
-        {
-            Flip();
-        }
-        animator.SetFloat("speed", Mathf.Abs(movement.x));
         
-        transform.position += movement * Time.deltaTime * moveSpeed;
+        if (!inThrowing)
+        {
+            animator.SetFloat("speed", Mathf.Abs(movement.x));
+
+            transform.position += movement * Time.deltaTime * moveSpeed;
+            if (movement.x > 0 && facingRight)
+            {
+                Flip();
+            }
+            else if (movement.x < 0 && !facingRight)
+            {
+                Flip();
+            }
+        }
         //�����г�
         Vector3 Julicha = transform.position - lastPosition;
         // if the user falls, stop tracking last fall position.

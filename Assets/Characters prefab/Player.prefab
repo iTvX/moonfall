@@ -67,6 +67,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Skeleton Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 3023512823720676840, guid: 762e1cfd7787c4c81a606a808efa0396, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3023512823720676843, guid: 762e1cfd7787c4c81a606a808efa0396, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -130,50 +134,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5190287927875410564}
     m_Modifications:
-    - target: {fileID: 6048822751787214461, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
-      propertyPath: cam
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6048822751787214461, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
-      propertyPath: line
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6048822751787214461, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
-      propertyPath: mask.m_Bits
-      value: 375
-      objectReference: {fileID: 0}
-    - target: {fileID: 6048822751787214462, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
-      propertyPath: m_Distance
-      value: 0.005
-      objectReference: {fileID: 0}
-    - target: {fileID: 6048822751787214462, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
-      propertyPath: m_EnableCollision
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6048822751787214462, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
-      propertyPath: m_ConnectedAnchor.x
-      value: 1030.6064
-      objectReference: {fileID: 0}
-    - target: {fileID: 6048822751787214462, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
-      propertyPath: m_ConnectedAnchor.y
-      value: -357.9434
-      objectReference: {fileID: 0}
-    - target: {fileID: 6048822751787214462, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
-      propertyPath: m_AutoConfigureConnectedAnchor
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8204957497655451354, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
-      propertyPath: jumpCount
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 8204957497655451354, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
-      propertyPath: climbSpeed
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 8204957497655451354, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
-      propertyPath: CrouchDisableCollider
-      value: 
-      objectReference: {fileID: 4168721378754119974}
     - target: {fileID: 8204957497655451355, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -222,17 +182,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ninja
       objectReference: {fileID: 0}
-    - target: {fileID: 8204957497655451356, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
-      propertyPath: m_Layer
-      value: 7
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
---- !u!61 &4168721378754119974 stripped
-BoxCollider2D:
-  m_CorrespondingSourceObject: {fileID: 8204957497655451335, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
-  m_PrefabInstance: {fileID: 5190287925758728161}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &4168721378754119994 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8204957497655451355, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
@@ -243,22 +194,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 8204957497655451356, guid: ef3c87b8879129b4eab4fe720f69ab16, type: 3}
   m_PrefabInstance: {fileID: 5190287925758728161}
   m_PrefabAsset: {fileID: 0}
---- !u!58 &2014841178418326178
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4168721378754119997}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.15168, y: -0.5356903}
-  serializedVersion: 2
-  m_Radius: 0.43870544
 --- !u!1001 &5190287927104763512
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -266,18 +201,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5190287927875410564}
     m_Modifications:
-    - target: {fileID: 7563595133037107808, guid: 3457e92cf38cebc46a8597bb3ceedae2, type: 3}
-      propertyPath: height
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 7563595133037107808, guid: 3457e92cf38cebc46a8597bb3ceedae2, type: 3}
-      propertyPath: distance
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 7563595133037107808, guid: 3457e92cf38cebc46a8597bb3ceedae2, type: 3}
-      propertyPath: Timecount
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 7563595133037107809, guid: 3457e92cf38cebc46a8597bb3ceedae2, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -326,10 +249,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bat
       objectReference: {fileID: 0}
-    - target: {fileID: 7563595133037107814, guid: 3457e92cf38cebc46a8597bb3ceedae2, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3457e92cf38cebc46a8597bb3ceedae2, type: 3}
 --- !u!4 &2373628923144514585 stripped
@@ -352,10 +271,6 @@ PrefabInstance:
     - target: {fileID: 2279235010501068264, guid: 1b1e68a1ab04e6441908bfb950c3d1ff, type: 3}
       propertyPath: m_Name
       value: Rabbit
-      objectReference: {fileID: 0}
-    - target: {fileID: 2279235010501068264, guid: 1b1e68a1ab04e6441908bfb950c3d1ff, type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2279235010501068265, guid: 1b1e68a1ab04e6441908bfb950c3d1ff, type: 3}
       propertyPath: m_RootOrder

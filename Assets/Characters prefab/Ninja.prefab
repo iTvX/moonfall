@@ -87,7 +87,9 @@ GameObject:
   - component: {fileID: 8204957497655451354}
   - component: {fileID: 6048822751787214462}
   - component: {fileID: 6048822751787214461}
-  m_Layer: 0
+  - component: {fileID: 2014841178418326178}
+  - component: {fileID: 742117040}
+  m_Layer: 7
   m_Name: Ninja
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -242,16 +244,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 8204957497655451353}
-  CrouchDisableCollider: {fileID: 0}
+  CrouchDisableCollider: {fileID: 8204957497655451335}
   moveSpeed: 7
-  climbSpeed: 0.5
+  climbSpeed: 2
   jumpForce: 5
   playerGravity: 1
   isGrounded: 0
-  jumpCount: 1
+  jumpCount: 2
   distance: {fileID: 0}
   height: {fileID: 0}
   Timecount: {fileID: 0}
+  isHook: 0
 --- !u!232 &6048822751787214462
 DistanceJoint2D:
   m_ObjectHideFlags: 0
@@ -261,15 +264,15 @@ DistanceJoint2D:
   m_GameObject: {fileID: 8204957497655451356}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 0
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 0, y: 0}
+  m_ConnectedAnchor: {x: 1030.6064, y: -357.9434}
   m_AutoConfigureDistance: 1
-  m_Distance: 1090.9963
+  m_Distance: 69.46378
   m_MaxDistanceOnly: 0
 --- !u!114 &6048822751787214461
 MonoBehaviour:
@@ -288,5 +291,33 @@ MonoBehaviour:
   distance: 7
   mask:
     serializedVersion: 2
-    m_Bits: 119
+    m_Bits: 375
   step: 0.2
+--- !u!58 &2014841178418326178
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8204957497655451356}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.15168, y: -0.5356903}
+  serializedVersion: 2
+  m_Radius: 0.43870544
+--- !u!114 &742117040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8204957497655451356}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77831c4112d8bb84ebf8136032b0c104, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
