@@ -29,9 +29,9 @@ public class SkeletonMove : MonoBehaviour
     private Vector3 lastPosition;
     private float totalDistance;
     public int jumpCount = 1;
-    public Text distance;
-    public Text height;
-    public Text Timecount;
+    //public Text distance;
+    //public Text height;
+    //public Text Timecount;
     private Vector3 startpoint;
     private Vector3 lastfallpoint;
     private int currentheight = 0;
