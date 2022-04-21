@@ -95,7 +95,7 @@ public class NinjaMove : MonoBehaviour
         {
             Flip();
         }
-        if (!isHook)
+        if (isHook == false && isCrouch == false)
         {
             animator.SetFloat("speed", Mathf.Abs(movement.x));
 

@@ -47,19 +47,19 @@ MonoBehaviour:
   sounds:
   - name: fs1
     clip: {fileID: 8300000, guid: e84805bb0ffe0d24e8164de0e9c055dd, type: 3}
-    volume: 0.7
+    volume: 0.4
     pitch: 1
     source: {fileID: 0}
     loop: 0
   - name: fs2
     clip: {fileID: 8300000, guid: f18458bd2fdcb2d49a289fa6f23a87fe, type: 3}
-    volume: 0.7
+    volume: 0.4
     pitch: 1
     source: {fileID: 0}
     loop: 0
   - name: fs3
     clip: {fileID: 8300000, guid: 1bb8e125ef8ba9b4e8369355331d0c36, type: 3}
-    volume: 0.7
+    volume: 0.4
     pitch: 1
     source: {fileID: 0}
     loop: 0

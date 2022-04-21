@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1588951732785609764}
   - component: {fileID: 7707281425632051827}
   - component: {fileID: 6343625613198446235}
-  - component: {fileID: 2628397571532578889}
+  - component: {fileID: 2073829044}
   m_Layer: 0
   m_Name: Spike_Up (7)
   m_TagString: Spikes
@@ -27,7 +27,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2247557618057673465}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -11.54, y: -4.66, z: -1.3824996}
   m_LocalScale: {x: 1.0000162, y: 2.5596945, z: 1}
   m_ConstrainProportionsScale: 0
@@ -134,7 +134,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &2628397571532578889
+--- !u!114 &2073829044
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
