@@ -33,7 +33,7 @@ public class SceneStart : MonoBehaviour
         if (scenename == "level3")
         {
 
-            pos.x = 581.83f;
+            pos.x = 578.83f;
             pos.y = -362.75f;
         }
         if (scenename == "IndustryScene")
