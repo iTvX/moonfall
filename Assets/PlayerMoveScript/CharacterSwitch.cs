@@ -14,7 +14,7 @@ public class CharacterSwitch : MonoBehaviour
 
     private Vector3 trackposition;
 
-    private int whichcharacter;
+    
 
 
 
@@ -29,7 +29,6 @@ public class CharacterSwitch : MonoBehaviour
         follow2.gameObject.SetActive(false);
         follow3.gameObject.SetActive(false);
         follow4.gameObject.SetActive(false);
-        whichcharacter = 1;
 
     }
 
