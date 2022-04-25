@@ -9,7 +9,7 @@ using UnityEngine.Analytics;
 #endif
 public class NinjaMove : MonoBehaviour
 {
-    
+    grapplingHook GH;
     public Animator animator;
     private BoxCollider2D character;
     private Rigidbody2D rigidbody2D;
@@ -59,6 +59,7 @@ public class NinjaMove : MonoBehaviour
     // Start is called before the first frame update
     async void Start()
     {
+        GH = GameObject.Find("Ninja").GetComponent<grapplingHook>();
         lastfallpoint = transform.position;
         startpoint = transform.position;
         lastPosition = transform.position;
@@ -69,6 +70,7 @@ public class NinjaMove : MonoBehaviour
         playerGravity = rigidbody2D.gravityScale;
         cp = GameObject.FindGameObjectWithTag("CP").GetComponent<CheckPoints>();
         transform.position = cp.lastCheckPointPos;
+
         
     }
 
@@ -252,13 +254,13 @@ public class NinjaMove : MonoBehaviour
     }
     void CheckHook()
     {
-        if (Input.GetKeyDown(KeyCode.E))
+        if (GH.hooking == true)
         {
             isHook = true;
             animator.SetBool("ishook", true);
             Debug.Log("hooking!");
         }
-        else if(Input.GetKeyUp(KeyCode.E))
+        else if(GH.hooking == false)
         {
             isHook = false;
             animator.SetBool("ishook", false);

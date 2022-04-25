@@ -18,6 +18,7 @@ public class grapplingHook : MonoBehaviour
     Vector2 anchorPos;
     Vector2 lookDirection;
     Vector2 connectPoint;
+    public bool hooking = false;
 
     // Use this for initialization
     void Start()
@@ -74,7 +75,7 @@ public class grapplingHook : MonoBehaviour
                 print(hit.point);
                 print("hit");
                 // print("hit point: "+hit.point);
-
+                hooking = true;
                 joint.enabled = true;
                 transform.GetComponent<NinjaMove>().isHook = true;
                 transform.parent = hit.collider.transform;
@@ -122,6 +123,7 @@ public class grapplingHook : MonoBehaviour
         {
             transform.parent = null;
             joint.enabled = false;
+            hooking = false;
             transform.GetComponent<NinjaMove>().isHook = false;
             line.enabled = false;
         }
