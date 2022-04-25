@@ -574,7 +574,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &10899835
 Transform:
   m_ObjectHideFlags: 0
@@ -1033,7 +1033,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &18861911
 Transform:
   m_ObjectHideFlags: 0
@@ -1856,7 +1856,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &84813915
 Transform:
   m_ObjectHideFlags: 0
@@ -3889,7 +3889,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &226840396
 Transform:
   m_ObjectHideFlags: 0
@@ -5653,7 +5653,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 3.0056658, y: 1}
+    m_SensorSize: {x: 1.8986666, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -5876,7 +5876,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &318126349
 Transform:
   m_ObjectHideFlags: 0
@@ -7176,7 +7176,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &370218960
 Transform:
   m_ObjectHideFlags: 0
@@ -7812,8 +7812,8 @@ LineRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 0.003693494, g: 0.2556586, b: 0.7830189, a: 1}
-      key1: {r: 1, g: 1, b: 1, a: 1}
+      key0: {r: 0, g: 0, b: 0, a: 1}
+      key1: {r: 0, g: 0, b: 0, a: 1}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
       key4: {r: 0, g: 0, b: 0, a: 0}
@@ -7836,7 +7836,7 @@ LineRenderer:
       atime5: 0
       atime6: 0
       atime7: 0
-      m_Mode: 0
+      m_Mode: 1
       m_NumColorKeys: 2
       m_NumAlphaKeys: 2
     numCornerVertices: 0
@@ -8013,7 +8013,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &399237054
 Transform:
   m_ObjectHideFlags: 0
@@ -8274,7 +8274,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &411481110
 Transform:
   m_ObjectHideFlags: 0
@@ -8441,7 +8441,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &415708418
 Transform:
   m_ObjectHideFlags: 0
@@ -12175,7 +12175,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &613341603
 Transform:
   m_ObjectHideFlags: 0
@@ -14478,7 +14478,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &733538478
 Transform:
   m_ObjectHideFlags: 0
@@ -15176,7 +15176,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &759699169
 Transform:
   m_ObjectHideFlags: 0
@@ -17128,7 +17128,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &899612657
 Transform:
   m_ObjectHideFlags: 0
@@ -18538,7 +18538,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &977489627
 Transform:
   m_ObjectHideFlags: 0
@@ -23834,7 +23834,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 3.0056658, y: 1}
+    m_SensorSize: {x: 1.8986666, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -26006,7 +26006,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 3.0056658, y: 1}
+    m_SensorSize: {x: 1.8986666, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -26110,7 +26110,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 3.0056658, y: 1}
+    m_SensorSize: {x: 1.8986666, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -26816,7 +26816,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &1508248934
 Transform:
   m_ObjectHideFlags: 0
@@ -27812,7 +27812,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &1545762951
 Transform:
   m_ObjectHideFlags: 0
@@ -30437,7 +30437,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &1723862763
 Transform:
   m_ObjectHideFlags: 0
@@ -33758,7 +33758,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &1941977680
 Transform:
   m_ObjectHideFlags: 0
@@ -34347,9 +34347,9 @@ EdgeCollider2D:
   - {x: 116.55992, y: -66.74708}
   - {x: 116.65274, y: -68.32305}
   - {x: 116.24996, y: -68.76385}
-  - {x: -2.8759727, y: -69.280525}
-  - {x: -4.1370797, y: -69.287895}
-  - {x: -4.4152145, y: -68.057594}
+  - {x: -2.875927, y: -69.280525}
+  - {x: -4.1371093, y: -69.287895}
+  - {x: -4.4152126, y: -68.0576}
   - {x: -12.652274, y: -35.09025}
   - {x: -12.773612, y: -34.741924}
   - {x: -12.920302, y: -34.283276}
@@ -38400,7 +38400,7 @@ SpriteShapeRenderer:
   - {fileID: 0}
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 3.165, y: 3.165, z: 0}
+    m_Extent: {x: 3.1650004, y: 3.165, z: 0}
 --- !u!4 &2145730275
 Transform:
   m_ObjectHideFlags: 0
