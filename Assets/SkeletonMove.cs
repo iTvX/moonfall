@@ -131,9 +131,12 @@ public class SkeletonMove : MonoBehaviour
 
         if(Input.GetKeyDown(KeyCode.E)){
 
-            throwing();
-            animator.SetBool("isThrowing", true);
-            inThrowing = true;
+            if (!inThrowing)
+            {
+                throwing();
+                animator.SetBool("isThrowing", true);
+                inThrowing = true;
+            }
         }
         if(!inThrowing)
         {
