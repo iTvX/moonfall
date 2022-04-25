@@ -15157,7 +15157,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.5307292, y: 1}
+    m_SensorSize: {x: 1.7777778, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -15174,7 +15174,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 314978142}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 756.07, y: -245.5, z: -10.637446}
+  m_LocalPosition: {x: 578.97, y: -364.2, z: -10.637446}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -33608,11 +33608,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4168721378754119994, guid: b00ff456afa154c44a7f212b37ef7e74, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -10.5
+      value: -187.6
       objectReference: {fileID: 0}
     - target: {fileID: 4168721378754119994, guid: b00ff456afa154c44a7f212b37ef7e74, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.4
+      value: -115.3
       objectReference: {fileID: 0}
     - target: {fileID: 5190287927875410564, guid: b00ff456afa154c44a7f212b37ef7e74, type: 3}
       propertyPath: m_RootOrder
@@ -62852,7 +62852,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.5307292, y: 1}
+    m_SensorSize: {x: 1.7777778, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -68806,7 +68806,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.5307292, y: 1}
+    m_SensorSize: {x: 1.7777778, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -68910,7 +68910,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.5307292, y: 1}
+    m_SensorSize: {x: 1.7777778, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -88836,7 +88836,7 @@ GameObject:
   - component: {fileID: 1884134957}
   - component: {fileID: 1884134956}
   - component: {fileID: 1884134961}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Mechanical_Wheel_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
