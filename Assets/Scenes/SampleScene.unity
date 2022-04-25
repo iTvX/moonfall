@@ -40320,11 +40320,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2972193395689178927, guid: 4461f9c60edcb08478b0357ace2acdb8, type: 3}
       propertyPath: lastCheckPointPos.x
-      value: 1024
+      value: 957
       objectReference: {fileID: 0}
     - target: {fileID: 2972193395689178927, guid: 4461f9c60edcb08478b0357ace2acdb8, type: 3}
       propertyPath: lastCheckPointPos.y
-      value: -220
+      value: -371
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4461f9c60edcb08478b0357ace2acdb8, type: 3}
