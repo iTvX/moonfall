@@ -3129,7 +3129,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.0790699, y: 1}
+    m_SensorSize: {x: 1.9721973, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -14470,7 +14470,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.0790699, y: 1}
+    m_SensorSize: {x: 1.9721973, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -35423,6 +35423,10 @@ PrefabInstance:
     - target: {fileID: 4784104166177043244, guid: e85c6bb5d0f0470499995896bbb58662, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4784104166754059886, guid: e85c6bb5d0f0470499995896bbb58662, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: IndustryScene
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e85c6bb5d0f0470499995896bbb58662, type: 3}
@@ -63119,7 +63123,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.0790699, y: 1}
+    m_SensorSize: {x: 1.9721973, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -90862,7 +90866,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.0790699, y: 1}
+    m_SensorSize: {x: 1.9721973, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
