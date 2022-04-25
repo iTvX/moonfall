@@ -57666,7 +57666,7 @@ GameObject:
   - component: {fileID: 1812778492}
   m_Layer: 0
   m_Name: Mine_Rock_2 (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
