@@ -5178,6 +5178,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2045247587376688290, guid: 9e8e84de601df9c4490461cf4716b8cc, type: 3}
+      propertyPath: GM
+      value: 
+      objectReference: {fileID: 1243094350}
     - target: {fileID: 2045247587376688297, guid: 9e8e84de601df9c4490461cf4716b8cc, type: 3}
       propertyPath: m_Name
       value: LastLevelFinishMenu
@@ -40328,6 +40332,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4461f9c60edcb08478b0357ace2acdb8, type: 3}
+--- !u!1 &1243094350 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2972193395689178913, guid: 4461f9c60edcb08478b0357ace2acdb8, type: 3}
+  m_PrefabInstance: {fileID: 1243094349}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1252407716
 GameObject:
   m_ObjectHideFlags: 0
